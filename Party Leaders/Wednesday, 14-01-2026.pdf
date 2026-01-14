@@ -2,7 +2,7 @@
 %“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 111 0 R
+/F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 125 0 R
 >>
 endobj
 2 0 obj
@@ -85,7 +85,7 @@ endobj
 endobj
 14 0 obj
 <<
-/Annots [ 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R ] /Contents 130 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 129 0 R /Resources <<
+/Annots [ 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R ] /Contents 144 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 143 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -194,14 +194,21 @@ endobj
 29 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.independent.co.uk/news/uk/politics/keir-starmer-u-turn-digital-id-labour-b2900161.html)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 127.0719 454.8229 139.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.theguardian.com/uk-news/2026/jan/14/keir-starmer-promises-action-damien-egan-cancellation-jewish-mp-school-visit)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 99.07185 530.8279 111.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 30 0 obj
 <<
+/A <<
+/S /URI /Type /Action /URI (https://www.theguardian.com/uk-news/2026/jan/14/keir-starmer-promises-action-damien-egan-cancellation-jewish-mp-school-visit)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 87.07185 110.1949 99.07185 ] /Subtype /Link /Type /Annot
+>>
+endobj
+31 0 obj
+<<
 /Annots [ 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R 24 0 R 
-  25 0 R 26 0 R 27 0 R 28 0 R 29 0 R ] /Contents 131 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 129 0 R /Resources <<
+  25 0 R 26 0 R 27 0 R 28 0 R 29 0 R 30 0 R ] /Contents 145 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 143 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -209,87 +216,79 @@ endobj
 >> /Type /Page
 >>
 endobj
-31 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://www.express.co.uk/news/politics/2157689/keir-starmer-pmqs-chagos-island)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 769.0719 392.2909 781.0719 ] /Subtype /Link /Type /Annot
->>
-endobj
 32 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15463035/Waffling-Starmer-mauled-shambolic-ID-cards-U-turn-brutal-PMQs-furious-Labour-MPs-say-defend-government-policies.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 662.3969 531.2869 673.1969 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.independent.co.uk/news/uk/politics/keir-starmer-u-turn-digital-id-labour-b2900161.html)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 717.0719 454.8229 729.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 33 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15463035/Waffling-Starmer-mauled-shambolic-ID-cards-U-turn-brutal-PMQs-furious-Labour-MPs-say-defend-government-policies.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 650.3969 493.6129 661.1969 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.express.co.uk/news/politics/2157689/keir-starmer-pmqs-chagos-island)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 639.0719 392.2909 651.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 34 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.ft.com/content/ddffc1e8-9579-4243-ad4b-6bf8a781e618)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 573.0719 334.8439 585.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15463035/Waffling-Starmer-mauled-shambolic-ID-cards-U-turn-brutal-PMQs-furious-Labour-MPs-say-defend-government-policies.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 532.3969 531.2869 543.1969 ] /Subtype /Link /Type /Annot
 >>
 endobj
 35 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15462413/home-office-trump-style-tiktok-immigration-crackdown.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 480.3969 531.3049 491.1969 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15463035/Waffling-Starmer-mauled-shambolic-ID-cards-U-turn-brutal-PMQs-furious-Labour-MPs-say-defend-government-policies.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 520.3969 493.6129 531.1969 ] /Subtype /Link /Type /Annot
 >>
 endobj
 36 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15462413/home-office-trump-style-tiktok-immigration-crackdown.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 468.3969 232.5409 479.1969 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.ft.com/content/ddffc1e8-9579-4243-ad4b-6bf8a781e618)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 443.0719 334.8439 455.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 37 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.independent.co.uk/news/uk/politics/starmer-grok-ai-x-elon-musk-pmqs-live-updates-b2900347.html)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 391.0719 505.3309 403.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15462413/home-office-trump-style-tiktok-immigration-crackdown.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 350.3969 531.3049 361.1969 ] /Subtype /Link /Type /Annot
 >>
 endobj
 38 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15462493/Xs-Grok-AI-deepfakes-Elon-Musk-blinks-Keir-Starmer.html?ns_mchannel=rss&ito=1490&ns_campaign=1490)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 284.3969 531.8089 295.1969 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15462413/home-office-trump-style-tiktok-immigration-crackdown.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 338.3969 232.5409 349.1969 ] /Subtype /Link /Type /Annot
 >>
 endobj
 39 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15462493/Xs-Grok-AI-deepfakes-Elon-Musk-blinks-Keir-Starmer.html?ns_mchannel=rss&ito=1490&ns_campaign=1490)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 272.3969 232.5409 283.1969 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.independent.co.uk/news/uk/politics/starmer-grok-ai-x-elon-musk-pmqs-live-updates-b2900347.html)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 261.0719 505.3309 273.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 40 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.theguardian.com/politics/live/2026/jan/14/pmqs-live-digital-id-cards-keir-starmer-kemi-badenoch-labour-conservatives-latest-news-updates)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 153.0719 527.8129 165.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15462493/Xs-Grok-AI-deepfakes-Elon-Musk-blinks-Keir-Starmer.html?ns_mchannel=rss&ito=1490&ns_campaign=1490)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 154.3969 531.8089 165.1969 ] /Subtype /Link /Type /Annot
 >>
 endobj
 41 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.theguardian.com/politics/live/2026/jan/14/pmqs-live-digital-id-cards-keir-starmer-kemi-badenoch-labour-conservatives-latest-news-updates)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 141.0719 196.7389 153.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15462493/Xs-Grok-AI-deepfakes-Elon-Musk-blinks-Keir-Starmer.html?ns_mchannel=rss&ito=1490&ns_campaign=1490)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 142.3969 232.5409 153.1969 ] /Subtype /Link /Type /Annot
 >>
 endobj
 42 0 obj
 <<
-/Annots [ 31 0 R 32 0 R 33 0 R 34 0 R 35 0 R 36 0 R 37 0 R 38 0 R 39 0 R 40 0 R 
-  41 0 R ] /Contents 132 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 129 0 R /Resources <<
+/Annots [ 32 0 R 33 0 R 34 0 R 35 0 R 36 0 R 37 0 R 38 0 R 39 0 R 40 0 R 41 0 R ] /Contents 146 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 143 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -300,84 +299,84 @@ endobj
 43 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15461215/Starmer-branded-Pekings-poodle-Backlash-PM-approve-China-mega-embassy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 734.3969 527.8309 745.1969 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.theguardian.com/politics/live/2026/jan/14/pmqs-live-digital-id-cards-keir-starmer-kemi-badenoch-labour-conservatives-latest-news-updates)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 735.0719 527.8129 747.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 44 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15461215/Starmer-branded-Pekings-poodle-Backlash-PM-approve-China-mega-embassy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 722.3969 337.5709 733.1969 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.theguardian.com/politics/live/2026/jan/14/pmqs-live-digital-id-cards-keir-starmer-kemi-badenoch-labour-conservatives-latest-news-updates)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 723.0719 196.7389 735.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 45 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.mirror.co.uk/news/politics/keir-starmer-launches-vicious-kama-36550029)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 631.0719 400.7689 643.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15461215/Starmer-branded-Pekings-poodle-Backlash-PM-approve-China-mega-embassy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 616.3969 527.8309 627.1969 ] /Subtype /Link /Type /Annot
 >>
 endobj
 46 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.express.co.uk/news/politics/2157673/keir-starmer-becomes-laughing-stock)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 539.0719 409.3009 551.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15461215/Starmer-branded-Pekings-poodle-Backlash-PM-approve-China-mega-embassy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 604.3969 337.5709 615.1969 ] /Subtype /Link /Type /Annot
 >>
 endobj
 47 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.mirror.co.uk/news/politics/keir-starmer-baits-nigel-farage-36549804)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 447.0719 378.7729 459.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.mirror.co.uk/news/politics/keir-starmer-launches-vicious-kama-36550029)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 513.0719 400.7689 525.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 48 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15462791/Poll-Keir-Starmer-right-abandon-mandatory-digital-IDs-workers.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 340.3969 526.8139 351.1969 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.express.co.uk/news/politics/2157673/keir-starmer-becomes-laughing-stock)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 421.0719 409.3009 433.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 49 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15462791/Poll-Keir-Starmer-right-abandon-mandatory-digital-IDs-workers.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 328.3969 273.5449 339.1969 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.mirror.co.uk/news/politics/keir-starmer-baits-nigel-farage-36549804)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 329.0719 378.7729 341.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 50 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15462229/Labour-MPs-Starmer-ID-cards-desperate-PM-mutiny.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 222.3969 532.3129 233.1969 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15462791/Poll-Keir-Starmer-right-abandon-mandatory-digital-IDs-workers.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 222.3969 526.8139 233.1969 ] /Subtype /Link /Type /Annot
 >>
 endobj
 51 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15462229/Labour-MPs-Starmer-ID-cards-desperate-PM-mutiny.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 210.3969 227.5369 221.1969 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15462791/Poll-Keir-Starmer-right-abandon-mandatory-digital-IDs-workers.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 210.3969 273.5449 221.1969 ] /Subtype /Link /Type /Annot
 >>
 endobj
 52 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15460477/Attorney-General-facing-backlash-claims-lobbies-Keir-Starmer-No-10-flat-water-policies-curb-human-rights.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 104.3969 531.8089 115.1969 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15462229/Labour-MPs-Starmer-ID-cards-desperate-PM-mutiny.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 104.3969 532.3129 115.1969 ] /Subtype /Link /Type /Annot
 >>
 endobj
 53 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15460477/Attorney-General-facing-backlash-claims-lobbies-Keir-Starmer-No-10-flat-water-policies-curb-human-rights.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 92.39685 442.5829 103.1969 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15462229/Labour-MPs-Starmer-ID-cards-desperate-PM-mutiny.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 92.39685 227.5369 103.1969 ] /Subtype /Link /Type /Annot
 >>
 endobj
 54 0 obj
 <<
 /Annots [ 43 0 R 44 0 R 45 0 R 46 0 R 47 0 R 48 0 R 49 0 R 50 0 R 51 0 R 52 0 R 
-  53 0 R ] /Contents 133 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 129 0 R /Resources <<
+  53 0 R ] /Contents 147 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 143 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -388,519 +387,505 @@ endobj
 55 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.independent.co.uk/news/uk/politics/digital-id-labour-starmer-david-blunkett-b2900219.html)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 683.0719 469.8439 695.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15460477/Attorney-General-facing-backlash-claims-lobbies-Keir-Starmer-No-10-flat-water-policies-curb-human-rights.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 682.3969 531.8089 693.1969 ] /Subtype /Link /Type /Annot
 >>
 endobj
 56 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.cityam.com/tories-call-milibands-latest-offshore-wind-push-a-vanity-project/)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 563.0719 410.2639 575.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15460477/Attorney-General-facing-backlash-claims-lobbies-Keir-Starmer-No-10-flat-water-policies-curb-human-rights.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 670.3969 442.5829 681.1969 ] /Subtype /Link /Type /Annot
 >>
 endobj
 57 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbkJXQllLTWFTSnRpMjk0WWxiaExnZ3RHTkc2Z0hxY3dqOTlFNTkyNXRvVGpDSHZ1TGREeXZOOHlISG5TSlAwRTVNamhGLXNwNldGTmJvMV9lNkxtczkzaEpETE82VnlSR2ZXalNLN2ljak9EbWpRZWRwX05NWlFWVkxvRHNiQnVUYk9NOHJ1cnRTYWk0QXRaOHA0Qkx1RHNvcVRUc3BwRml4ZTMxbTdWaHJwYk5PZ1RoaC1nWGdqNm5oZ9IBxwFBVV95cUxQRnlSQkc1TW1pbEpvNVJ0azkzMkRyWkJRTERxaHFTQlVuYkNGNmFQUFUyWWlDSzdDSTA4UEJ2WGhlUHk2U0JqeWJTS3N4amlUZ0FqN0N3Sy1DOHpyTFkyNnJxdEFaMzE1NURTQlJGSTBtbzc2VlUycDVFc3VSYVFGQkZQYS16cU82N2dWWnVZakZySlo0bzdrWWJnekJEWFJMVUY4VmNQR0Vtcy1MUTdnRjZWX3FvX2J3Zmh5eWI5QWtTdTc2NXdB?oc=5)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 457.0719 526.7959 469.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMi8AFBVV95cUxQVE16dUV5Q191M0RrYmJkV1R5ZkFVb3psOUctSW1ZbUYtVUlLODQxTGg1LVlnek11M2xQUzZleC14RWN2X3d1aXVlMDc4TnZqWjRxeFQ5XzZ5Y0RkZnFvbFBXMkdGZ05XRVM2UXRVQmVGUXJJSThIVkMyYTk5WHJkMmpfRzg5b0x2a1NDaWd3NjJNdEhyNDhFeFlBRnk2cVhJTkNoa2VzZTE0UV9CNzNCczc1OHlYeWJfWDIwVlFIU3lXdmYxU1BadUZuXzJ5ZlJwWXBYaDZ4MGt2d3NYMnpKeWQyb3M0b2JrRFU3QVREbFPSAfYBQVVfeXFMTTJ4aVVaWFB4X2gtc3FhVElWUWxSTjRsYTcyY0VVeG5lS0lXZDRnREtVa3czOW9SbmY4VFFDbDZ0b21xVmQ5SGxwY3kxTlRRMTFPZUc0VmVCZndoYjk0dXhTNG91VTdVZE9MTlhoeVZSRGl1ZlR2U0JoSk82aC1VZ2hET29jeEIzbVV3WmN3eWZNTE9ueUlyeFBLWmdfUHZYUnQzNTM1ajk1U0M0ckZwa3RWb2Nubzk5TnY2aXdJcmFkX1ZzQlMwYng1ZmtJQXlBYnJHcGVUYXpTY3Zsa01vTkNYQ21tUVZXWUctRlI3YTlVeUp6b3Zn?oc=5)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 565.0719 528.3259 577.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 58 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbkJXQllLTWFTSnRpMjk0WWxiaExnZ3RHTkc2Z0hxY3dqOTlFNTkyNXRvVGpDSHZ1TGREeXZOOHlISG5TSlAwRTVNamhGLXNwNldGTmJvMV9lNkxtczkzaEpETE82VnlSR2ZXalNLN2ljak9EbWpRZWRwX05NWlFWVkxvRHNiQnVUYk9NOHJ1cnRTYWk0QXRaOHA0Qkx1RHNvcVRUc3BwRml4ZTMxbTdWaHJwYk5PZ1RoaC1nWGdqNm5oZ9IBxwFBVV95cUxQRnlSQkc1TW1pbEpvNVJ0azkzMkRyWkJRTERxaHFTQlVuYkNGNmFQUFUyWWlDSzdDSTA4UEJ2WGhlUHk2U0JqeWJTS3N4amlUZ0FqN0N3Sy1DOHpyTFkyNnJxdEFaMzE1NURTQlJGSTBtbzc2VlUycDVFc3VSYVFGQkZQYS16cU82N2dWWnVZakZySlo0bzdrWWJnekJEWFJMVUY4VmNQR0Vtcy1MUTdnRjZWX3FvX2J3Zmh5eWI5QWtTdTc2NXdB?oc=5)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 445.0719 531.2599 457.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMi8AFBVV95cUxQVE16dUV5Q191M0RrYmJkV1R5ZkFVb3psOUctSW1ZbUYtVUlLODQxTGg1LVlnek11M2xQUzZleC14RWN2X3d1aXVlMDc4TnZqWjRxeFQ5XzZ5Y0RkZnFvbFBXMkdGZ05XRVM2UXRVQmVGUXJJSThIVkMyYTk5WHJkMmpfRzg5b0x2a1NDaWd3NjJNdEhyNDhFeFlBRnk2cVhJTkNoa2VzZTE0UV9CNzNCczc1OHlYeWJfWDIwVlFIU3lXdmYxU1BadUZuXzJ5ZlJwWXBYaDZ4MGt2d3NYMnpKeWQyb3M0b2JrRFU3QVREbFPSAfYBQVVfeXFMTTJ4aVVaWFB4X2gtc3FhVElWUWxSTjRsYTcyY0VVeG5lS0lXZDRnREtVa3czOW9SbmY4VFFDbDZ0b21xVmQ5SGxwY3kxTlRRMTFPZUc0VmVCZndoYjk0dXhTNG91VTdVZE9MTlhoeVZSRGl1ZlR2U0JoSk82aC1VZ2hET29jeEIzbVV3WmN3eWZNTE9ueUlyeFBLWmdfUHZYUnQzNTM1ajk1U0M0ckZwa3RWb2Nubzk5TnY2aXdJcmFkX1ZzQlMwYng1ZmtJQXlBYnJHcGVUYXpTY3Zsa01vTkNYQ21tUVZXWUctRlI3YTlVeUp6b3Zn?oc=5)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 553.0719 526.3009 565.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 59 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbkJXQllLTWFTSnRpMjk0WWxiaExnZ3RHTkc2Z0hxY3dqOTlFNTkyNXRvVGpDSHZ1TGREeXZOOHlISG5TSlAwRTVNamhGLXNwNldGTmJvMV9lNkxtczkzaEpETE82VnlSR2ZXalNLN2ljak9EbWpRZWRwX05NWlFWVkxvRHNiQnVUYk9NOHJ1cnRTYWk0QXRaOHA0Qkx1RHNvcVRUc3BwRml4ZTMxbTdWaHJwYk5PZ1RoaC1nWGdqNm5oZ9IBxwFBVV95cUxQRnlSQkc1TW1pbEpvNVJ0azkzMkRyWkJRTERxaHFTQlVuYkNGNmFQUFUyWWlDSzdDSTA4UEJ2WGhlUHk2U0JqeWJTS3N4amlUZ0FqN0N3Sy1DOHpyTFkyNnJxdEFaMzE1NURTQlJGSTBtbzc2VlUycDVFc3VSYVFGQkZQYS16cU82N2dWWnVZakZySlo0bzdrWWJnekJEWFJMVUY4VmNQR0Vtcy1MUTdnRjZWX3FvX2J3Zmh5eWI5QWtTdTc2NXdB?oc=5)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 433.0719 529.7299 445.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMi8AFBVV95cUxQVE16dUV5Q191M0RrYmJkV1R5ZkFVb3psOUctSW1ZbUYtVUlLODQxTGg1LVlnek11M2xQUzZleC14RWN2X3d1aXVlMDc4TnZqWjRxeFQ5XzZ5Y0RkZnFvbFBXMkdGZ05XRVM2UXRVQmVGUXJJSThIVkMyYTk5WHJkMmpfRzg5b0x2a1NDaWd3NjJNdEhyNDhFeFlBRnk2cVhJTkNoa2VzZTE0UV9CNzNCczc1OHlYeWJfWDIwVlFIU3lXdmYxU1BadUZuXzJ5ZlJwWXBYaDZ4MGt2d3NYMnpKeWQyb3M0b2JrRFU3QVREbFPSAfYBQVVfeXFMTTJ4aVVaWFB4X2gtc3FhVElWUWxSTjRsYTcyY0VVeG5lS0lXZDRnREtVa3czOW9SbmY4VFFDbDZ0b21xVmQ5SGxwY3kxTlRRMTFPZUc0VmVCZndoYjk0dXhTNG91VTdVZE9MTlhoeVZSRGl1ZlR2U0JoSk82aC1VZ2hET29jeEIzbVV3WmN3eWZNTE9ueUlyeFBLWmdfUHZYUnQzNTM1ajk1U0M0ckZwa3RWb2Nubzk5TnY2aXdJcmFkX1ZzQlMwYng1ZmtJQXlBYnJHcGVUYXpTY3Zsa01vTkNYQ21tUVZXWUctRlI3YTlVeUp6b3Zn?oc=5)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 541.0719 528.2719 553.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 60 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbkJXQllLTWFTSnRpMjk0WWxiaExnZ3RHTkc2Z0hxY3dqOTlFNTkyNXRvVGpDSHZ1TGREeXZOOHlISG5TSlAwRTVNamhGLXNwNldGTmJvMV9lNkxtczkzaEpETE82VnlSR2ZXalNLN2ljak9EbWpRZWRwX05NWlFWVkxvRHNiQnVUYk9NOHJ1cnRTYWk0QXRaOHA0Qkx1RHNvcVRUc3BwRml4ZTMxbTdWaHJwYk5PZ1RoaC1nWGdqNm5oZ9IBxwFBVV95cUxQRnlSQkc1TW1pbEpvNVJ0azkzMkRyWkJRTERxaHFTQlVuYkNGNmFQUFUyWWlDSzdDSTA4UEJ2WGhlUHk2U0JqeWJTS3N4amlUZ0FqN0N3Sy1DOHpyTFkyNnJxdEFaMzE1NURTQlJGSTBtbzc2VlUycDVFc3VSYVFGQkZQYS16cU82N2dWWnVZakZySlo0bzdrWWJnekJEWFJMVUY4VmNQR0Vtcy1MUTdnRjZWX3FvX2J3Zmh5eWI5QWtTdTc2NXdB?oc=5)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 421.0719 531.2689 433.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMi8AFBVV95cUxQVE16dUV5Q191M0RrYmJkV1R5ZkFVb3psOUctSW1ZbUYtVUlLODQxTGg1LVlnek11M2xQUzZleC14RWN2X3d1aXVlMDc4TnZqWjRxeFQ5XzZ5Y0RkZnFvbFBXMkdGZ05XRVM2UXRVQmVGUXJJSThIVkMyYTk5WHJkMmpfRzg5b0x2a1NDaWd3NjJNdEhyNDhFeFlBRnk2cVhJTkNoa2VzZTE0UV9CNzNCczc1OHlYeWJfWDIwVlFIU3lXdmYxU1BadUZuXzJ5ZlJwWXBYaDZ4MGt2d3NYMnpKeWQyb3M0b2JrRFU3QVREbFPSAfYBQVVfeXFMTTJ4aVVaWFB4X2gtc3FhVElWUWxSTjRsYTcyY0VVeG5lS0lXZDRnREtVa3czOW9SbmY4VFFDbDZ0b21xVmQ5SGxwY3kxTlRRMTFPZUc0VmVCZndoYjk0dXhTNG91VTdVZE9MTlhoeVZSRGl1ZlR2U0JoSk82aC1VZ2hET29jeEIzbVV3WmN3eWZNTE9ueUlyeFBLWmdfUHZYUnQzNTM1ajk1U0M0ckZwa3RWb2Nubzk5TnY2aXdJcmFkX1ZzQlMwYng1ZmtJQXlBYnJHcGVUYXpTY3Zsa01vTkNYQ21tUVZXWUctRlI3YTlVeUp6b3Zn?oc=5)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 529.0719 531.7729 541.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 61 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbkJXQllLTWFTSnRpMjk0WWxiaExnZ3RHTkc2Z0hxY3dqOTlFNTkyNXRvVGpDSHZ1TGREeXZOOHlISG5TSlAwRTVNamhGLXNwNldGTmJvMV9lNkxtczkzaEpETE82VnlSR2ZXalNLN2ljak9EbWpRZWRwX05NWlFWVkxvRHNiQnVUYk9NOHJ1cnRTYWk0QXRaOHA0Qkx1RHNvcVRUc3BwRml4ZTMxbTdWaHJwYk5PZ1RoaC1nWGdqNm5oZ9IBxwFBVV95cUxQRnlSQkc1TW1pbEpvNVJ0azkzMkRyWkJRTERxaHFTQlVuYkNGNmFQUFUyWWlDSzdDSTA4UEJ2WGhlUHk2U0JqeWJTS3N4amlUZ0FqN0N3Sy1DOHpyTFkyNnJxdEFaMzE1NURTQlJGSTBtbzc2VlUycDVFc3VSYVFGQkZQYS16cU82N2dWWnVZakZySlo0bzdrWWJnekJEWFJMVUY4VmNQR0Vtcy1MUTdnRjZWX3FvX2J3Zmh5eWI5QWtTdTc2NXdB?oc=5)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 409.0719 530.2249 421.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMi8AFBVV95cUxQVE16dUV5Q191M0RrYmJkV1R5ZkFVb3psOUctSW1ZbUYtVUlLODQxTGg1LVlnek11M2xQUzZleC14RWN2X3d1aXVlMDc4TnZqWjRxeFQ5XzZ5Y0RkZnFvbFBXMkdGZ05XRVM2UXRVQmVGUXJJSThIVkMyYTk5WHJkMmpfRzg5b0x2a1NDaWd3NjJNdEhyNDhFeFlBRnk2cVhJTkNoa2VzZTE0UV9CNzNCczc1OHlYeWJfWDIwVlFIU3lXdmYxU1BadUZuXzJ5ZlJwWXBYaDZ4MGt2d3NYMnpKeWQyb3M0b2JrRFU3QVREbFPSAfYBQVVfeXFMTTJ4aVVaWFB4X2gtc3FhVElWUWxSTjRsYTcyY0VVeG5lS0lXZDRnREtVa3czOW9SbmY4VFFDbDZ0b21xVmQ5SGxwY3kxTlRRMTFPZUc0VmVCZndoYjk0dXhTNG91VTdVZE9MTlhoeVZSRGl1ZlR2U0JoSk82aC1VZ2hET29jeEIzbVV3WmN3eWZNTE9ueUlyeFBLWmdfUHZYUnQzNTM1ajk1U0M0ckZwa3RWb2Nubzk5TnY2aXdJcmFkX1ZzQlMwYng1ZmtJQXlBYnJHcGVUYXpTY3Zsa01vTkNYQ21tUVZXWUctRlI3YTlVeUp6b3Zn?oc=5)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 517.0719 527.8039 529.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 62 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbkJXQllLTWFTSnRpMjk0WWxiaExnZ3RHTkc2Z0hxY3dqOTlFNTkyNXRvVGpDSHZ1TGREeXZOOHlISG5TSlAwRTVNamhGLXNwNldGTmJvMV9lNkxtczkzaEpETE82VnlSR2ZXalNLN2ljak9EbWpRZWRwX05NWlFWVkxvRHNiQnVUYk9NOHJ1cnRTYWk0QXRaOHA0Qkx1RHNvcVRUc3BwRml4ZTMxbTdWaHJwYk5PZ1RoaC1nWGdqNm5oZ9IBxwFBVV95cUxQRnlSQkc1TW1pbEpvNVJ0azkzMkRyWkJRTERxaHFTQlVuYkNGNmFQUFUyWWlDSzdDSTA4UEJ2WGhlUHk2U0JqeWJTS3N4amlUZ0FqN0N3Sy1DOHpyTFkyNnJxdEFaMzE1NURTQlJGSTBtbzc2VlUycDVFc3VSYVFGQkZQYS16cU82N2dWWnVZakZySlo0bzdrWWJnekJEWFJMVUY4VmNQR0Vtcy1MUTdnRjZWX3FvX2J3Zmh5eWI5QWtTdTc2NXdB?oc=5)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 397.0719 530.2789 409.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMi8AFBVV95cUxQVE16dUV5Q191M0RrYmJkV1R5ZkFVb3psOUctSW1ZbUYtVUlLODQxTGg1LVlnek11M2xQUzZleC14RWN2X3d1aXVlMDc4TnZqWjRxeFQ5XzZ5Y0RkZnFvbFBXMkdGZ05XRVM2UXRVQmVGUXJJSThIVkMyYTk5WHJkMmpfRzg5b0x2a1NDaWd3NjJNdEhyNDhFeFlBRnk2cVhJTkNoa2VzZTE0UV9CNzNCczc1OHlYeWJfWDIwVlFIU3lXdmYxU1BadUZuXzJ5ZlJwWXBYaDZ4MGt2d3NYMnpKeWQyb3M0b2JrRFU3QVREbFPSAfYBQVVfeXFMTTJ4aVVaWFB4X2gtc3FhVElWUWxSTjRsYTcyY0VVeG5lS0lXZDRnREtVa3czOW9SbmY4VFFDbDZ0b21xVmQ5SGxwY3kxTlRRMTFPZUc0VmVCZndoYjk0dXhTNG91VTdVZE9MTlhoeVZSRGl1ZlR2U0JoSk82aC1VZ2hET29jeEIzbVV3WmN3eWZNTE9ueUlyeFBLWmdfUHZYUnQzNTM1ajk1U0M0ckZwa3RWb2Nubzk5TnY2aXdJcmFkX1ZzQlMwYng1ZmtJQXlBYnJHcGVUYXpTY3Zsa01vTkNYQ21tUVZXWUctRlI3YTlVeUp6b3Zn?oc=5)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 505.0719 530.2879 517.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 63 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbkJXQllLTWFTSnRpMjk0WWxiaExnZ3RHTkc2Z0hxY3dqOTlFNTkyNXRvVGpDSHZ1TGREeXZOOHlISG5TSlAwRTVNamhGLXNwNldGTmJvMV9lNkxtczkzaEpETE82VnlSR2ZXalNLN2ljak9EbWpRZWRwX05NWlFWVkxvRHNiQnVUYk9NOHJ1cnRTYWk0QXRaOHA0Qkx1RHNvcVRUc3BwRml4ZTMxbTdWaHJwYk5PZ1RoaC1nWGdqNm5oZ9IBxwFBVV95cUxQRnlSQkc1TW1pbEpvNVJ0azkzMkRyWkJRTERxaHFTQlVuYkNGNmFQUFUyWWlDSzdDSTA4UEJ2WGhlUHk2U0JqeWJTS3N4amlUZ0FqN0N3Sy1DOHpyTFkyNnJxdEFaMzE1NURTQlJGSTBtbzc2VlUycDVFc3VSYVFGQkZQYS16cU82N2dWWnVZakZySlo0bzdrWWJnekJEWFJMVUY4VmNQR0Vtcy1MUTdnRjZWX3FvX2J3Zmh5eWI5QWtTdTc2NXdB?oc=5)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 385.0719 384.0109 397.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMi8AFBVV95cUxQVE16dUV5Q191M0RrYmJkV1R5ZkFVb3psOUctSW1ZbUYtVUlLODQxTGg1LVlnek11M2xQUzZleC14RWN2X3d1aXVlMDc4TnZqWjRxeFQ5XzZ5Y0RkZnFvbFBXMkdGZ05XRVM2UXRVQmVGUXJJSThIVkMyYTk5WHJkMmpfRzg5b0x2a1NDaWd3NjJNdEhyNDhFeFlBRnk2cVhJTkNoa2VzZTE0UV9CNzNCczc1OHlYeWJfWDIwVlFIU3lXdmYxU1BadUZuXzJ5ZlJwWXBYaDZ4MGt2d3NYMnpKeWQyb3M0b2JrRFU3QVREbFPSAfYBQVVfeXFMTTJ4aVVaWFB4X2gtc3FhVElWUWxSTjRsYTcyY0VVeG5lS0lXZDRnREtVa3czOW9SbmY4VFFDbDZ0b21xVmQ5SGxwY3kxTlRRMTFPZUc0VmVCZndoYjk0dXhTNG91VTdVZE9MTlhoeVZSRGl1ZlR2U0JoSk82aC1VZ2hET29jeEIzbVV3WmN3eWZNTE9ueUlyeFBLWmdfUHZYUnQzNTM1ajk1U0M0ckZwa3RWb2Nubzk5TnY2aXdJcmFkX1ZzQlMwYng1ZmtJQXlBYnJHcGVUYXpTY3Zsa01vTkNYQ21tUVZXWUctRlI3YTlVeUp6b3Zn?oc=5)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 493.0719 529.7839 505.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 64 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.express.co.uk/news/politics/2157600/labour-keir-starmer-annihilation)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 293.0719 385.2979 305.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMi8AFBVV95cUxQVE16dUV5Q191M0RrYmJkV1R5ZkFVb3psOUctSW1ZbUYtVUlLODQxTGg1LVlnek11M2xQUzZleC14RWN2X3d1aXVlMDc4TnZqWjRxeFQ5XzZ5Y0RkZnFvbFBXMkdGZ05XRVM2UXRVQmVGUXJJSThIVkMyYTk5WHJkMmpfRzg5b0x2a1NDaWd3NjJNdEhyNDhFeFlBRnk2cVhJTkNoa2VzZTE0UV9CNzNCczc1OHlYeWJfWDIwVlFIU3lXdmYxU1BadUZuXzJ5ZlJwWXBYaDZ4MGt2d3NYMnpKeWQyb3M0b2JrRFU3QVREbFPSAfYBQVVfeXFMTTJ4aVVaWFB4X2gtc3FhVElWUWxSTjRsYTcyY0VVeG5lS0lXZDRnREtVa3czOW9SbmY4VFFDbDZ0b21xVmQ5SGxwY3kxTlRRMTFPZUc0VmVCZndoYjk0dXhTNG91VTdVZE9MTlhoeVZSRGl1ZlR2U0JoSk82aC1VZ2hET29jeEIzbVV3WmN3eWZNTE9ueUlyeFBLWmdfUHZYUnQzNTM1ajk1U0M0ckZwa3RWb2Nubzk5TnY2aXdJcmFkX1ZzQlMwYng1ZmtJQXlBYnJHcGVUYXpTY3Zsa01vTkNYQ21tUVZXWUctRlI3YTlVeUp6b3Zn?oc=5)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 481.0719 531.3139 493.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 65 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.theguardian.com/uk-news/2026/jan/14/watchdog-to-criticise-west-midlands-police-over-maccabi-tel-aviv-ban)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 173.0719 532.3219 185.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMi8AFBVV95cUxQVE16dUV5Q191M0RrYmJkV1R5ZkFVb3psOUctSW1ZbUYtVUlLODQxTGg1LVlnek11M2xQUzZleC14RWN2X3d1aXVlMDc4TnZqWjRxeFQ5XzZ5Y0RkZnFvbFBXMkdGZ05XRVM2UXRVQmVGUXJJSThIVkMyYTk5WHJkMmpfRzg5b0x2a1NDaWd3NjJNdEhyNDhFeFlBRnk2cVhJTkNoa2VzZTE0UV9CNzNCczc1OHlYeWJfWDIwVlFIU3lXdmYxU1BadUZuXzJ5ZlJwWXBYaDZ4MGt2d3NYMnpKeWQyb3M0b2JrRFU3QVREbFPSAfYBQVVfeXFMTTJ4aVVaWFB4X2gtc3FhVElWUWxSTjRsYTcyY0VVeG5lS0lXZDRnREtVa3czOW9SbmY4VFFDbDZ0b21xVmQ5SGxwY3kxTlRRMTFPZUc0VmVCZndoYjk0dXhTNG91VTdVZE9MTlhoeVZSRGl1ZlR2U0JoSk82aC1VZ2hET29jeEIzbVV3WmN3eWZNTE9ueUlyeFBLWmdfUHZYUnQzNTM1ajk1U0M0ckZwa3RWb2Nubzk5TnY2aXdJcmFkX1ZzQlMwYng1ZmtJQXlBYnJHcGVUYXpTY3Zsa01vTkNYQ21tUVZXWUctRlI3YTlVeUp6b3Zn?oc=5)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 469.0719 87.46091 481.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 66 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.theguardian.com/uk-news/2026/jan/14/watchdog-to-criticise-west-midlands-police-over-maccabi-tel-aviv-ban)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 161.0719 72.70091 173.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.independent.co.uk/news/uk/politics/digital-id-labour-starmer-david-blunkett-b2900219.html)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 363.0719 469.8439 375.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 67 0 obj
 <<
-/Annots [ 55 0 R 56 0 R 57 0 R 58 0 R 59 0 R 60 0 R 61 0 R 62 0 R 63 0 R 64 0 R 
-  65 0 R 66 0 R ] /Contents 134 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 129 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 
-  /Trans <<
-
->> /Type /Page
+/A <<
+/S /URI /Type /Action /URI (https://www.cityam.com/tories-call-milibands-latest-offshore-wind-push-a-vanity-project/)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 243.0719 410.2639 255.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 68 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.cityam.com/starmer-to-u-turn-on-mandatory-digital-id/)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 769.0719 324.7459 781.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbkJXQllLTWFTSnRpMjk0WWxiaExnZ3RHTkc2Z0hxY3dqOTlFNTkyNXRvVGpDSHZ1TGREeXZOOHlISG5TSlAwRTVNamhGLXNwNldGTmJvMV9lNkxtczkzaEpETE82VnlSR2ZXalNLN2ljak9EbWpRZWRwX05NWlFWVkxvRHNiQnVUYk9NOHJ1cnRTYWk0QXRaOHA0Qkx1RHNvcVRUc3BwRml4ZTMxbTdWaHJwYk5PZ1RoaC1nWGdqNm5oZ9IBxwFBVV95cUxQRnlSQkc1TW1pbEpvNVJ0azkzMkRyWkJRTERxaHFTQlVuYkNGNmFQUFUyWWlDSzdDSTA4UEJ2WGhlUHk2U0JqeWJTS3N4amlUZ0FqN0N3Sy1DOHpyTFkyNnJxdEFaMzE1NURTQlJGSTBtbzc2VlUycDVFc3VSYVFGQkZQYS16cU82N2dWWnVZakZySlo0bzdrWWJnekJEWFJMVUY4VmNQR0Vtcy1MUTdnRjZWX3FvX2J3Zmh5eWI5QWtTdTc2NXdB?oc=5)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 137.0719 526.7959 149.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 69 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.theguardian.com/uk-news/2026/jan/14/west-midlands-police-chief-apologises-ai-error-maccabi-tel-aviv-ban)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 649.0719 531.8269 661.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbkJXQllLTWFTSnRpMjk0WWxiaExnZ3RHTkc2Z0hxY3dqOTlFNTkyNXRvVGpDSHZ1TGREeXZOOHlISG5TSlAwRTVNamhGLXNwNldGTmJvMV9lNkxtczkzaEpETE82VnlSR2ZXalNLN2ljak9EbWpRZWRwX05NWlFWVkxvRHNiQnVUYk9NOHJ1cnRTYWk0QXRaOHA0Qkx1RHNvcVRUc3BwRml4ZTMxbTdWaHJwYk5PZ1RoaC1nWGdqNm5oZ9IBxwFBVV95cUxQRnlSQkc1TW1pbEpvNVJ0azkzMkRyWkJRTERxaHFTQlVuYkNGNmFQUFUyWWlDSzdDSTA4UEJ2WGhlUHk2U0JqeWJTS3N4amlUZ0FqN0N3Sy1DOHpyTFkyNnJxdEFaMzE1NURTQlJGSTBtbzc2VlUycDVFc3VSYVFGQkZQYS16cU82N2dWWnVZakZySlo0bzdrWWJnekJEWFJMVUY4VmNQR0Vtcy1MUTdnRjZWX3FvX2J3Zmh5eWI5QWtTdTc2NXdB?oc=5)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 125.0719 531.2599 137.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 70 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.theguardian.com/uk-news/2026/jan/14/west-midlands-police-chief-apologises-ai-error-maccabi-tel-aviv-ban)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 637.0719 67.69691 649.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbkJXQllLTWFTSnRpMjk0WWxiaExnZ3RHTkc2Z0hxY3dqOTlFNTkyNXRvVGpDSHZ1TGREeXZOOHlISG5TSlAwRTVNamhGLXNwNldGTmJvMV9lNkxtczkzaEpETE82VnlSR2ZXalNLN2ljak9EbWpRZWRwX05NWlFWVkxvRHNiQnVUYk9NOHJ1cnRTYWk0QXRaOHA0Qkx1RHNvcVRUc3BwRml4ZTMxbTdWaHJwYk5PZ1RoaC1nWGdqNm5oZ9IBxwFBVV95cUxQRnlSQkc1TW1pbEpvNVJ0azkzMkRyWkJRTERxaHFTQlVuYkNGNmFQUFUyWWlDSzdDSTA4UEJ2WGhlUHk2U0JqeWJTS3N4amlUZ0FqN0N3Sy1DOHpyTFkyNnJxdEFaMzE1NURTQlJGSTBtbzc2VlUycDVFc3VSYVFGQkZQYS16cU82N2dWWnVZakZySlo0bzdrWWJnekJEWFJMVUY4VmNQR0Vtcy1MUTdnRjZWX3FvX2J3Zmh5eWI5QWtTdTc2NXdB?oc=5)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 113.0719 529.7299 125.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 71 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.ft.com/content/c1ee4616-48fd-46f6-bb15-cd9c918399fb)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 559.0719 333.8359 571.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbkJXQllLTWFTSnRpMjk0WWxiaExnZ3RHTkc2Z0hxY3dqOTlFNTkyNXRvVGpDSHZ1TGREeXZOOHlISG5TSlAwRTVNamhGLXNwNldGTmJvMV9lNkxtczkzaEpETE82VnlSR2ZXalNLN2ljak9EbWpRZWRwX05NWlFWVkxvRHNiQnVUYk9NOHJ1cnRTYWk0QXRaOHA0Qkx1RHNvcVRUc3BwRml4ZTMxbTdWaHJwYk5PZ1RoaC1nWGdqNm5oZ9IBxwFBVV95cUxQRnlSQkc1TW1pbEpvNVJ0azkzMkRyWkJRTERxaHFTQlVuYkNGNmFQUFUyWWlDSzdDSTA4UEJ2WGhlUHk2U0JqeWJTS3N4amlUZ0FqN0N3Sy1DOHpyTFkyNnJxdEFaMzE1NURTQlJGSTBtbzc2VlUycDVFc3VSYVFGQkZQYS16cU82N2dWWnVZakZySlo0bzdrWWJnekJEWFJMVUY4VmNQR0Vtcy1MUTdnRjZWX3FvX2J3Zmh5eWI5QWtTdTc2NXdB?oc=5)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 101.0719 531.2689 113.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 72 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdk9LcDdveWZFZ1BXeG0wMXdMZXZBbElmdkxGQVNGNHZ2bEQ5aG1YMWhJeVFSUHFoazU5R2NXNVE3Z2EyOXJMQm5YS1hrZFlpLXNfQlI5TVdPcW44U0VkNWpWeHhHamUzLXlhTHZTMXNoVEJMY2k2THV5S0k1a0ZtX1NnR0hFSU8yTElEQTNJNF9ZdHU4bV9sZU1PS2FtajVkdk1uTkhIX0fSAa4BQVVfeXFMTXRBZ0ppVnVBMlB2VHRFTkJBTFdtTklqMWJ0ZlZaVE5xQ2ZsSDExNU84MDF3eWs1TnY5TnQyNFlQaWVNUzU5QUVoakdFbmNEODU2SGN6X3VpTGNpWnQ4S3hYaTFMU3A0UTd4dk1ITVNOSUxRdTdobVJPb05hSFpVZEdYaFM1c3BXQ2JGQjVaZWlNdW9BdjBZMFBnUm1tN3NkUjA5WGJXaV9HeWtodWRn?oc=5)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 453.0719 530.8099 465.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbkJXQllLTWFTSnRpMjk0WWxiaExnZ3RHTkc2Z0hxY3dqOTlFNTkyNXRvVGpDSHZ1TGREeXZOOHlISG5TSlAwRTVNamhGLXNwNldGTmJvMV9lNkxtczkzaEpETE82VnlSR2ZXalNLN2ljak9EbWpRZWRwX05NWlFWVkxvRHNiQnVUYk9NOHJ1cnRTYWk0QXRaOHA0Qkx1RHNvcVRUc3BwRml4ZTMxbTdWaHJwYk5PZ1RoaC1nWGdqNm5oZ9IBxwFBVV95cUxQRnlSQkc1TW1pbEpvNVJ0azkzMkRyWkJRTERxaHFTQlVuYkNGNmFQUFUyWWlDSzdDSTA4UEJ2WGhlUHk2U0JqeWJTS3N4amlUZ0FqN0N3Sy1DOHpyTFkyNnJxdEFaMzE1NURTQlJGSTBtbzc2VlUycDVFc3VSYVFGQkZQYS16cU82N2dWWnVZakZySlo0bzdrWWJnekJEWFJMVUY4VmNQR0Vtcy1MUTdnRjZWX3FvX2J3Zmh5eWI5QWtTdTc2NXdB?oc=5)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 89.07185 530.2249 101.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 73 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdk9LcDdveWZFZ1BXeG0wMXdMZXZBbElmdkxGQVNGNHZ2bEQ5aG1YMWhJeVFSUHFoazU5R2NXNVE3Z2EyOXJMQm5YS1hrZFlpLXNfQlI5TVdPcW44U0VkNWpWeHhHamUzLXlhTHZTMXNoVEJMY2k2THV5S0k1a0ZtX1NnR0hFSU8yTElEQTNJNF9ZdHU4bV9sZU1PS2FtajVkdk1uTkhIX0fSAa4BQVVfeXFMTXRBZ0ppVnVBMlB2VHRFTkJBTFdtTklqMWJ0ZlZaVE5xQ2ZsSDExNU84MDF3eWs1TnY5TnQyNFlQaWVNUzU5QUVoakdFbmNEODU2SGN6X3VpTGNpWnQ4S3hYaTFMU3A0UTd4dk1ITVNOSUxRdTdobVJPb05hSFpVZEdYaFM1c3BXQ2JGQjVaZWlNdW9BdjBZMFBnUm1tN3NkUjA5WGJXaV9HeWtodWRn?oc=5)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 441.0719 529.7929 453.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbkJXQllLTWFTSnRpMjk0WWxiaExnZ3RHTkc2Z0hxY3dqOTlFNTkyNXRvVGpDSHZ1TGREeXZOOHlISG5TSlAwRTVNamhGLXNwNldGTmJvMV9lNkxtczkzaEpETE82VnlSR2ZXalNLN2ljak9EbWpRZWRwX05NWlFWVkxvRHNiQnVUYk9NOHJ1cnRTYWk0QXRaOHA0Qkx1RHNvcVRUc3BwRml4ZTMxbTdWaHJwYk5PZ1RoaC1nWGdqNm5oZ9IBxwFBVV95cUxQRnlSQkc1TW1pbEpvNVJ0azkzMkRyWkJRTERxaHFTQlVuYkNGNmFQUFUyWWlDSzdDSTA4UEJ2WGhlUHk2U0JqeWJTS3N4amlUZ0FqN0N3Sy1DOHpyTFkyNnJxdEFaMzE1NURTQlJGSTBtbzc2VlUycDVFc3VSYVFGQkZQYS16cU82N2dWWnVZakZySlo0bzdrWWJnekJEWFJMVUY4VmNQR0Vtcy1MUTdnRjZWX3FvX2J3Zmh5eWI5QWtTdTc2NXdB?oc=5)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 77.07185 530.2789 89.07185 ] /Subtype /Link /Type /Annot
 >>
 endobj
 74 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdk9LcDdveWZFZ1BXeG0wMXdMZXZBbElmdkxGQVNGNHZ2bEQ5aG1YMWhJeVFSUHFoazU5R2NXNVE3Z2EyOXJMQm5YS1hrZFlpLXNfQlI5TVdPcW44U0VkNWpWeHhHamUzLXlhTHZTMXNoVEJMY2k2THV5S0k1a0ZtX1NnR0hFSU8yTElEQTNJNF9ZdHU4bV9sZU1PS2FtajVkdk1uTkhIX0fSAa4BQVVfeXFMTXRBZ0ppVnVBMlB2VHRFTkJBTFdtTklqMWJ0ZlZaVE5xQ2ZsSDExNU84MDF3eWs1TnY5TnQyNFlQaWVNUzU5QUVoakdFbmNEODU2SGN6X3VpTGNpWnQ4S3hYaTFMU3A0UTd4dk1ITVNOSUxRdTdobVJPb05hSFpVZEdYaFM1c3BXQ2JGQjVaZWlNdW9BdjBZMFBnUm1tN3NkUjA5WGJXaV9HeWtodWRn?oc=5)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 429.0719 530.3059 441.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbkJXQllLTWFTSnRpMjk0WWxiaExnZ3RHTkc2Z0hxY3dqOTlFNTkyNXRvVGpDSHZ1TGREeXZOOHlISG5TSlAwRTVNamhGLXNwNldGTmJvMV9lNkxtczkzaEpETE82VnlSR2ZXalNLN2ljak9EbWpRZWRwX05NWlFWVkxvRHNiQnVUYk9NOHJ1cnRTYWk0QXRaOHA0Qkx1RHNvcVRUc3BwRml4ZTMxbTdWaHJwYk5PZ1RoaC1nWGdqNm5oZ9IBxwFBVV95cUxQRnlSQkc1TW1pbEpvNVJ0azkzMkRyWkJRTERxaHFTQlVuYkNGNmFQUFUyWWlDSzdDSTA4UEJ2WGhlUHk2U0JqeWJTS3N4amlUZ0FqN0N3Sy1DOHpyTFkyNnJxdEFaMzE1NURTQlJGSTBtbzc2VlUycDVFc3VSYVFGQkZQYS16cU82N2dWWnVZakZySlo0bzdrWWJnekJEWFJMVUY4VmNQR0Vtcy1MUTdnRjZWX3FvX2J3Zmh5eWI5QWtTdTc2NXdB?oc=5)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 65.07185 384.0109 77.07185 ] /Subtype /Link /Type /Annot
 >>
 endobj
 75 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdk9LcDdveWZFZ1BXeG0wMXdMZXZBbElmdkxGQVNGNHZ2bEQ5aG1YMWhJeVFSUHFoazU5R2NXNVE3Z2EyOXJMQm5YS1hrZFlpLXNfQlI5TVdPcW44U0VkNWpWeHhHamUzLXlhTHZTMXNoVEJMY2k2THV5S0k1a0ZtX1NnR0hFSU8yTElEQTNJNF9ZdHU4bV9sZU1PS2FtajVkdk1uTkhIX0fSAa4BQVVfeXFMTXRBZ0ppVnVBMlB2VHRFTkJBTFdtTklqMWJ0ZlZaVE5xQ2ZsSDExNU84MDF3eWs1TnY5TnQyNFlQaWVNUzU5QUVoakdFbmNEODU2SGN6X3VpTGNpWnQ4S3hYaTFMU3A0UTd4dk1ITVNOSUxRdTdobVJPb05hSFpVZEdYaFM1c3BXQ2JGQjVaZWlNdW9BdjBZMFBnUm1tN3NkUjA5WGJXaV9HeWtodWRn?oc=5)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 417.0719 530.8009 429.0719 ] /Subtype /Link /Type /Annot
+/Annots [ 55 0 R 56 0 R 57 0 R 58 0 R 59 0 R 60 0 R 61 0 R 62 0 R 63 0 R 64 0 R 
+  65 0 R 66 0 R 67 0 R 68 0 R 69 0 R 70 0 R 71 0 R 72 0 R 73 0 R 74 0 R ] /Contents 148 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 143 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
 >>
 endobj
 76 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdk9LcDdveWZFZ1BXeG0wMXdMZXZBbElmdkxGQVNGNHZ2bEQ5aG1YMWhJeVFSUHFoazU5R2NXNVE3Z2EyOXJMQm5YS1hrZFlpLXNfQlI5TVdPcW44U0VkNWpWeHhHamUzLXlhTHZTMXNoVEJMY2k2THV5S0k1a0ZtX1NnR0hFSU8yTElEQTNJNF9ZdHU4bV9sZU1PS2FtajVkdk1uTkhIX0fSAa4BQVVfeXFMTXRBZ0ppVnVBMlB2VHRFTkJBTFdtTklqMWJ0ZlZaVE5xQ2ZsSDExNU84MDF3eWs1TnY5TnQyNFlQaWVNUzU5QUVoakdFbmNEODU2SGN6X3VpTGNpWnQ4S3hYaTFMU3A0UTd4dk1ITVNOSUxRdTdobVJPb05hSFpVZEdYaFM1c3BXQ2JGQjVaZWlNdW9BdjBZMFBnUm1tN3NkUjA5WGJXaV9HeWtodWRn?oc=5)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 405.0719 531.7999 417.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.express.co.uk/news/politics/2157600/labour-keir-starmer-annihilation)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 697.0719 385.2979 709.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 77 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdk9LcDdveWZFZ1BXeG0wMXdMZXZBbElmdkxGQVNGNHZ2bEQ5aG1YMWhJeVFSUHFoazU5R2NXNVE3Z2EyOXJMQm5YS1hrZFlpLXNfQlI5TVdPcW44U0VkNWpWeHhHamUzLXlhTHZTMXNoVEJMY2k2THV5S0k1a0ZtX1NnR0hFSU8yTElEQTNJNF9ZdHU4bV9sZU1PS2FtajVkdk1uTkhIX0fSAa4BQVVfeXFMTXRBZ0ppVnVBMlB2VHRFTkJBTFdtTklqMWJ0ZlZaVE5xQ2ZsSDExNU84MDF3eWs1TnY5TnQyNFlQaWVNUzU5QUVoakdFbmNEODU2SGN6X3VpTGNpWnQ4S3hYaTFMU3A0UTd4dk1ITVNOSUxRdTdobVJPb05hSFpVZEdYaFM1c3BXQ2JGQjVaZWlNdW9BdjBZMFBnUm1tN3NkUjA5WGJXaV9HeWtodWRn?oc=5)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 393.0719 488.0509 405.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.theguardian.com/uk-news/2026/jan/14/watchdog-to-criticise-west-midlands-police-over-maccabi-tel-aviv-ban)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 577.0719 532.3219 589.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 78 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.theguardian.com/politics/2026/jan/14/chancellor-relaxed-digital-identification-id-cards-workers)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 287.0719 483.3259 299.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.theguardian.com/uk-news/2026/jan/14/watchdog-to-criticise-west-midlands-police-over-maccabi-tel-aviv-ban)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 565.0719 72.70091 577.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 79 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.independent.co.uk/news/uk/politics/labour-u-turn-keir-starmer-digital-id-pubs-benefits-welfare-b2900123.html)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 209.0719 531.8539 221.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.cityam.com/starmer-to-u-turn-on-mandatory-digital-id/)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 459.0719 324.7459 471.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 80 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.independent.co.uk/news/uk/politics/labour-u-turn-keir-starmer-digital-id-pubs-benefits-welfare-b2900123.html)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 197.0719 74.68991 209.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.theguardian.com/uk-news/2026/jan/14/west-midlands-police-chief-apologises-ai-error-maccabi-tel-aviv-ban)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 339.0719 531.8269 351.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 81 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMipAFBVV95cUxOeVZHZnJzUHhvQTRha2FVMzJTc0JQWnRvaVVhVmpZUFZYOFRIQkNhM2JwN2ZNZDRyUVZFMXBfZk9kZlFkaWtOVDlUdVoxdGxiV1ZFelZwRVN5b2cxUUpnQ3V3SVhHV1pwWmx5amcyeDhDMjB6LWpQLXYtYU1fbE40V3pXN3EzNk9yWUJWUDVrSEtUNzh3ZmZHT1pDSHdnVno5My1jS9IBqgFBVV95cUxQRFhSVy1JQVhyYjRJTjhEb3RqLWx5dFhobnBPaXRKQlR4YzBKRnJmNWw2RnZfTW5obkxVS2t2cS0xM2lOTDViTE9UdUtyZktuaE90RzY3cDBKSVpGS1hoZm1JVVFwa21fVTJxTFdZazltLUJtUEJVMlladFhJa1E4OFZDdlVXajJuN01Zb0xFcDh4XzhWalhLanFKWXo3cW9tNDlJcy1YS2tVZw?oc=5)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 91.07185 527.2999 103.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.theguardian.com/uk-news/2026/jan/14/west-midlands-police-chief-apologises-ai-error-maccabi-tel-aviv-ban)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 327.0719 67.69691 339.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 82 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMipAFBVV95cUxOeVZHZnJzUHhvQTRha2FVMzJTc0JQWnRvaVVhVmpZUFZYOFRIQkNhM2JwN2ZNZDRyUVZFMXBfZk9kZlFkaWtOVDlUdVoxdGxiV1ZFelZwRVN5b2cxUUpnQ3V3SVhHV1pwWmx5amcyeDhDMjB6LWpQLXYtYU1fbE40V3pXN3EzNk9yWUJWUDVrSEtUNzh3ZmZHT1pDSHdnVno5My1jS9IBqgFBVV95cUxQRFhSVy1JQVhyYjRJTjhEb3RqLWx5dFhobnBPaXRKQlR4YzBKRnJmNWw2RnZfTW5obkxVS2t2cS0xM2lOTDViTE9UdUtyZktuaE90RzY3cDBKSVpGS1hoZm1JVVFwa21fVTJxTFdZazltLUJtUEJVMlladFhJa1E4OFZDdlVXajJuN01Zb0xFcDh4XzhWalhLanFKWXo3cW9tNDlJcy1YS2tVZw?oc=5)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 79.07185 529.2619 91.07185 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.ft.com/content/c1ee4616-48fd-46f6-bb15-cd9c918399fb)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 249.0719 333.8359 261.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 83 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMipAFBVV95cUxOeVZHZnJzUHhvQTRha2FVMzJTc0JQWnRvaVVhVmpZUFZYOFRIQkNhM2JwN2ZNZDRyUVZFMXBfZk9kZlFkaWtOVDlUdVoxdGxiV1ZFelZwRVN5b2cxUUpnQ3V3SVhHV1pwWmx5amcyeDhDMjB6LWpQLXYtYU1fbE40V3pXN3EzNk9yWUJWUDVrSEtUNzh3ZmZHT1pDSHdnVno5My1jS9IBqgFBVV95cUxQRFhSVy1JQVhyYjRJTjhEb3RqLWx5dFhobnBPaXRKQlR4YzBKRnJmNWw2RnZfTW5obkxVS2t2cS0xM2lOTDViTE9UdUtyZktuaE90RzY3cDBKSVpGS1hoZm1JVVFwa21fVTJxTFdZazltLUJtUEJVMlladFhJa1E4OFZDdlVXajJuN01Zb0xFcDh4XzhWalhLanFKWXo3cW9tNDlJcy1YS2tVZw?oc=5)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 67.07185 531.2869 79.07185 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdk9LcDdveWZFZ1BXeG0wMXdMZXZBbElmdkxGQVNGNHZ2bEQ5aG1YMWhJeVFSUHFoazU5R2NXNVE3Z2EyOXJMQm5YS1hrZFlpLXNfQlI5TVdPcW44U0VkNWpWeHhHamUzLXlhTHZTMXNoVEJMY2k2THV5S0k1a0ZtX1NnR0hFSU8yTElEQTNJNF9ZdHU4bV9sZU1PS2FtajVkdk1uTkhIX0fSAa4BQVVfeXFMTXRBZ0ppVnVBMlB2VHRFTkJBTFdtTklqMWJ0ZlZaVE5xQ2ZsSDExNU84MDF3eWs1TnY5TnQyNFlQaWVNUzU5QUVoakdFbmNEODU2SGN6X3VpTGNpWnQ4S3hYaTFMU3A0UTd4dk1ITVNOSUxRdTdobVJPb05hSFpVZEdYaFM1c3BXQ2JGQjVaZWlNdW9BdjBZMFBnUm1tN3NkUjA5WGJXaV9HeWtodWRn?oc=5)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 143.0719 530.8099 155.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 84 0 obj
 <<
-/Annots [ 68 0 R 69 0 R 70 0 R 71 0 R 72 0 R 73 0 R 74 0 R 75 0 R 76 0 R 77 0 R 
-  78 0 R 79 0 R 80 0 R 81 0 R 82 0 R 83 0 R ] /Contents 135 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 129 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 
-  /Trans <<
-
->> /Type /Page
+/A <<
+/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdk9LcDdveWZFZ1BXeG0wMXdMZXZBbElmdkxGQVNGNHZ2bEQ5aG1YMWhJeVFSUHFoazU5R2NXNVE3Z2EyOXJMQm5YS1hrZFlpLXNfQlI5TVdPcW44U0VkNWpWeHhHamUzLXlhTHZTMXNoVEJMY2k2THV5S0k1a0ZtX1NnR0hFSU8yTElEQTNJNF9ZdHU4bV9sZU1PS2FtajVkdk1uTkhIX0fSAa4BQVVfeXFMTXRBZ0ppVnVBMlB2VHRFTkJBTFdtTklqMWJ0ZlZaVE5xQ2ZsSDExNU84MDF3eWs1TnY5TnQyNFlQaWVNUzU5QUVoakdFbmNEODU2SGN6X3VpTGNpWnQ4S3hYaTFMU3A0UTd4dk1ITVNOSUxRdTdobVJPb05hSFpVZEdYaFM1c3BXQ2JGQjVaZWlNdW9BdjBZMFBnUm1tN3NkUjA5WGJXaV9HeWtodWRn?oc=5)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 131.0719 529.7929 143.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 85 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMipAFBVV95cUxOeVZHZnJzUHhvQTRha2FVMzJTc0JQWnRvaVVhVmpZUFZYOFRIQkNhM2JwN2ZNZDRyUVZFMXBfZk9kZlFkaWtOVDlUdVoxdGxiV1ZFelZwRVN5b2cxUUpnQ3V3SVhHV1pwWmx5amcyeDhDMjB6LWpQLXYtYU1fbE40V3pXN3EzNk9yWUJWUDVrSEtUNzh3ZmZHT1pDSHdnVno5My1jS9IBqgFBVV95cUxQRFhSVy1JQVhyYjRJTjhEb3RqLWx5dFhobnBPaXRKQlR4YzBKRnJmNWw2RnZfTW5obkxVS2t2cS0xM2lOTDViTE9UdUtyZktuaE90RzY3cDBKSVpGS1hoZm1JVVFwa21fVTJxTFdZazltLUJtUEJVMlladFhJa1E4OFZDdlVXajJuN01Zb0xFcDh4XzhWalhLanFKWXo3cW9tNDlJcy1YS2tVZw?oc=5)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 769.0719 527.8219 781.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdk9LcDdveWZFZ1BXeG0wMXdMZXZBbElmdkxGQVNGNHZ2bEQ5aG1YMWhJeVFSUHFoazU5R2NXNVE3Z2EyOXJMQm5YS1hrZFlpLXNfQlI5TVdPcW44U0VkNWpWeHhHamUzLXlhTHZTMXNoVEJMY2k2THV5S0k1a0ZtX1NnR0hFSU8yTElEQTNJNF9ZdHU4bV9sZU1PS2FtajVkdk1uTkhIX0fSAa4BQVVfeXFMTXRBZ0ppVnVBMlB2VHRFTkJBTFdtTklqMWJ0ZlZaVE5xQ2ZsSDExNU84MDF3eWs1TnY5TnQyNFlQaWVNUzU5QUVoakdFbmNEODU2SGN6X3VpTGNpWnQ4S3hYaTFMU3A0UTd4dk1ITVNOSUxRdTdobVJPb05hSFpVZEdYaFM1c3BXQ2JGQjVaZWlNdW9BdjBZMFBnUm1tN3NkUjA5WGJXaV9HeWtodWRn?oc=5)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 119.0719 530.3059 131.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 86 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMipAFBVV95cUxOeVZHZnJzUHhvQTRha2FVMzJTc0JQWnRvaVVhVmpZUFZYOFRIQkNhM2JwN2ZNZDRyUVZFMXBfZk9kZlFkaWtOVDlUdVoxdGxiV1ZFelZwRVN5b2cxUUpnQ3V3SVhHV1pwWmx5amcyeDhDMjB6LWpQLXYtYU1fbE40V3pXN3EzNk9yWUJWUDVrSEtUNzh3ZmZHT1pDSHdnVno5My1jS9IBqgFBVV95cUxQRFhSVy1JQVhyYjRJTjhEb3RqLWx5dFhobnBPaXRKQlR4YzBKRnJmNWw2RnZfTW5obkxVS2t2cS0xM2lOTDViTE9UdUtyZktuaE90RzY3cDBKSVpGS1hoZm1JVVFwa21fVTJxTFdZazltLUJtUEJVMlladFhJa1E4OFZDdlVXajJuN01Zb0xFcDh4XzhWalhLanFKWXo3cW9tNDlJcy1YS2tVZw?oc=5)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 757.0719 532.3129 769.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdk9LcDdveWZFZ1BXeG0wMXdMZXZBbElmdkxGQVNGNHZ2bEQ5aG1YMWhJeVFSUHFoazU5R2NXNVE3Z2EyOXJMQm5YS1hrZFlpLXNfQlI5TVdPcW44U0VkNWpWeHhHamUzLXlhTHZTMXNoVEJMY2k2THV5S0k1a0ZtX1NnR0hFSU8yTElEQTNJNF9ZdHU4bV9sZU1PS2FtajVkdk1uTkhIX0fSAa4BQVVfeXFMTXRBZ0ppVnVBMlB2VHRFTkJBTFdtTklqMWJ0ZlZaVE5xQ2ZsSDExNU84MDF3eWs1TnY5TnQyNFlQaWVNUzU5QUVoakdFbmNEODU2SGN6X3VpTGNpWnQ4S3hYaTFMU3A0UTd4dk1ITVNOSUxRdTdobVJPb05hSFpVZEdYaFM1c3BXQ2JGQjVaZWlNdW9BdjBZMFBnUm1tN3NkUjA5WGJXaV9HeWtodWRn?oc=5)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 107.0719 530.8009 119.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 87 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMipAFBVV95cUxOeVZHZnJzUHhvQTRha2FVMzJTc0JQWnRvaVVhVmpZUFZYOFRIQkNhM2JwN2ZNZDRyUVZFMXBfZk9kZlFkaWtOVDlUdVoxdGxiV1ZFelZwRVN5b2cxUUpnQ3V3SVhHV1pwWmx5amcyeDhDMjB6LWpQLXYtYU1fbE40V3pXN3EzNk9yWUJWUDVrSEtUNzh3ZmZHT1pDSHdnVno5My1jS9IBqgFBVV95cUxQRFhSVy1JQVhyYjRJTjhEb3RqLWx5dFhobnBPaXRKQlR4YzBKRnJmNWw2RnZfTW5obkxVS2t2cS0xM2lOTDViTE9UdUtyZktuaE90RzY3cDBKSVpGS1hoZm1JVVFwa21fVTJxTFdZazltLUJtUEJVMlladFhJa1E4OFZDdlVXajJuN01Zb0xFcDh4XzhWalhLanFKWXo3cW9tNDlJcy1YS2tVZw?oc=5)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 745.0719 359.5309 757.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdk9LcDdveWZFZ1BXeG0wMXdMZXZBbElmdkxGQVNGNHZ2bEQ5aG1YMWhJeVFSUHFoazU5R2NXNVE3Z2EyOXJMQm5YS1hrZFlpLXNfQlI5TVdPcW44U0VkNWpWeHhHamUzLXlhTHZTMXNoVEJMY2k2THV5S0k1a0ZtX1NnR0hFSU8yTElEQTNJNF9ZdHU4bV9sZU1PS2FtajVkdk1uTkhIX0fSAa4BQVVfeXFMTXRBZ0ppVnVBMlB2VHRFTkJBTFdtTklqMWJ0ZlZaVE5xQ2ZsSDExNU84MDF3eWs1TnY5TnQyNFlQaWVNUzU5QUVoakdFbmNEODU2SGN6X3VpTGNpWnQ4S3hYaTFMU3A0UTd4dk1ITVNOSUxRdTdobVJPb05hSFpVZEdYaFM1c3BXQ2JGQjVaZWlNdW9BdjBZMFBnUm1tN3NkUjA5WGJXaV9HeWtodWRn?oc=5)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 95.07185 531.7999 107.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 88 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.cityam.com/ambition-and-delivery-are-not-aligned-starmers-ai-action-plan-one-year-on/)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 625.0719 458.2879 637.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdk9LcDdveWZFZ1BXeG0wMXdMZXZBbElmdkxGQVNGNHZ2bEQ5aG1YMWhJeVFSUHFoazU5R2NXNVE3Z2EyOXJMQm5YS1hrZFlpLXNfQlI5TVdPcW44U0VkNWpWeHhHamUzLXlhTHZTMXNoVEJMY2k2THV5S0k1a0ZtX1NnR0hFSU8yTElEQTNJNF9ZdHU4bV9sZU1PS2FtajVkdk1uTkhIX0fSAa4BQVVfeXFMTXRBZ0ppVnVBMlB2VHRFTkJBTFdtTklqMWJ0ZlZaVE5xQ2ZsSDExNU84MDF3eWs1TnY5TnQyNFlQaWVNUzU5QUVoakdFbmNEODU2SGN6X3VpTGNpWnQ4S3hYaTFMU3A0UTd4dk1ITVNOSUxRdTdobVJPb05hSFpVZEdYaFM1c3BXQ2JGQjVaZWlNdW9BdjBZMFBnUm1tN3NkUjA5WGJXaV9HeWtodWRn?oc=5)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 83.07185 488.0509 95.07185 ] /Subtype /Link /Type /Annot
 >>
 endobj
 89 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://www.cityam.com/could-kemi-badenoch-be-our-next-prime-minister/)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 505.0719 357.2539 517.0719 ] /Subtype /Link /Type /Annot
+/Annots [ 76 0 R 77 0 R 78 0 R 79 0 R 80 0 R 81 0 R 82 0 R 83 0 R 84 0 R 85 0 R 
+  86 0 R 87 0 R 88 0 R ] /Contents 149 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 143 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
 >>
 endobj
 90 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.cityam.com/labour-is-leading-britain-on-an-economic-death-march/)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 385.0719 377.2699 397.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.theguardian.com/politics/2026/jan/14/chancellor-relaxed-digital-identification-id-cards-workers)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 683.0719 483.3259 695.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 91 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15461163/Streeting-Starmer-Labour-U-turn-PMs-latest-flip-flop.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 292.3969 529.8199 303.1969 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.independent.co.uk/news/uk/politics/labour-u-turn-keir-starmer-digital-id-pubs-benefits-welfare-b2900123.html)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 605.0719 531.8539 617.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 92 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15461163/Streeting-Starmer-Labour-U-turn-PMs-latest-flip-flop.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 280.3969 227.5369 291.1969 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.independent.co.uk/news/uk/politics/labour-u-turn-keir-starmer-digital-id-pubs-benefits-welfare-b2900123.html)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 593.0719 74.68991 605.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 93 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.bbc.com/news/articles/c14regjvk6no?at_medium=RSS&at_campaign=rss)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 188.3969 404.3149 199.1969 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMipAFBVV95cUxOeVZHZnJzUHhvQTRha2FVMzJTc0JQWnRvaVVhVmpZUFZYOFRIQkNhM2JwN2ZNZDRyUVZFMXBfZk9kZlFkaWtOVDlUdVoxdGxiV1ZFelZwRVN5b2cxUUpnQ3V3SVhHV1pwWmx5amcyeDhDMjB6LWpQLXYtYU1fbE40V3pXN3EzNk9yWUJWUDVrSEtUNzh3ZmZHT1pDSHdnVno5My1jS9IBqgFBVV95cUxQRFhSVy1JQVhyYjRJTjhEb3RqLWx5dFhobnBPaXRKQlR4YzBKRnJmNWw2RnZfTW5obkxVS2t2cS0xM2lOTDViTE9UdUtyZktuaE90RzY3cDBKSVpGS1hoZm1JVVFwa21fVTJxTFdZazltLUJtUEJVMlladFhJa1E4OFZDdlVXajJuN01Zb0xFcDh4XzhWalhLanFKWXo3cW9tNDlJcy1YS2tVZw?oc=5)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 487.0719 527.2999 499.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 94 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15460571/Keir-Starmer-accept-offer-sit-Donald-Trumps-board-run-Gaza-Tony-Blair-sidelined.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 96.39685 529.8109 107.1969 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMipAFBVV95cUxOeVZHZnJzUHhvQTRha2FVMzJTc0JQWnRvaVVhVmpZUFZYOFRIQkNhM2JwN2ZNZDRyUVZFMXBfZk9kZlFkaWtOVDlUdVoxdGxiV1ZFelZwRVN5b2cxUUpnQ3V3SVhHV1pwWmx5amcyeDhDMjB6LWpQLXYtYU1fbE40V3pXN3EzNk9yWUJWUDVrSEtUNzh3ZmZHT1pDSHdnVno5My1jS9IBqgFBVV95cUxQRFhSVy1JQVhyYjRJTjhEb3RqLWx5dFhobnBPaXRKQlR4YzBKRnJmNWw2RnZfTW5obkxVS2t2cS0xM2lOTDViTE9UdUtyZktuaE90RzY3cDBKSVpGS1hoZm1JVVFwa21fVTJxTFdZazltLUJtUEJVMlladFhJa1E4OFZDdlVXajJuN01Zb0xFcDh4XzhWalhLanFKWXo3cW9tNDlJcy1YS2tVZw?oc=5)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 475.0719 529.2619 487.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 95 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15460571/Keir-Starmer-accept-offer-sit-Donald-Trumps-board-run-Gaza-Tony-Blair-sidelined.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 84.39685 347.5609 95.19685 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMipAFBVV95cUxOeVZHZnJzUHhvQTRha2FVMzJTc0JQWnRvaVVhVmpZUFZYOFRIQkNhM2JwN2ZNZDRyUVZFMXBfZk9kZlFkaWtOVDlUdVoxdGxiV1ZFelZwRVN5b2cxUUpnQ3V3SVhHV1pwWmx5amcyeDhDMjB6LWpQLXYtYU1fbE40V3pXN3EzNk9yWUJWUDVrSEtUNzh3ZmZHT1pDSHdnVno5My1jS9IBqgFBVV95cUxQRFhSVy1JQVhyYjRJTjhEb3RqLWx5dFhobnBPaXRKQlR4YzBKRnJmNWw2RnZfTW5obkxVS2t2cS0xM2lOTDViTE9UdUtyZktuaE90RzY3cDBKSVpGS1hoZm1JVVFwa21fVTJxTFdZazltLUJtUEJVMlladFhJa1E4OFZDdlVXajJuN01Zb0xFcDh4XzhWalhLanFKWXo3cW9tNDlJcy1YS2tVZw?oc=5)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 463.0719 531.2869 475.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 96 0 obj
 <<
-/Annots [ 85 0 R 86 0 R 87 0 R 88 0 R 89 0 R 90 0 R 91 0 R 92 0 R 93 0 R 94 0 R 
-  95 0 R ] /Contents 136 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 129 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 
-  /Trans <<
-
->> /Type /Page
+/A <<
+/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMipAFBVV95cUxOeVZHZnJzUHhvQTRha2FVMzJTc0JQWnRvaVVhVmpZUFZYOFRIQkNhM2JwN2ZNZDRyUVZFMXBfZk9kZlFkaWtOVDlUdVoxdGxiV1ZFelZwRVN5b2cxUUpnQ3V3SVhHV1pwWmx5amcyeDhDMjB6LWpQLXYtYU1fbE40V3pXN3EzNk9yWUJWUDVrSEtUNzh3ZmZHT1pDSHdnVno5My1jS9IBqgFBVV95cUxQRFhSVy1JQVhyYjRJTjhEb3RqLWx5dFhobnBPaXRKQlR4YzBKRnJmNWw2RnZfTW5obkxVS2t2cS0xM2lOTDViTE9UdUtyZktuaE90RzY3cDBKSVpGS1hoZm1JVVFwa21fVTJxTFdZazltLUJtUEJVMlladFhJa1E4OFZDdlVXajJuN01Zb0xFcDh4XzhWalhLanFKWXo3cW9tNDlJcy1YS2tVZw?oc=5)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 451.0719 527.8219 463.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 97 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15461035/Starmer-digital-ID-cards-compulsory-illegal-immigration.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 696.3969 525.2929 707.1969 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMipAFBVV95cUxOeVZHZnJzUHhvQTRha2FVMzJTc0JQWnRvaVVhVmpZUFZYOFRIQkNhM2JwN2ZNZDRyUVZFMXBfZk9kZlFkaWtOVDlUdVoxdGxiV1ZFelZwRVN5b2cxUUpnQ3V3SVhHV1pwWmx5amcyeDhDMjB6LWpQLXYtYU1fbE40V3pXN3EzNk9yWUJWUDVrSEtUNzh3ZmZHT1pDSHdnVno5My1jS9IBqgFBVV95cUxQRFhSVy1JQVhyYjRJTjhEb3RqLWx5dFhobnBPaXRKQlR4YzBKRnJmNWw2RnZfTW5obkxVS2t2cS0xM2lOTDViTE9UdUtyZktuaE90RzY3cDBKSVpGS1hoZm1JVVFwa21fVTJxTFdZazltLUJtUEJVMlladFhJa1E4OFZDdlVXajJuN01Zb0xFcDh4XzhWalhLanFKWXo3cW9tNDlJcy1YS2tVZw?oc=5)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 439.0719 532.3129 451.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 98 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15461035/Starmer-digital-ID-cards-compulsory-illegal-immigration.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 684.3969 244.5379 695.1969 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMipAFBVV95cUxOeVZHZnJzUHhvQTRha2FVMzJTc0JQWnRvaVVhVmpZUFZYOFRIQkNhM2JwN2ZNZDRyUVZFMXBfZk9kZlFkaWtOVDlUdVoxdGxiV1ZFelZwRVN5b2cxUUpnQ3V3SVhHV1pwWmx5amcyeDhDMjB6LWpQLXYtYU1fbE40V3pXN3EzNk9yWUJWUDVrSEtUNzh3ZmZHT1pDSHdnVno5My1jS9IBqgFBVV95cUxQRFhSVy1JQVhyYjRJTjhEb3RqLWx5dFhobnBPaXRKQlR4YzBKRnJmNWw2RnZfTW5obkxVS2t2cS0xM2lOTDViTE9UdUtyZktuaE90RzY3cDBKSVpGS1hoZm1JVVFwa21fVTJxTFdZazltLUJtUEJVMlladFhJa1E4OFZDdlVXajJuN01Zb0xFcDh4XzhWalhLanFKWXo3cW9tNDlJcy1YS2tVZw?oc=5)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 427.0719 359.5309 439.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 99 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15463035/Waffling-Starmer-mauled-shambolic-ID-cards-U-turn-brutal-PMQs-furious-Labour-MPs-say-defend-government-policies.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 542.3969 531.2869 553.1969 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.cityam.com/ambition-and-delivery-are-not-aligned-starmers-ai-action-plan-one-year-on/)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 307.0719 458.2879 319.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 100 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15463035/Waffling-Starmer-mauled-shambolic-ID-cards-U-turn-brutal-PMQs-furious-Labour-MPs-say-defend-government-policies.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 530.3969 493.6129 541.1969 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.cityam.com/could-kemi-badenoch-be-our-next-prime-minister/)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 187.0719 357.2539 199.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 101 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.theguardian.com/politics/live/2026/jan/14/pmqs-live-digital-id-cards-keir-starmer-kemi-badenoch-labour-conservatives-latest-news-updates)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 411.0719 527.8129 423.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.cityam.com/labour-is-leading-britain-on-an-economic-death-march/)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 67.07185 377.2699 79.07185 ] /Subtype /Link /Type /Annot
 >>
 endobj
 102 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://www.theguardian.com/politics/live/2026/jan/14/pmqs-live-digital-id-cards-keir-starmer-kemi-badenoch-labour-conservatives-latest-news-updates)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 399.0719 196.7389 411.0719 ] /Subtype /Link /Type /Annot
+/Annots [ 90 0 R 91 0 R 92 0 R 93 0 R 94 0 R 95 0 R 96 0 R 97 0 R 98 0 R 99 0 R 
+  100 0 R 101 0 R ] /Contents 150 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 143 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
 >>
 endobj
 103 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.mirror.co.uk/news/politics/keir-starmer-launches-vicious-kama-36550029)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 307.0719 400.7689 319.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15461163/Streeting-Starmer-Labour-U-turn-PMs-latest-flip-flop.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 696.3969 529.8199 707.1969 ] /Subtype /Link /Type /Annot
 >>
 endobj
 104 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.theguardian.com/uk-news/2026/jan/14/watchdog-to-criticise-west-midlands-police-over-maccabi-tel-aviv-ban)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 187.0719 532.3219 199.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15461163/Streeting-Starmer-Labour-U-turn-PMs-latest-flip-flop.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 684.3969 227.5369 695.1969 ] /Subtype /Link /Type /Annot
 >>
 endobj
 105 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.theguardian.com/uk-news/2026/jan/14/watchdog-to-criticise-west-midlands-police-over-maccabi-tel-aviv-ban)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 175.0719 72.70091 187.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.bbc.com/news/articles/c14regjvk6no?at_medium=RSS&at_campaign=rss)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 592.3969 404.3149 603.1969 ] /Subtype /Link /Type /Annot
 >>
 endobj
 106 0 obj
 <<
-/Annots [ 97 0 R 98 0 R 99 0 R 100 0 R 101 0 R 102 0 R 103 0 R 104 0 R 105 0 R ] /Contents 137 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 129 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 
-  /Trans <<
-
->> /Type /Page
+/A <<
+/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15460571/Keir-Starmer-accept-offer-sit-Donald-Trumps-board-run-Gaza-Tony-Blair-sidelined.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 500.3969 529.8109 511.1969 ] /Subtype /Link /Type /Annot
 >>
 endobj
 107 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.theguardian.com/uk-news/2026/jan/14/west-midlands-police-chief-apologises-ai-error-maccabi-tel-aviv-ban)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 769.0719 531.8269 781.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15460571/Keir-Starmer-accept-offer-sit-Donald-Trumps-board-run-Gaza-Tony-Blair-sidelined.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 488.3969 347.5609 499.1969 ] /Subtype /Link /Type /Annot
 >>
 endobj
 108 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.theguardian.com/uk-news/2026/jan/14/west-midlands-police-chief-apologises-ai-error-maccabi-tel-aviv-ban)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 757.0719 67.69691 769.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15461035/Starmer-digital-ID-cards-compulsory-illegal-immigration.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 396.3969 525.2929 407.1969 ] /Subtype /Link /Type /Annot
 >>
 endobj
 109 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.theguardian.com/politics/2026/jan/14/chancellor-relaxed-digital-identification-id-cards-workers)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 651.0719 483.3259 663.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15461035/Starmer-digital-ID-cards-compulsory-illegal-immigration.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 384.3969 244.5379 395.1969 ] /Subtype /Link /Type /Annot
 >>
 endobj
 110 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.cityam.com/could-kemi-badenoch-be-our-next-prime-minister/)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 531.0719 357.2539 543.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.theguardian.com/uk-news/2026/jan/14/keir-starmer-promises-action-damien-egan-cancellation-jewish-mp-school-visit)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 229.0719 530.8279 241.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 111 0 obj
 <<
-/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
+/A <<
+/S /URI /Type /Action /URI (https://www.theguardian.com/uk-news/2026/jan/14/keir-starmer-promises-action-damien-egan-cancellation-jewish-mp-school-visit)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 217.0719 110.1949 229.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 112 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.dailymail.co.uk/travel/article-15462727/most-googled-travel-questions-revealed.html?ns_mchannel=rss&ito=1490&ns_campaign=1490)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 350.3969 531.6019 361.1969 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15463035/Waffling-Starmer-mauled-shambolic-ID-cards-U-turn-brutal-PMQs-furious-Labour-MPs-say-defend-government-policies.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 110.3969 531.2869 121.1969 ] /Subtype /Link /Type /Annot
 >>
 endobj
 113 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.dailymail.co.uk/travel/article-15462727/most-googled-travel-questions-revealed.html?ns_mchannel=rss&ito=1490&ns_campaign=1490)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 338.3969 177.7669 349.1969 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15463035/Waffling-Starmer-mauled-shambolic-ID-cards-U-turn-brutal-PMQs-furious-Labour-MPs-say-defend-government-policies.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 98.39685 493.6129 109.1969 ] /Subtype /Link /Type /Annot
 >>
 endobj
 114 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://www.mirror.co.uk/news/politics/should-digital-id-cards-scrapped-36549430)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 247.0719 386.2879 259.0719 ] /Subtype /Link /Type /Annot
+/Annots [ 103 0 R 104 0 R 105 0 R 106 0 R 107 0 R 108 0 R 109 0 R 110 0 R 111 0 R 112 0 R 
+  113 0 R ] /Contents 151 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 143 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
 >>
 endobj
 115 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.mirror.co.uk/news/health/tim-spector-says-food-change-36549210)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 169.0719 374.2999 181.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.theguardian.com/politics/live/2026/jan/14/pmqs-live-digital-id-cards-keir-starmer-kemi-badenoch-labour-conservatives-latest-news-updates)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 689.0719 527.8129 701.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 116 0 obj
 <<
-/Annots [ 107 0 R 108 0 R 109 0 R 110 0 R 112 0 R 113 0 R 114 0 R 115 0 R ] /Contents 138 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 129 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 
-  /Trans <<
-
->> /Type /Page
+/A <<
+/S /URI /Type /Action /URI (https://www.theguardian.com/politics/live/2026/jan/14/pmqs-live-digital-id-cards-keir-starmer-kemi-badenoch-labour-conservatives-latest-news-updates)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 677.0719 196.7389 689.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 117 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.dailymail.co.uk/tv/article-15462327/Schoolboy-suicidal-video-man-taking-life-playground-12.html?ns_mchannel=rss&ito=1490&ns_campaign=1490)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 768.3969 530.3419 779.1969 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.mirror.co.uk/news/politics/keir-starmer-launches-vicious-kama-36550029)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 585.0719 400.7689 597.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 118 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.dailymail.co.uk/tv/article-15462327/Schoolboy-suicidal-video-man-taking-life-playground-12.html?ns_mchannel=rss&ito=1490&ns_campaign=1490)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 756.3969 227.5369 767.1969 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.theguardian.com/uk-news/2026/jan/14/watchdog-to-criticise-west-midlands-police-over-maccabi-tel-aviv-ban)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 465.0719 532.3219 477.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 119 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.bbc.com/news/articles/c98p4214577o?at_medium=RSS&at_campaign=rss)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 664.3969 410.3359 675.1969 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.theguardian.com/uk-news/2026/jan/14/watchdog-to-criticise-west-midlands-police-over-maccabi-tel-aviv-ban)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 453.0719 72.70091 465.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 120 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.cityam.com/heres-to-talking-about-and-insuring-against-death/)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 573.0719 359.7919 585.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.theguardian.com/uk-news/2026/jan/14/west-midlands-police-chief-apologises-ai-error-maccabi-tel-aviv-ban)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 333.0719 531.8269 345.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 121 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.dailymail.co.uk/health/article-15460183/Food-addict-mother-two-35-spent-420-WEEK-McDonalds-breakfasts-Chinese-takeaways-shows-13-stone-weight-loss-gastric-band-surgery-drank-10-LITRES-Coca-Cola-DAY.html?ns_mchannel=rss&ito=1490&ns_campaign=1490)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 364.3969 531.8449 375.1969 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.theguardian.com/uk-news/2026/jan/14/west-midlands-police-chief-apologises-ai-error-maccabi-tel-aviv-ban)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 321.0719 67.69691 333.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 122 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.dailymail.co.uk/health/article-15460183/Food-addict-mother-two-35-spent-420-WEEK-McDonalds-breakfasts-Chinese-takeaways-shows-13-stone-weight-loss-gastric-band-surgery-drank-10-LITRES-Coca-Cola-DAY.html?ns_mchannel=rss&ito=1490&ns_campaign=1490)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 352.3969 529.7929 363.1969 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.theguardian.com/politics/2026/jan/14/chancellor-relaxed-digital-identification-id-cards-workers)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 215.0719 483.3259 227.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 123 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.dailymail.co.uk/health/article-15460183/Food-addict-mother-two-35-spent-420-WEEK-McDonalds-breakfasts-Chinese-takeaways-shows-13-stone-weight-loss-gastric-band-surgery-drank-10-LITRES-Coca-Cola-DAY.html?ns_mchannel=rss&ito=1490&ns_campaign=1490)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 340.3969 249.5419 351.1969 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.cityam.com/could-kemi-badenoch-be-our-next-prime-minister/)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 95.07185 357.2539 107.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 124 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15461559/mcdonalds-sued-death-vagrant-drive-thru.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 248.3969 527.1019 259.1969 ] /Subtype /Link /Type /Annot
->>
-endobj
-125 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15461559/mcdonalds-sued-death-vagrant-drive-thru.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 236.3969 188.2699 247.1969 ] /Subtype /Link /Type /Annot
->>
-endobj
-126 0 obj
-<<
-/Annots [ 117 0 R 118 0 R 119 0 R 120 0 R 121 0 R 122 0 R 123 0 R 124 0 R 125 0 R ] /Contents 139 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 129 0 R /Resources <<
+/Annots [ 115 0 R 116 0 R 117 0 R 118 0 R 119 0 R 120 0 R 121 0 R 122 0 R 123 0 R ] /Contents 152 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 143 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -908,94 +893,218 @@ endobj
 >> /Type /Page
 >>
 endobj
+125 0 obj
+<<
+/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
+>>
+endobj
+126 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.dailymail.co.uk/travel/article-15462727/most-googled-travel-questions-revealed.html?ns_mchannel=rss&ito=1490&ns_campaign=1490)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 624.3969 531.6019 635.1969 ] /Subtype /Link /Type /Annot
+>>
+endobj
 127 0 obj
 <<
-/PageMode /UseNone /Pages 129 0 R /Type /Catalog
+/A <<
+/S /URI /Type /Action /URI (https://www.dailymail.co.uk/travel/article-15462727/most-googled-travel-questions-revealed.html?ns_mchannel=rss&ito=1490&ns_campaign=1490)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 612.3969 177.7669 623.1969 ] /Subtype /Link /Type /Annot
 >>
 endobj
 128 0 obj
 <<
-/Author (\(anonymous\)) /CreationDate (D:20260114132355+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260114132355+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+/A <<
+/S /URI /Type /Action /URI (https://www.mirror.co.uk/news/politics/should-digital-id-cards-scrapped-36549430)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 521.0719 386.2879 533.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 129 0 obj
 <<
-/Count 10 /Kids [ 14 0 R 30 0 R 42 0 R 54 0 R 67 0 R 84 0 R 96 0 R 106 0 R 116 0 R 126 0 R ] /Type /Pages
+/A <<
+/S /URI /Type /Action /URI (https://www.dailymail.co.uk/tv/article-15462327/Schoolboy-suicidal-video-man-taking-life-playground-12.html?ns_mchannel=rss&ito=1490&ns_campaign=1490)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 414.3969 530.3419 425.1969 ] /Subtype /Link /Type /Annot
 >>
 endobj
 130 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 2017
+/A <<
+/S /URI /Type /Action /URI (https://www.dailymail.co.uk/tv/article-15462327/Schoolboy-suicidal-video-man-taking-life-playground-12.html?ns_mchannel=rss&ito=1490&ns_campaign=1490)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 402.3969 227.5369 413.1969 ] /Subtype /Link /Type /Annot
 >>
-stream
-Gb!SkCN%rc'`HlqEBgSn(>>K([Ul*KO=j,:,[K$5-nkc@BSi%C8>JjM;>os-8bnXLPq9_$-%Ub@(4#AZkM1DT_8BXF5*H'+E!h5-$Ijjq*,*t8@<r,JdoYF6Xe(L=K=F-Nh=!iTNJA3c?ZfsfTW?WA(fqW$,7)0#8#&oadfOj10p+-JlR@3j\lurgB.;F:cFL$0Op3Q:i<[0f<-"2.jT5.J59q9r1i+7^@MoFI#,[_@rRhDH-\f1gEp37QYocm]7AE&$'OuIafQ3*l7d!'Niu&j65[A]MDmS17hi3WahqF!4[RMh&^Y?Btg[/4ta):bf0"GR/:ERB&"qs4OMr%=5<QPJY8u>3e]P4X-4K)5uE[Y%T/9hQb3o]!4<U5=-$.`U9(;i,cA9%Vc7_rDaBq&R^;7Fbi.=MsKcf(7*XCR)OJmC?S/jHf1\#VRhH?PWt.+%k8k=QQ!Q:snN92$DPs7gsE.A-4-V&M5K@W7$?n)'+C]64]'SgUPRKc$2I2k]:UnWMPd7@l$*MNCD9Va=u7jI$/MK,brH"3jK8/$9C:,l"%cG6&(_.br/&8aWO;YdMq6f;a@9_;Re'hM$2ATC*=FE'J==HFlX4>9aK[/((L*cLDRILA62XNEMGRH$Nd`ruEo"`5HjH_0CPm5<5A(O"qXB=(Y[h/aP"II#o,98opCD/eSc)n;GFSWO^ti?c4"+Q(S16Fj7<F:pgP4i^#0"\]@WN[U>OO]!efJ6n;d$L"d>$AQoo"oK-Ru7LucR+$#Y`CR2tUP#=fu79,Ub1)MiBdn_R^"b-(WeZZ.\(oS<[)\P`f$&ufq+2r?KVF/(hOq"P8QI3XuQaHB2CUt-O<[(fn/iW]HLU1O/=jdqJXGKOh8]cjcABdltP-Vj$MYpOir[s?;#/g&Ag9aQ@rR>0C=i-&ZM+kX[@I.jH>s0!h\oI`^M#H6TLr7:1^aU'<^/RcB.'"5l<I^1o/X>7:)fO#:RHc(8Y-/!A%LJL0PA-=*Z)1,$^<6IuLQ&n0K`s!6<Z39r=0MVA$fMm4J+eX8Np(OGn."FdS><*i96GrTRAqcqf5_>%XK+4!li)iXXOLFe[Q>6S\O)ZJZ?.5spkp_+,BhK&)14:R#'GH7DQ%_](F>H&..)&!._U8>@u6OKWa)2F"d@c#*CdO$j__d)5\YE]7,\KcgDs=gR)'M(9hYpPE?lp[Fb4nn$%cS"`ac3ikRW:Nlb,f%moAs9AS'Y?i.`faqoStEH&(Tsn5>u@(6W)2`+^q@G,3kipR#^nGS7sNVHa]$G=UW*6ghWA:c/S8buk4\?o)4Abfp/.CApS":'nZaa`:pe7V\]>clArfd99L-bM=.#eG,J8XNB245QmkGhc"W'+[(`LU1AuJ%!Y2#R5YPr0]XA`I6Sl2T8s7fIP_JME6]p"&6W'Jkhk@[U\loaBh`UbKV!C<c&aWbj@hpn%U;B,&:=sVD(;n+eg]%0r=V.Lb8,d+'Jjjmpei'KJ"WdVi@R!:a)]nB3E)8U^?gsCIq@R%,Rc("\/VjSk8Uqe>-updIlk"9$_&]=:Tt'D0nfFn_quVU.UGHA)L84\1S/"aE!;adF"t^ZnZ[*?I("XAK8K2<*#``B'YU/roAXGfnn/^@in-^?gPD[?C$A#dJ`$!">8Po5D*?]iq>R]JrgB>D=:]!S><Ld_ZV'Q+Q_e](ko7gV4*k=Rb&K2;`dhU&H0)p$8GJE*OZI'UVSB*QB)M^\=hP[c4&b9jI;^HZl-AkP=UhR9$()n7(.\p.&7f+H)Ql0;ik=".H*TWI8^R!X7>LDSom&)F.dgP4/->,*.'Fq#So^_a$jD\"3,oAi?r*[PU7/!fF[b`"C415&CMfQ8+6,9thE\:uXc0g3(6u!b_lU<s>r)UpN74qL>;/1&2#$P!h6PD8A&\.D$l),kkmH'/iUi6mnra>%O.nq@"CdW]2F8Nj+V:Q']dG35dgPE/H4M'jrkH%a[C9o*O3uU*TQ0V0,/4m%:6`oJRU,QU08J,F5:6571^WUib4+[<<705e~>endstream
 endobj
 131 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 2984
+/A <<
+/S /URI /Type /Action /URI (https://www.bbc.com/news/articles/c98p4214577o?at_medium=RSS&at_campaign=rss)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 310.3969 410.3359 321.1969 ] /Subtype /Link /Type /Annot
 >>
-stream
-GauHLgN);r'n)^Xke&0)M#gln(oL92_+%gKa[YKGWHi4-%;I,e2/6P#Q&j7/$"K$/k*U4)&lU]EDQEMCXgRnhMA1<7e_`&HW:-IHW?P>0mLlMdAfJ:)B]+@9qWY5)+W#ILcJeYtTr>YbMVc,2/,9_@iU0k[maP7J88gF%e`[pm:!hQNB(6@V\**kU`=C^$9P?&?7FQkY<1kmJVi(UK;CVt/SKgkV3XnMpW9noq!O!p"IREN:ErRbOR=L\Y7s;7OVl02ee2>`&R+)64C+n)3bNaeg6`ka;]N1hL9(g>.kj/d4pa/L(*)_?$9Z,R:SFI02]1c&>;AA%+<j=n-O(0FZ?4)p+\J*"W'EUG9Qk>!MJfMA_H%Ns]?a4^,)JHB)?HbViE=VtIQY1fKhr()+A=,W6(9$/)6/dJkJ[kV`_N?.hd9l4qksAq\X?XGt#1[.ji9rUuqI-Th?2[L%lG[[?WM#8(UF,$OX$EE$n=<!:Obq7^/#B(UXuKe-Zl/G1Pmbt@-WgXOC0gKaQ@(Uf^>C_5DgQC3\,FA"$+uCu>&N5bka<(-m&?bYfMTZC7H-:eBcgjG5'jIq=87d[EAI:<)p=54gj$KL8ajq2SAJJL2aO0EKhB[`&,bP+*TqO;->jgLm)3U6A,cl``QV5,mHJ#:BDOTsL;h^/$,P18U[_F3T="!ZF$jPMM,f$E_Jp6keA>Y$$ao=Z*;Qp0CgN=@&M@!@p3Q.(hf$j.Rsqq0H8l4*Df6Zb4rWl@KadpBl$L"LUU-3iS()^Ugj)$.Ci@\/Jh/*uq:$>qB+h/peo3g\[E,)61%a&O#u.Mg^$G(Urat>=a#b5AiI5?3fBpHK8;)a7D.cZ6@e=q]X7P9omdX*q>LTARVSh8L,]!A8pN']HFPe?t*Gk0a1FhXQ5GQ'gGnG^H7u<7V3?sWekrKa?O0[a)IdGaj_\ShQ=P*NFAFaX[rl[8%>^H-$->MEmd:OmIUGim4V<]!3GULJ)Xg]&,>Z$^iDX8ds;2GZg7i3tl7*.n4BZ28n2-k)d&Pmqd5i>knRu3fdN=^2iEggC%*aLF%&P9Qj9pPg@)Lm]AC@@/*9tgBhn)*"Ym"Y^j4Vg1:N.r(dd$M)G$I,j`c'R=JU3SAd3Q>d0RRl[L)VQK^4ga"*XYqej5:`.?'D;B"bV)p]6g=TR<Ubu;fG+W]OYo!<pRrO3PP)Ru%u\5mNS!-Q;a/JHbmC].<faulI.:`.oQmVEVZ5k+@>P6Z=51)P_(^c_b'$D_NgM98m:&O3_/Lpm>j!84K;8rK`=@9BYu=;F8-WK`f4eX,hKjW6#&PU1^#*l41ZJ#A(tcqgp!rkjUH6_Zd6O18gIJpEol21uKuXpH*U^-NXiZB`@6?I1Ai0$OF&%$?I9rB@=1`77+2X.cja-(,`&5e2E2.\^p4.p!3uf#GG98tpR_>Tapr;mL-!A8pB_F2ONGNg+c!@.^bi>q7ZjbsiGs<>%rpbN<@c#@"dClC%#I^5kBD\nU!ukco]_2FL4)S;LhNlFB.%"au@emZ"$#FbDIkL\N<J&nb7!GB)hDZ4$EW''f7a?J^A7)qn3stml]SO\9kP8?+e.,HSQin5j]kKuYB^9OicVN'/G#s(s2<?oueXUtt>KsmKmR.\`La[:hc=A/_;ma@)=uI3[72T-*D":O`%s$8<9iH=2:^W0fNo<TG+udAmquhEU02MsVka<6m'e;!mn3>"192&]N6(^XB$(`%2YEHWY#3UYjQ@1c?i%Y<PM4Z;(#A!7#m@L1sHLKn`[lZe_s5t*DOJb3L+iHA$cSXOQODc8OU0u=TL(R0H"D-(o)[FKI5t93&()pq$S#?kW-!,qfaYKS>,RcN0./D%N+DC6-1%$b(BdtNn\NG[S5A(.5,*H,cZCE3T,qObY;eAfl@Du0&]JS[%-3iSVlL7(j"Y0#1K#+GEERh3aaTZaGa%:DZ7FFR("OH#7YX^U^opl9-FMXbPQT5;T8K@;4!F?<e_ON2mfB^C"!^')N;2>h0!0QoCZP'bc5RmQu7!O#EhG395Ioi;dZ>>*nWroXWObR4W"V](Ld[!:"lNsI@[G?]jW\oZk@L_6kUZP@Ik/dr')COJ0LG4@BTdp=75QhfW!L+0flXe?T83Yk8ie55B?cL%,P0XmTd=r#&EtYo7%7@QCs+#^(Hu,L"JdVL1L-`aG#2KD4c7A\>6)d>NR$U&M#*]-D!=2gOBY4Ij%+ju#O@[OWbGZbU!#-4!AJ8<0ZlA0@s64j?M.7AgnLGJ'X@p4,;^%85W(H_WdM'DLB>6ipBQ>Ds9Aje^2@4muaY6p"eamO4VDMZI)?OQ>1_FsS1FuCZoA+3VS`9k)4Bqsf@-AiCZXq)7MFca",2]b7$!7E`9R&/p<<+KP>p,<m!jEW="ii<g9)">nak2E$BB&iBU`$ptK-:4%-PcTqNJ>)^!7Df$dMk;caRD)'<Dm$Kf^rdoq!eR=ppf237dEUqhZ3&0Z5cR^0*se8qPh0#[a=F!+*HE]nRfqC$T)9B&H!C$>U-FLeb/ci"+DWs<K]<:1OFl$#q,?JMn@ePV%P^9Tc)co9)8cbU$@uEES3O\>c[8dO?9jSC+)eV^X/g5PgI85l5;ufNpnem+<i4lX/a6l2c(@K6lNiIePksBM@&!63L"JJCL']Qh'!NrFfBkWLLY=#Wfq#*=B,o`bRpt`)KV9s5_"Z]a&4^h2(R?VUf%Na4[A4qi,bipXJ"RLOFr+K0W7Vuh`N[ro*ljjHU8j_pGDXYgh!['"p-_BlY>d#_>D&0d96Wd)PT]C@oJ)\EJSF`OiF)t0!q4EW#`8`(!-dBRB#HuEU3Mdo^H,Q+c!?D(<F,dbMd^c3md8JNo.2Am/r,4N%63>.7.)J??(O6"MfdlF6dk11VOIb_3tXo6OWjt9D-)K@JmFo"G:OqE\C2PR"9icY>6h&SSr?C,JD;g`=;-e)te:&-'O>[f*rEAfjIi8okpI[>gbI)a76%(LTJi25YieW%i"[#^VTGWQ2~>endstream
 endobj
 132 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 2506
+/A <<
+/S /URI /Type /Action /URI (https://www.cityam.com/heres-to-talking-about-and-insuring-against-death/)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 219.0719 359.7919 231.0719 ] /Subtype /Link /Type /Annot
 >>
-stream
-Gau`T?$"cA&Ua>VR&:oWd?4J8Os6s0;KdG2'O,dm1L9^,W_uJt!Nl`:@4WO)s#rRRn4U28`2?8(&lIY?i6G$jFO0gEiR`:W;,6am8Y]?Nq#N&\o#"m,bI@-8o%E2=h9%`2b_O[8rSb]dk>S#@?E9;Ti-.s-k'5=uS'a28HN%G5Tk-uOQVqJ*o_o;*af<(O[n=Z?Z?3('>+<CWFYKB6#8J&t`q&h^!\]oJcPM&_/mZRudJ-48I\Pq2Gr*3DS%Gko#/f[fR/8_0cA(!"*8t>:>s-r67q:Bd7lPX##9;N,?.YoYN(2RhG,W->Q*PQMR:3E>'l%MSV9*h],<H5Dd.D]Lg*g55>K\KtPpl7M<^^_k)Cr2>A.bI#o@l>IqaW_2fq<i?47lf9>^\`kW98W1PQj@^V[ku4,ft.j[f?:kmQ,Y/FS?=&[Cbb]hE>I9g/9Pm9Z:O[<(1s^o+f-#ki*mWZAL6I(NiXkU^L@+9eA04])9g9[$3D42N=QBEb1\s0!?g/H+OH-:p8D$*`7#@C+hH`.T&W..=YWcUYs)TN3olRdc?IMdPMrU+1cgd<T4dFQ[#@m!J'qQ$@Da3*dD=fnUJZt+clQk_@%-Q:TlF<O7.*MRt#?2?Qu=8HBRJ?PBO(p)8/nXVAC@I@A5X$-u(<5p'/m=Y./!TlLMU$!sb'+Xf/BZ5#N=l1LmPfpqC!K+<crVZ8JbR>\@4q'o+rh%IXhZZ+\EW^&U59T$f1PHK9<2-5r>*N\VpY8N7`;j2ktiEm[<,>3q,0CrO@diF"0>fSVSPJl=+'/2#Qb\tXn]!-AC;.p?bH"#e+.S&9B>B7DT$^N2*@-rfn=AQuq[rmG,W(<O4R3\>gO_msusW,$I!oAOKiZhq$G5)c&AD=KZu<`3.5WDZ84CAtc[RVT$cjup>oFV"\A4uI?&alp!TDuN`6I&.3R6lIUYl5Y@[%mH@1M]\an[g8o1-osA\hbaUHX)3R&D7.K!'0g`5eAu!nl:T0e9L5pY23W170@,Fd&udE<'q/a9,H_DfXRfG.[KV.meQ<8p6[@HjJih.fA[r[K-KbkHN@B1,1%YFT^a1idQ]E=he0sl9NftaZe[_&CAoeOgiE4/\>`%\p3L@'n?VULj*]q!K.6I[lJ!sWiY=YH5"_FpGh6jV$e`8#Up,5j]Y-uiLV:ffTZYQm9qb)_O?'EQTSQ;nG;,kYN_jTtulOt08+6lM'R*6?XLL/mJkP)E@a7NpL&NEOi0!)K=CB>9_4Kj<FZ.=&G/0@`")G'N:3`7@@[jhHPB:15W`Ca^a9TdSh1sO[p$"1D8lCC`)CCGOUWF2E99br?]&2PYfboq7hs&9a_W.YedEE`lAFiEbl8E'4?r&gYq"ee.%XcZ:c>V\`r!2ujhVD]B5KL<#biK9EG'^<qDPq\_U-QS`_an1QroX9uCB$1ZJn1SHj$J(<-<f!;+GlF&CA>7O1n>,A->rHlT.a?"7SR,A?p%&Pn79([Te&N>\-aNQ'R!V]KWe:ghCO/-gPdfTqSFtsFGBY%k.m!,aR8_sQ1=&8'O)4/BeZlQu=eq3-EuB.He7bFo"Y5??MbP;+!"7(lC=+Ib9(baEpaa>]%]Rj2e/kq'fDS7JS"`eg5Y*K@#aKs'3AAlV<fBJpPVF\d=9Wcl)i$4>W?+?!`r.r2n.cHT"FFQl:2nfMpK6<q:VaYW@WfIB<DY3$rLX[l,61;J/AQcfW^JAIg^Td)Y$gLS7`^._9kb+HC!?mI`kpJs-+D/O>#N2/6%@Hg$jYE01#pBJ,(._kIeb+=_Weq,dGI(ao[p*dfC=75Tsg3[3&_VaWsY/U/p5"a=.q0*ZIOfiqfc!ibZCH3L9<+NV7<lfEYZUm\[sG&qoA++,M0Z2B=r>bP]?C31t<522&XCa'XMb<Dl'+GY`T5R_:4=@a\*o)T`UDuHVA)+D%FSnB(mAh4K7>ba.n\r0`&`Z$aC4I0T61Q=L>jYgoY`eg4,lA-^+1r#X4c?T(]KTcXC*]T.3j0$AJkP._t#OBT@4?[nL\#'[3sc1gj:HHh<QK]68VJ8SX;GT$EG3DW'h;5hF2>L>fuWqoP9km4h7.^IcPJb;QOHe5g-O-<ao>"Bst0AS+ZKY.fFcS7Nt57jRee/&aX^mLu*@5[J>Q^F"10g?f=[];[%=SrR"dRWup$70=4)^h\ckoqdC\67A&?0XWFMXr)"A[GQcF\jNKX#IYR*\-F!JIdPKFUusdC*OUFTQ/q)R2^@:_h@M7qRr?#TgK<.uE]W]q7]W2i.D$1S5N0m4cm95ZjIQ8Erl]Ig;4+4NdDh6jH.tA$dW=b'm9o$faM!He\jq^Ud3i(Ur,?b>mOi9Aa5'&+al2JRj]\as6S=M/a"u+,7T5s9hOq*OY\6h5"LkA$+m9NJpZ*(i;u<S0'r5mN=))dnT%])kktJ`3?/*PS?GJ)\!FH4!-okEN.sJW5Eg15r!3()J<0e8t63"`J,k!iVLRRRNV"0eXp@e#US3+t[TDTe.h(Vri^NELCci+"WM8Pt~>endstream
 endobj
 133 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 2312
+/Annots [ 126 0 R 127 0 R 128 0 R 129 0 R 130 0 R 131 0 R 132 0 R ] /Contents 153 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 143 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
 >>
-stream
-Gau`TCQI5Y')eD/1&&lY[PtQ>=ghB9MP>ARks"Ch3%.r5\=b/%@P!Wk8ZgVE^,)#7[=,B<ZH0KJ_STJ#4`fbUGqamOhkC'D97UX_(qp>#N*roB0HS0:\:g3,-\"<on!qjdA2%`4+,kh+R=oO*2/?A,[_#$9mPGBM0T$*$31c.=;8Uuo/rLa_]7;n#D?lM[B>Rc\'$<eJ/A.#j;ts't9%]*kSjF,Z',H6PN14$m^(q90$]>P"pl:=/(!Z)oEY8g.8X+l^*JX_R.7*\H0>bEGiAoR'H69iP!BCtk[opW%+r;plZ4q7(Q*a:'fQ%?^9ku77cmu%%Y*;n$i:)^bj=E1d7OZpQXjc%eX)GdfE4FNk>bWkQU]McGD%s(Y!@>24%/LH=AXtbm;V_WE9#Lcd_$`n_/@DnrSf-e&<:/Pe`PSY5lSVfh;QY&O)][i-EFbg@Oms#-(,X)X*AF/l-?lVuZf,l8h$u2t@Yl1Z<"J9=&DaTY%&ci-_8:1S$);H%I-\9kKjdW,:5Y"T`<M=0XO9/IkFV3c;fJ54q%_piAb:siKGJ3spVT?BesqS;afXA.E`X#@./Ub7bqT9optf--5k4=*K(i/L<a;fXpL0Qp7lR9nG@,e3UIgX(LJ`FiT'63qF!7?1entFKG76QcK%DKsKnUJ68mPZ2i$F/f2=^aWF,1$6"Uf/m5(dt!"aA%tq:2Ya;?EkRjl_EH*K9n(:9V]!%:DS!m3CI!TG?aW1^<4@rp1OJr;PHa4J*5l5BGrZM+_H#0FPniT)`4]b`&G)Ap3Zl9W*+025$ST;(0%DAAg()@4e(BW]$1RQ3?JR\f;N7O@rR-;V)C9LOZ9KS\:==X20ZtW3hga%W^R[m5<!e[+U-],s4Q..\5_3FU?,iK=bgH\:JkJ/"<6l-*AUW0U.u1UM:0]o:cI8;/u`[Bg03X:5?,+IC'JA=m6!Y9'pSMb[e-sAB.*h16HF8M/5!dO+SQIH5ISp+%%/D9OfAhT9E7*3@-TL1s(?R`Y=4%A&oRmm0q)RL!PZ\'Z/RRiBP`Q/K^T4?WS@'D_$H)Ns_;a:k)(`UNdOWI8r$DNutBbNtefbX;okWCM?BB(@qo6Vq2c65t11O/kb2Q6[-11CQ-JJ=r/SEW`^<Qic>d`5]ep?m6tIe7`]&XlJ^:W<;R1K\nFq?.+>Hl9IJ<:1#lJQZ&Vr1'<?nriV69;cD@jd/_?_I=56VJj#PssG1(#8G(_e(eAir#G&;J]TkFeO@41P9&)q-r&!_fF1^i<WA</+5LN[Kh842Wg.eoYq?*Zu5FrdfeFrbVU@BDr_8.4']rDt,Z95;J>6t.:_f0#fbrs-mG<hAqhR7O0n;Lp@m')5:i("cbl[,#/$:Y,4JnIA_h9<PuOf^W[uGf2)k8^%mZb#[A!.NreP*lL2m%8Q4ps5`msjX'iq$5TgP_M]LcT>B8ef0on1'Q4'h]CG0Zp0rr1Z\8tp:(p?Fj0o`q&qeH"7iE=mTAd64ChO`$)f5ptJXqP_C<d?^pM6"@m1'Oh;/A3HI84_>A/6N]e((1JQ/d3!p_Tn]k8E(=/Q*?UO18]%cLb.7o-9.pHhRSP=\>JIF]Pa%+mLld*/"R_H<JdPV*NrcQj)Sd#CIVD$3R"u#9P2B\YI1o@U1R4GOZB5./:5q@6dCW;W2+*_@\\WD4>.66H/b`5dnn?HH]*Yk^LIainP5BPAl>K7)9.AekJut?cJF'=fp>J\ZCLI+j4"]?C[2HVPh1A?AamN:YT_SIhPXl]tnlqY%2\ill!I9N?=KjI:(5Nnua87[<8l-^1[2*gICn=PV"Lo;Z"ni!JsB)j<h4c_=N'cF-[,jm))go&b%q2;=7>O$sj=fIq7D62WWK$J?m1@ZKhPDFS*m)M/Y@JAjP'&8OT<YVs'<iJH;fE=\)<L(<t*_Xt%pJ%81etiQEQZ@1P&h#]Z(OHt;Zn2.c&*!UO=X'*6B8l,NEnEtmCkiI=ib7o;$XBZlLGHTAid_7W]_cS.B^C"RKOb&Jfi8(DN;I;nZJUVi0AZ%J[%6:VAbnW\(ZZ9?rV8%4)ndSaO,oQ!MJ`2RcAfe']/rE@Z/aHn7FF4)mFS%DQaWi"TXNmDNi;ioRB8aJeNGg>rK:r9!<lYfd9Hp3IcrR;]+*TVX23kMqao&u(K!\UHKY"W\<>Gs]87u<69>,jn^h_:73dmE*UfMlL@3t<Pdo0W06/JQQ[@(K#sa-jPsj1)1pgW!7>q,/^$?qiITFR[sN]M5do+$[&UK6TEtG5Pr(^KJHmf(#4ee7L;9O/qu^Ap4Rl"%LdOT!ter.O0Btcd/K0gW)>9KI;6M'cWYT~>endstream
 endobj
 134 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 2886
+/A <<
+/S /URI /Type /Action /URI (https://www.mirror.co.uk/news/us-news/breaking-donald-trump-told-buying-36550467)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 735.0719 401.8039 747.0719 ] /Subtype /Link /Type /Annot
 >>
-stream
-Gb!#\Bli:V(&e,\79?<8i?]8<-!%cQV<fpE1Ia8FOA25UNRXW0=tP_;@e$YJD+WYslkqQuV..anXKCr3cFN[-7QUJ,r6l)e3k%tgLClG+]gTA:XX!]]Fm\)#rDm6=WsbJ5ZTMT3kd]*[kj:*-W<[D<G,#.XC?[<\euLiLZl7!q;<<B`^-gAQka!LY%UE#md6s]P'e,&o6k;bnKcK@a.Qt(!6&'862'$JB?<k&f.uG7[,Pr)+IoXLI^s)b?9r$G/(`eQ=%9s(#3oF?'"[9GTgWC"rqcN/%#j]Vn4o\5WW%pq9'%/%4+cf6E]n/!?L8#te.#QUFc-J_r)+g5u+cia-8iXDn5Z98Z&qPj,f45J)$&U1e/BLX2T0=*HTj0FYa!?N%Ll%@BBT],^7-WR-MTh5C@?Ps%r`?8:n#U6;E40ND5NqM)F`MS7W\>h+4*fBd'p$KP3#PZi&1Mq(=EGc0IQsXh6q(rX7%P'FnS,[VWajO#g-<'Og$-/RE?FTB1@lLW,"J).e_BIl'B$2_Q!U8LZ]D41KbR,D-5;UI@#>R-Sb#MX1eimq9@p(\cN`t!7<#_kdO7mVOpM9=O&5,Z.u;8VN>C"iRAB%i\9CNjQW6g4!P-2@+UMi]S4dCa;m_Jr`6omId)L"@n<PpR,fWX/=J")YS'@hQSs*,rUM:Ro"=0uOa#N'0AZi,"JCKsanN9d>/7>T*A.9n&AWX9QdF!(=GH-*1ng!L>r&fu3pTdo+UP)JN&`Xi?JN/QCj:ZHq;OO7m\WhOGm+Qu>.*eW\kD>ih&IamJ:818DVT2Q.=i[.'M(`W6Zf)L<0^GW+*W8]fT:]??BQZL:W-\'36K.AIWp:ZLLjT2G6HKj^.0he^Er%Y#^%1@Gn>E^G>CT13_?F<las>VTK'm[eVT7'gfX-N$]/D55oB-p+[8I=)lV[nO,ggI&KER!`4M=>:&qD:e8Wk8Vb.*4_k:-?;1Y5^K#GZ1rC3ouULj#".-rRGD_%Q$'glq2/qn0#'a_D&-EA"<5#4#;^Hpst:.MHTd;\C&nR@CpuY'a>,^fTJ9!VS"6G"GA4PukK/?*,37>HnprO>N4Mat"0;WD!s@a6\V02EucGasI`&WP_o.o0lT*dD@Zn;Cf8Om9S4@!]7k2NG&Jk[#ufE,>:!6T3W_17#M1!Kr"XC8E_W7TL'FOb>T$](O;Ob3dHV.M&UC8ZsP.WLm1Y*k!A,06FT=T5E/59IfaedE[CbgoYkHp]QnWj=6(5_iIXV26Q.H.NZick&Jr.R=lSta/6Xi]qGFWZ'Vm"I%%;blLd.%:gc:)8*`ZY7/b?JgIP3*\2ZI-j=%\*IaS:ft@Zd;YO&Bc%c(D;KBN.3jW@G=+<M%7$VhpWqk[YRpWN:M.+0s.kG<VL=)X_]o]*JUb,L3K0Ve8fD3$(6f]&RTEl#+Jq*+.ENCWppNHZ+5f%W:1V]P#p6cFOsuBDqU7E]M0`J)$lEo:)4BIPp@Klj5o2N:!$%6GJ"uB5K3fp$H_&*mQh%$FZr2'KhLqgpOb2@j^t]I&NHuq&SGF[:Sht&p1\m-Q^U)n`ESb=:Xd[ZXCBd?Wq7kB%-XMA)1B"YUd`e]bBV)].pk,4OZg:(;i:NG;c&(k4rV:G^%6pF*kE&fUbG_#FkU`EBD5$Lj[%Ul$M<hYS#,A=6J>_+[i([=>pRlCcaU_FQ9bd)s@F+*sUbr'+Dm(p[InHQ<a.M&YEY/J^q6HhItW4mMq!h9V/nTM1&EsFpEcNp\FG:0W+^))g)AY`3eeTjO:Zrqe#)Y3SEALS'-%hpE7D0GDj;glh8EhWJdnC(`""]-h_hsG]Jc]TC1Km=jJs<PP\Ld576PJq[%/Oe$`[&T&YX[S-8H>KLbmua\*Ud+D<Im3k`Agog=OII26"]Ys(h:*?Ism:Q-CYcCNWmh\cN;*r6?2>W"uGC4!C)=EiWt59fjjN?^.5r,C5ds&d7T.M_f2P^<^@X7<(R[UDQiNu<$D5[od,.27.e\I]pOc_*%mqTIf(W^\#e"BQo8#lEq[2SKl'd+s</89mVDL1,V[O6tRnrDuK+AV]PXU"dZCUihp%RF`gZJj^@I8<gelS.ES4[7Y."4OpYBkZ:"SpYChQ?u/M7B_p;EE1&ooirCnpdII8r(T'^DT,S)5A!)hNlFu#+_(7ERK$!Yq\,4ffq#B7G1pk?Db=UeLVAQhjC?g,IS5E6c4:E\m@<I7&c!MJb*0RnI(TeCO+`:[(9\t:8_"j(;3JNYOfIc:c+`Uen@*#2bSZUQ`P&lS1NDCKaqADje"t4r!9Y[<o6!Q?El^d&s#i%TfL<XppGcLnA@)dkYU&0c]BN.u"@0frP0a'-TSsn4$.1gGlP9^2>!7^s\".FdA"<a/oh7OYAKVpkX[6MMg>>a?#"rda84b=5X^`f'OS,4oqM`papr<."GNdr#I3R;$J2<[dLV\BJ:`>"EQg]HTb$X16L-BlD\J5SeDgaO'GFoR_##iuI!#U.B'#U0hV$e5om#S7Q54GRncDY?YHOu%0Oe&,)ZDA,i4GXpi^]:o.LRc5DI22\;>`i?BiDeu^EbK6c7<-ombL?l6AaV?CeZpP80N>bC*1=TJ>C/&\:$Oa+N&2oLJ=1#r__.-#gc.4OK[Z?:ajK%(/"#UP(?33sZ^"C(]_C448?Z.O[Vg@C1EHImhj\jQFr.rCjnLfkMJGba>Ja*;%^k'l:fOL?MRfUsa$NOE*_-Fd?m3^34.g!Xo+b.7$7Z\a((&L2;'`_F-EN*uO[a5^Wc2h!#l^oc&6ij:B!",D=j@iNP'j8%s$_SV&cp1<#$C3+ZWN?GjOtA0XodE?;gpp;#IGW.LAg#nafr7[KH1F^A<*i4dpGk[1/]r85HM\j%'+lB/M%r-OGRLGK=fka)od3>q[snKb>FDA~>endstream
 endobj
 135 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 2844
+/A <<
+/S /URI /Type /Action /URI (https://www.dailymail.co.uk/health/article-15460183/Food-addict-mother-two-35-spent-420-WEEK-McDonalds-breakfasts-Chinese-takeaways-shows-13-stone-weight-loss-gastric-band-surgery-drank-10-LITRES-Coca-Cola-DAY.html?ns_mchannel=rss&ito=1490&ns_campaign=1490)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 614.3969 531.8449 625.1969 ] /Subtype /Link /Type /Annot
 >>
-stream
-Gb!kt>BALj&q801R&=5^/IQYdf^dVEQ3dgj/D5P+=I#581dY\X,7QU3qX"k2?]pC?NbctY-<4Fj1"6)DJ)1'_KLGSg26T<#:sVIF>sa^5X9_Cg<X2d:BOH8bp1_9^aVV<bGQ3(a'd]t4TssL@K)\*imk/C[dtN$tPYOl9e-d!o)*7(nRVn8d"l83rD:'rO+fT3eOIX]BYL-F^H\#E7k+iLWp)M2Kg_E4KO?1"MHb:K"qZjDJOnB6&bQQ-P*8-T]>trlqFO@d8JOpci#Ks`uf@GdLiV%6Z[)QsN4*MGr<n:@>p3ODi"dEkDed@;9>r,_sU_6cQ/-WJ`EhUR.%-JdG7C<js\tBJ0!Y*nf/Gl\h*VGD/ichhR%^nsg/gcQt/u]^DBUHZQ2(FNK"p>)a,n\#`WE@N9e-JR'<9X/_OfBl\[&ciT=FhN[25AP7))qo+:Q\(DFM4D!jQ$.@UZIhm[ZonrHM`.(`5<n(6AfjVoaK9a,jY<m+31UXF'ltlaQ&:KmAb5IeWJ5*YhljogH>SimLPHY>[b3/_^/$pW2N$^j)'cbJeiT"&C#j%W^so:=j`>l!'9%Pg]Q&OLb]=ZOV!2HU*_:gM@?#;-%I!N&O\."mu*!qcUCFSK#*n'E/"28UW@+FUQiVmYhDMpAj"G`1?<p-.m=(RpA88*`417kJFHqd3._of7Ip[l1!,H2rkKQ@(JDc?66QYK%7K9H5[o,5/Q#A!+/^QFE*f/XT_JPPJIs'r$-?%I(#^njiUK0_Msq&#;r1"4HcetGH^k6](An#ELq??6*&=V?e#E;%o=!._Y5q!6gLDYu0GGFYKkD;1QjO:RJE@:D![F[p!<U)%H?462F1RP*Rrn,fWX??%UH1#nBo"IfG[T)::gX!+2l`3U=]F`-jTXZVLL=$R^/:o-IMA>qRc?N'@&HFL8Ct%XDGd7h:H>O`JYOT4)VW2LUA'Ag$I*a:)pp,9@`5WkR#ti#d?`\t6#&k(c?K\/"n3%YPS$H&N\\L<Ooh.f8f$@@\u66dmKAa(&*Q.gCXP-iEX&)>*Ctj*\l)Vn>XkF6ksesppE`fF67pQ[91@;RrrgMUl%N]PR<?V'g-PHAjT0:A2K*b'qtof`7`25sG`UO-YqGTK&$SD95W.4GESAngRR-DFGnjO")&*Ea4b7cj=HUM)OaqhX6u)cC6+_a#&jGlA+m"+Z!It^g&>gZS#:U?;@p(/bplHk"p1OWWKuX9$Esu9X(c>*uFa<H,X5)@2*F(d\m<:@D!O!kY.OlOZUuu78MIJCnM?W(uf<^-7]:V?;8h9!q]f;!PSZ_\dR0g's_V]NLjaLM7F8+k@Dgj,E'MWn?o\H.FT!t]MU5=._rMm$T0I"sg-$B*+c_00uoq(2WC1(uJ_F2!FqVd=AT'f1`3>m]i@icQFh!=cg1^fMlE8m6Po8(]5PPr<c`C&n+E8rZmoU.kj$iFP9;q[\1c9Up\_=hb12C=jg0U(M=e'ml2DFTi^7^\cU5&`S(>BCM,/R:,h8&r;_Aj>+se(>RaQ8(<+B.u4bj@$FGN]Ige$&]jo94g@&@lX.%CCS_.`%oB1Y'K!ImeDfCHa\#\PBDU%SKpn)V3StX`rkI51qUbuhSaCX1=ltN54*W)=ZX+B1X_l]N2F1ON-gj31+Pr2)=CW!;@bhkFYf/nHIa0S9`),*oQ>kt[:JA0Wcd[aB9THsV\ADXV@@K<Co>'?W;DuC\Eho?ChS"TMGm\GZZPe1B;WTXf[:45\JB$4m!uK&Q=Jdrm*.Ao_SUN:pWp1,W5^X,FM'p7J9=3dPhpd3O,&oh#CC?'L9B)8++'TQpMr?ZR&QI0rHPHU_sn^.g5*8?#i04omiqOnH9rOaiq9L^b:*p1R.7&,XEYD6$+?o@",0d<'Q6O`kLTU%\;kPbCLisNiU`/J4!`Eu0`%AKW@Ij(JjS%k'_Sg_WJL#(DMn@%39_W!c)_,BTE*:3$*T"4W.)pYcPnNf$c)a_7"c;W0nQBq#UQY>h-A"D=,c`>UH+cGFc.$>9pJ't4AL2VeCU?\C'6tf:P'G:ND)dUTJ0c2,A@M*F#gM[%udW!NA_*:I$YD8k6g_-`$e2S67:fVLc`FMi*ld<EV0Ycn<Ic#qo_!OR1*7c`=8_fZQENTa5;rHI/1L<G^'.5X!8)s^(M()QjJ+9?JG\Q$]TrHQsXXE7tCoU(A8_._2IaMb(a]qPoQl0*gCE3#k]h>NBCbe%N*-PiQY\'n-ak^$1r-WK(+E9jYErrCATK@TU6:7o*"YH+!r[ZnrT(]kC<WOInoIU/,A0sm@Hdc=oM]D_$T_]XL'B`hLO\-HgFl[KjG3-S5m1'!39L*iF2qgO>V5?:_EK)!p0glOra,UKG#bK+/,(dZQG:nX_#pS+s<DJF$=Frl#?75a&1f7+nhGp![uK#n4?A!aro)')W?PZ^9!0c,V-"l==dQt_E]EH^HJ:Y-Vp'cEIm@o=jlfi:jRifAOVMgI38htKe^ktSDJ"7s!AD&f51=V>/QDL?CVOK(BV6&lu/cNOOPSUi)f.!5W`QZ#B0F7dtm@t.\CXK>F_?7;NraNc*tHd8u0afFk8jU8q;oTQ$QoSQ,JTq-KYPnrf:RcJbil#om*P9X;8knInG3T0D#Kh]TJPATBoFfRTS#UbIV1GNNGGc:Y^?/_N#9k=m=U0N-+OI:7pB:&i2H,n_03je*Bf=[c?Vl]GGjMQ?]C#@$f\0rR;=J@M951e<)kaUu$F_R&VeE)r!":M;fp>-QY9GH/*l9AfDIt_3X`R^@BkAhR_h0G5f8uCano[*RRa,\Z$"/bXC3sp=QeM:,NtEgO+kn0CqZ!<;'t"0R*(S27Crn9Y9Q&JK918&+qLcj8~>endstream
 endobj
 136 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 2709
+/A <<
+/S /URI /Type /Action /URI (https://www.dailymail.co.uk/health/article-15460183/Food-addict-mother-two-35-spent-420-WEEK-McDonalds-breakfasts-Chinese-takeaways-shows-13-stone-weight-loss-gastric-band-surgery-drank-10-LITRES-Coca-Cola-DAY.html?ns_mchannel=rss&ito=1490&ns_campaign=1490)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 602.3969 529.7929 613.1969 ] /Subtype /Link /Type /Annot
 >>
-stream
-Gau`TD,]1M(B/c4`L5DI^"cm-D!-f)l#]OKDLo0ZK[;KF\YIeLX<LlOA/!Bu^Q2nQ(Kaj]45D?-Lhk\ld5fOr;*kWZ)u@<h7^PCWSYM:`LrM4X409!P:[)irgR$fdO^0n"B_@hkX_n[[H6GHL1irCXfZYBG0N14";nLKc_J[+]j,CDV\5Z,432&-GasEScSd8h?..U:$gsW+!f;D9(jME6k\P5p4oiMd2YYu('n[Y=l+#Nsjj+"UIhBU7pP.dgE)ao=?qOMd;+UtY=%+g.+UC/L8]7A]1#(GHlgYLGIq9f1P1?c^o\*qY(da;SC*l">CbE&:AO2mmA_eK#GbN\,*2`XM'1uCOX+3m[=X7OWWYPT^1q/Q-%EY4l*=0qF.=&6#<-_mW!imB74Xl+@>WH[BTM&[TI/s;-5H$*Cnr,<4;J,S#[&,&dgPN)6`9_DC$*`"+Q$Qb#.anYXSI$@n+YGs^u3%cioO!d;k3.a-PiF1p*dFCOg?:.FNnB]/*gE=.t#.I+m6/)/(28/'#4luLealNc`N\:Y!gB2R<0>ij,E,r@2U#Y=lHYImjYu,`nZ1mhBETmlpG!)2pQdrnORQ555MPBTO2O1Gh`:JWpU#_1e9B&E;Y"RbHc?#-+_$IH/HK;us3Js99[RMQ%R4unQeIlc^aO86joJ6-(T.-@MPKj=`"ZNsD?sCHQ]X6DlLE:n.6r<b8!54PGoueM,g3P7bp<t+!6uT]u*:qrQRY's62qeW@qKII^V^(PN^7G&UpG7;DbMs52j)mQ\>]8)JOG93ODUUq<.@$m*<2bE@N/"trl'7F<R5P>`0KPCu,ZJOTViPud+1kAa4Nk7YPshL3I@4RZPH8bK,@k]XVsh845'%+A`@an,%YjppQ:.fqSLn&&`\UZ%Qn*leZ,4,Id&*mb?qArIe`P?j=J6>EHMOP?6t(%iWZ7_B3FqOb:iV!q7He4@geoIYSoM#:-:_IV,a4*`)]@7S1;[(lZq,i/Z-;B*n,O5\0,7RS'k^^:(q2]$)jE1*>,33n=B_#Eh:pUc//G?)E8t(Of%COOfYtWY[UL$T],92>)Kmi>(Ypi!)>>RjfN6A6(Zt4<Mk(;d&&JRV#QGHaB,,b&a;U^UYB6TRi%L;$&+.\cSC1AuXpjFO[\P](1I4Br93Vbpios:N]>&m.SbCt!DE$8l=hR>32:fRCng=/TB.9Kh"\QuR`<M#$:T-NeFcMBC.laQ2iOfe*_6#M#,79.&9=HK#`-44GBVhe[_;V3^B\/L5)r\l%,)R8Q6*7T;nti2766#^ifSJ4N)sG(.B;/)UCYY3o2>#MK,2An(\c9uZO14gggbpI[l8E$SZnE&3,<b"`:b4:/I0$(1M]=hOKSOk!<O-p@nf5l<H*"$ac(=5)NMO*4E,M$.2:$OVQ.qsF_9Z\*lu::R;+!6YC<39(+d^F3SeVb0/8K4>!<kQs5>&aj5':s7<?/;Lem'@@jlEPS;..IP+ukN)j!NVJc8rXG^r%;i)a*Hi5O>(fiUj'a'aBp,qbgRYde_ZYhDedC6YT_hgMe;^YCU5:Uf(+me[3)N,8MEH2BWDPl.Hu[.10'gCZSM%:L5*#bd6&<!2gcM*A:gNQs;;eZm"TMY8"Zk&aP+i)Z>qAL?@B8]ItaeBn^[ZY[1!O;>Y+PZ\$(Mr4G3QD<6Y*N?U5g2k-d.H3>0g`aBNP9pObD"c&M\_*kLH:poq(:PHmY(oMr65@)(uma(!jnprT2=[N<MXbjj+Mm='0QmVt,7+d$XmG<m^aeR8iiDk*%J-EQ!$XCTNWP\m\SW"lWE(>aYT\C#Sp])pk@]:gsd9YkZL,Fj<Y<O-8YQ\7Z9Z_n2PV+l`hfe1\n\.1,%e1@b7u-bcp;;KW]lp#S&'#VW)%<*9bAd2q%n<;m,Ii=>N^R[d8q;QY,1R1h$].Vo8Yq*R-04l(BZDh6(Ud<`$Ypc6o\,Qq2eBfp]E"Ss4a$/LkciZtW/K]H#G?\>19Wc8BEoA"S\/VIanYU9EP:[A8t:,ka^7+tjA%%*:F@OT&&&5"cl_$.qQ.lJ@buNB-*DPR&L_V!<F,(SW8<PM,%;j#f^8=JYh.`76_$#9Ai4C-%9n!6"<0K2fc#RH[*7$Xh#<^!7c\X/o3A6W`nipii2Mu`4V'W,i81+Xoj9YmT9=*l#<D]32(6e4UCl8PB:)fCCmsPk.#FfN^39EqL#&!JrcFII3L!+_RtHIQ)f232pfYPjhga`*q/%mAHXXE#lu#;4.-Q*nDnFoQY"Ru+NGV:H/rJ2IlqWQlR_2<V&@W(Na%P#]_r^g^dQ+!R?!k4HP-<+2/hl[]O#:[gH8&?$^D_.`@/d#L70Fe8d`_p>$[9>lZhDDWRndI3B6OYpGN,i:`;K5OFYD?"Gkl!,TW7ASq.Ol2&f=dCA]:M7LYVc=na8+VHFesEMt/3Q$T.n%+e(oWp0tJq[XNEUL]51/f7?$BTVF5A<]m=r<&]\J.S(]^b$fnKjK[!sZk!cA9s8]&/TDQ_@'?.#YOT&/Y8uW[AonBtLMbGYhY%S\"_(^akM".Yq%<i98Mlk'$]i(!^S+=61n]W<7ie$Zs1XgM5XOkP*o]/r078gpEdq3'oArMWE)Mnm:"1Up\hZ8i>9WqB`Z>!\eD;tp!P/&D5bYb:h!P*5bq&#O_]=Nj[;XSDAKIZV>@TNER88cQ*fCFlA8WW.gjBXsPHeX>NGK'C]+4T,I#WUP0?B3K.f~>endstream
 endobj
 137 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 2406
+/A <<
+/S /URI /Type /Action /URI (https://www.dailymail.co.uk/health/article-15460183/Food-addict-mother-two-35-spent-420-WEEK-McDonalds-breakfasts-Chinese-takeaways-shows-13-stone-weight-loss-gastric-band-surgery-drank-10-LITRES-Coca-Cola-DAY.html?ns_mchannel=rss&ito=1490&ns_campaign=1490)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 590.3969 249.5419 601.1969 ] /Subtype /Link /Type /Annot
 >>
-stream
-Gau`T>EdgM'n5n\3.5M+Ag*;dD5EXoa,V*OCFe3tb.%tRks-L^_BK9i!%$sgk6""IQ^'(DBA;k"9!]d3idA4VTTB6QL@o=e&A=K1mt["ALuq>;#MfF*5L<d#YC:iKS@Nhk-J_O?]K6P=aXEtVGFc;UK[&>J$19V[`mc)PK5`dkd_)6u>;#LfrVE*,\[FTr+F#*;Tp[=2<2H9ad:c2q78aJVnD,*R5r<%:aMNKmouL&tpYX?q1X5sd(@s>J\UWZglAd4=,c'sDfYs"#.*ks,[NuI>1;^W@h@C3PJZCB$Is"AS?S'f_d.IKU;!RYC5Lg!"L;L[LkZ;@H?2fD(;Hlb(.P9!2i@W#R-\f(0oG9HYZ*Y&VX(#Ar7d1r`V%oHMeKU>7/U4qN\]IBZE6uOk.)\\sQcg>,O36e^lQ80;5G]Tt^8p&>1oYb\*!?]m1VD/6%VYZ0CsAkr=rQfK<.Eq>bl\-c1^^.u0tj($DcgT'ru)4&r@n]=',KF4WMuSC17li^D+-cl;65<c-#-YI.S8d58--FU$CPYs,XdP2'mq=N[&$5=:0gL1q[8FoY\IN7#PcIgfV(1pGXeAM/^qqTkAQVlOY"Ud!\3VE7q$N>FVJR`GTp<tr(.,[B'n;GHbJfigJ&Y^"^\dFl;jrl$(?0ZOGn7s_Vnl:#5qu66&[[TZ\Q#keg*>AbSnRT&S0_A(AV<0o<5`o)N>rdGZfq%4)Kqsi/djH=2hgSF.&?OKnDs9E`-(`3;Dr>)''E=q1?GfKD3MJ_p8_%%o`>cWYPJ='U%;q<_=*>2ln85T<$C0*?Y)tR6tnPA6Re]"!L]*FR.2BnRA2^l.`0+3TB,,d$7Ppj6UDGgsE@T;H8H8n:dl!boR<3^2(+`na1:Ro:/Cj;NqKamVue=c-tB0:C;.`L>es.Iu0Do57O@O+M9:(L;V,Saa+=cOU9&na"DXk\YBh[&<GkoJ@1RP;G1bDhO`+(\r[(r9-6uEY)K=tDs>E;KUc7T/7hg)F6QtS6b1UrbC.4nke$36X-i9A`+t^IZ9>"?QS%f*1']*e,Y'(bk,$6D>mBOKY>'2e-JN=B9qVH/jpZn4eOUSE"mtF#7*8g=.)aIs8W1")<[:LeM$^tOCVFlLg.DbY3T#/#^XEOlU2U2B?U.J-!!Eg"\B9@d6m4KJFSioQjJAsRXoa.ehRgUkE91IG$uRl`+M%U.d7&!rB-(-ABIe+R.?L#!d*SMm`6l!jH1=<AlVIf$n?/e^`(a:PC/Lj!`"N(0Lqg\XE=ZS0mU0U0>HN&-(>TKC`ACClJpnCPeDO,MYo"uBE`_:r2Ub"N"rPgBIj/c4a(]$%6o;8flP\Vor:@A\dVG7(ZBj+f56TjS$io&d$Bh(?ji)klf8AVB_1@p]P6YZ6NMeCoY!5cFB1H1U9[_@T\,"l`8r]'dNDt%k[/T-V[.>/aT/5Xk3fY#X-uELKJ15ekFn_E;HVR5Icb/UuKAO37bqO@K*Dg:p7*5j>b=n*^/&X/H1i^`[+!bi1,IRnFDa5ijAj0:ab;<8%'DLAnKo`DJ(RL?DUaP69.P\1Ig*"IA]7/'6:;9a>'6.gDTSd`1Y0\)G@lk?+??4PBDHQ/mV'g\j2.Z?YF4L3)1`4ZM!IeogB%4RZXkd>PoV'4II>j-[iqbnimc[Nk6=@bYN:6H@d(7sbq3^:9=Y<,&7')lEBI<64O0VG/1?&[X@\hm\=r=o;O5GGX[erf75-oO6SG2`@)2$hn]WGBCW'$IG#"X>eNBK/N7@oOQ<Rbh*p[-O;-]Zk1OYoaA.k$PQ8&JaH7$HqpNUF"AGM*NL\W*p`V1*@FQ6t#D5.Xm0-BfF#Cj]Oq&+C"V'jjM#Mk"*lj9CR/2luIY5Q<r`J`/HL:C!*<>$r'"JDjR5?p+jjdE'b;7;N_4A\oUJB&HQ/i"_>'<*`!#Al7N/iBmb^#`O=(kB_l$JacIpp)U;kjge&R)8"^>COqZM`/c4hI+h!PAHM2cl+YBooB`%K,Pl]LckN>M.rZ6&Ac'u@e^P6j.f<PF`F@^6)3jRc#G\iN,qWCUXP5H7!m3,TSt5Gh2.h.ZFb,H*RGQI'ER/@rW2ass.Tn=^3cF!PS@=jKK%6mh8LOITgN\ET`EE]'f(H5@J_Eo=JiU#B!jB;S!#stf$<nK:litpl_sk46^;PJj8[0P$s&=kuS*#X1f+22H:DeMOe&20Cm6gmUV[&FM@!qPuFBmjP5CA47^Xq,W5d)q=i9R20HrIb!b)Vb<n3;bhqp$[o1Vdl,SZ*!=6,%@AX$X\Sepqg/\$81@b[c[mC2)pZ[?eA/3#AuC3T"p`o_^i+PDoBEPX'u:DC^6J^Gn0<VK1_P$PsLIIXb8@dG-8qIeR\!D?=6/<D.+RQNVLBW&c&<rH7$b@.[`?PuP#%/`'XsLnCqBYC6_:piM#~>endstream
 endobj
 138 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 2457
+/A <<
+/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15461559/mcdonalds-sued-death-vagrant-drive-thru.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 498.3969 527.1019 509.1969 ] /Subtype /Link /Type /Annot
 >>
-stream
-Gau`TCN%rs(B'h3EBe<j>uT`UOsQb,lD3sIWS;6jCp?6U`J>Lj'9b6;$n4XBlhB2.,[6.9E=2m7+F7ud_tuFfgiF3-LjtP:bpoHg)%GFj'ZDn5:mCZPRf,Q;c!L><@^gC"$^:R'GJ-3LUWFpYds&Fb%FOV9G_2.!iL#e8+%F0<OCf7#?40bNl/OjO05S=u?_kc>F`\jNXc.Gq.3=K5GF<72Ej<<N3/g?n(^3dj0"i&o8X&UWp6fNBARk]?1\ZqM`Vn10SjYCV%f7qo!r&qS/fn5Ps5"lADrU_Uft1Qff./d#$oXSL^FnTQ&N3]WpG5_WR_(i.N>o)rK?ljpU3*W%XpuqHQU9jf=IE&u1<9eK(P0@\ZW']25c?qOCMZh(//*(>e?TM$>-3Fff_a+G7p\@H=-B*K'n57G\p#Y3gO+=^5)?;%-%1kq/NLsn['Hu,#-9Ap(Ra;U9O_n.RPokuBjkgHAjNt2W`kYZp,-]G^#N?T:3NiuHC084irA67rRCQ%Z'8M^E^67C^s0((^o-W334WE%J&WZ[Ku1qgSkP=k?/NlOgGg+2cUK^I*tP8Q(,aX^#DFoqIkGGHc!'7cO4)4,J]hI$"j(/SS02>3BdK9R)-^I0dZbJ5"4T<S_e2V8*+O,FOuQi:Br>5'83,+q-:&`+]!7\3M)Ws7F&]0IjNNX_'K'8ibpqle1b5AO81)LmO"UX]n`R_jLGe/oOaI=go^MXRJ[(AM<D(8bGClSTW#]Hk*eap7i\G>a+G#]Lbd-3Mq=Ah7Nd&QJ3]UF!O5fB&dbY6!W4)/)(@6Vcm(<g-c@iT%R:+acf79(OJmF@Xn03=;]rqgR`S!EBp?8=//(9_Cq'QU-`4P-f4'=#D!h!ee't_H`hB%<u1mYNH;U]un.S2Qk1B?db%]4uEk:5Rp$39tn#*o+.)%WWZ1(?VI>DU&c((SgbKq+/E/``>)>:P%;U8&S%13$\p$]qhg`J51kCG\3T"@.J>Cf(k_8mdl^3::ZbY"D.f]7m]/cotDAJ6"_G_:@b"bS2IdMG"08;8A'C=<gl`jM]Ws[58ZS0XGf)'NRl<23k6NhBlKEO@0$c'jQRF8o"Cfcq&IaCpto)*7:Z7REMuf99fF'$gWUg$u;/,_c$cG0CC1Emm2XeVQ$Y5E^!cu%G`KD(1(n;6Nrt<jl)VEVs0;Mp_i?V"/&'D9/ttC#k!dA1t=L>_-@2#A\bed<fDC4l5',H%L,Dsc1]O(dReNrG#@Qk6;d:RF[)?^e*TV=/[smP8]U"dZg7JP0tK[1@q:Ou]tC?S<#)b<\AMfHd2DtJdgUEms/2AnMfgE)U[ufV>k)dbWsm_?[4t=oHYr;oP5].A)gsC?FO88DV1\'&9;te!CFT&8TY:-(h`cVoKE\)kJ:+tE<)j1S9Z-))=L6Q%2g>LGrWprn9)3>pN8j*kEf-t>aYW1SJtgFY6i<sg@%R+mL6-[lFJ^=IeW%oekob\K5+!q3nok5L1>G2RCiq67;CPg1UT&(D1n`b.]]N=$JG2[^Kic-cNfCZ\=!?:7=F`Hf]9`qriF&:PJG5\5\_eP5aZ#]/4!h7j394XH<l\I0F.+SkJ<'KNh4QW9+PMJPd4e#<O2h?@o!/F1d,#HVX:=k7lkaeE^=;T.(!@.?b9*g$F[baPm@.kPTb!.Y+\F-@d5&.BU07l2eG"ksLES^LR_%)(D;dq*M<8r^4'ZC.1Z^:Smp&^oefe^D,SjeH]i&^tm!0!!anV9^9(?#,:62'D&sQAL[A;eZnkD5P5-=7?[B:&:hhr%Vh_Yn=Gq1co"<!MpRPi"^>&LX#pU,uC+P/m"i/%?EiJosA4-;MX[t,a]A77Na.io'.3hC-3kZ5Ij^2)W]Z**O,O7`?0I^[d.5#o5KnoORlZo\f5#NC-/`qS*nP0ktSUe-p&`SXAF)-oF)(#=JrC<p<m-8UkSLH@.aBGWlcEU3<QV0U0A@et,JJJ&@'B&"-qIE5PuJf<qb/qhP/HN-c0&l$i"RRUS@,eEo[D"DfN`P0-8X(s4iR9]fSVh&Yo%W1+O%]u4`2=A-L@qpRd!TdY>,.mGX!C:VJSa8&B7:12]B7Vii.dLP?X"&'?NWR3t^c2[)*48%lUFtM"U8L""#l@IYN5q<D2G_-b2Cj_8k@WJggbfoTE_oKRhfHmq!U=TuBoSh=E*oaJM-A^)8ca@UCSb50VS4P!G%j6T3Qm'$%CdLbfch6BY<5W[a>W\mVCqA3a=@GZqX1<Lh,hT9XTOfa1_3Jg:2J3BJrAuIhLZF6d>"+XG_Y`QAme+=&lWq(SPGK/LNbp&hC/1aah)M\%&`'oCRL0qI_Hg$$$l9bMZ4g>2q^9l[CG_$?Z_-m(7^6g2CHuQT_!@#:CdI9kM5Bk/^MI]r;F'Dk[/p*8-MM<_fd5YrkB'_K^Z>)OO*U71AQRt(TUH9+NRheeip^];?chI(=FtDI+$ltDI9%$4*pF(&`u/D~>endstream
 endobj
 139 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1951
+/A <<
+/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15461559/mcdonalds-sued-death-vagrant-drive-thru.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 486.3969 188.2699 497.1969 ] /Subtype /Link /Type /Annot
+>>
+endobj
+140 0 obj
+<<
+/Annots [ 134 0 R 135 0 R 136 0 R 137 0 R 138 0 R 139 0 R ] /Contents 154 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 143 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+141 0 obj
+<<
+/PageMode /UseNone /Pages 143 0 R /Type /Catalog
+>>
+endobj
+142 0 obj
+<<
+/Author (\(anonymous\)) /CreationDate (D:20260114133825+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260114133825+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+>>
+endobj
+143 0 obj
+<<
+/Count 11 /Kids [ 14 0 R 31 0 R 42 0 R 54 0 R 75 0 R 89 0 R 102 0 R 114 0 R 124 0 R 133 0 R 
+  140 0 R ] /Type /Pages
+>>
+endobj
+144 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2017
 >>
 stream
-Gau0CgMYb*&:O"K%/R4$m[CS_Mes=[MVMAlN>HHkDQuHWJsL),[7%U#AA`o36V>'<)dbL:'#6Cr8Xqe^cC#7J#QLe%N,jI?0m);OTIu2$5lH]Riu>KH^\[c+fbp0:Yg[C=4+Tc:*ehYl7:L/-c-tLqkr>j##LDiu2!>/ucCoC&7(.]NTAVLUaq`]N(@sl1Ls&[EWSu_$p#-jN-.akU[D@"@*cWU%I_GEB,oilT4,e[)p^\%_(Q<E`B$]l:68t^e%tY;2'OlN6)K_0![=O]UDesHf8Zpo$&nn+Q3S2/dGI^t%@M<R<+.YrFW`cf9F>7MBAXq,_n%#%En(pL4;V=I?Los,k@[<.1Lq+]iPGD_F+VU#q.4=_GXcc"N1+(N<Uh-.2PPTVIV)B-R9T)KaZaYY>G,b.=r?Y)/QMR<H?kI=:=?^@AOk\,<+AYAaGrq*IG5G^e*:OCoQ4$I4"TqZg$RRdl"gH(t#aVL5@S#1(K.b]%c=?WGW#;+RKUDB,Pg-^U_a<;33G>kL-cAJubLQ.L+$BOO*3H]1es<PCB^>To!q'9"5Mc@RiDSDUEm:C+'0*\!di\Dgpb3U.O/t:5H\jS`7.SqtW\I][$a%_Yf19Z[m[@o#QY[hT[X^W2Ehe1R/U/F[]EmKG0]?9RlajfM_3+r3"/=:!jh.[]?c+Y<MkYg0dd6C0^<WR?Z)-lYOBKoaQ^N''67.m%[?5YZ?g>$WF>jO3F5NgCd-n#ZXSe[]=B,+NgUk'&*6+NYLY&=d*3rA48`=UP$C8cbe8gme)3c\A!Lp$f7(P&iK93Yo33\(pY7g(5,KAsS6+PjUipMLc90=/%5^srKq\^@^h/MR;n>Cnga!1usiDJ6B1B.Tgo>:!X+YJqC<Iqrf5l[oFbCr\1paf/\36.Wq<("iT_m!BIP92n:gL)-n94SL2@4EOdOYBRI6cA&?^([RK,[uXtVufpu5__%N6"*DGJ_!-e0h39DVENl+dQ563YhUuqjX=V:.amBICi0C)+dOj+WTFVo89@X`EMkl]IDH4r:$X&eT\`G[DUV4pfc32U@`aO,p`%SDqh"j0*;?>B9*P.&H'\kb2ONS>Nci"P)#/aD@Xf;K&M%h+:_eq`=@ngta.r1<rFY77[eVkiRCuZ/N?sUimF;S_+BPLlJuC+IQ`:L$cpmb1T]a>amp4iB>mIq>mHWsMZ5`.Ih=kf.6>I9@DPQ*\]KQo("a5IMP\Hmh<7aPg:a4XXJAVV)9@Ie*p6HWHFD>d3Sh2skTh*TEV1kIs9hggDn3Mba?t,^]`(kQ^)FAK^[[D`hR0hj7j7r?5%\EqA.UqI*AIQjBLL-SNe"hHpkeF:df43nJ5LDU>RQe+95R0Zc2fo;&)Q<E.+lKL[>nJ[7R%[Bt;NrUQ+!=V7,X[2pPr:G#6(KA0EctDVd2Y"pR?kHe[a8cSH.85Cq$O9a+g.e&0u]Qb$nZTp!%(c$AIGkA%0VAg!7DH$.s.1&<DG5HcO9InNm`FF(nG]5Thk*:dLI:B>pCLj98GFY6(j#M&1\WMEZmn'A??87)@:4MBG:P_KKqEs+BAJqHGku=eDr!3r1p#L0si;;m>3,NTan'D:,YcnaRAfg^;8J2nLlr7HaLPk%/s]3NKE_B_Qi]^RnIT*971e86j,T4RP'PI*Mjj__D69]Z4'e^X0keU=G#1B/<D#f$aIKNUd]Dg;)\nj`"?t>4uQ:6i@kO4HREcZ_/ne=CSa$r=*X-bP6oQS$o7SqF222d?P*IM"sL6uBfImb@-R*Z3A1N8pB$V=QApPdqrY5.;^6@)M<.%l[KD>b:F`gF$jL7])>55DHu2$O57.UEZN@ZJ2jIq96sP[KqnDHi?js44'(=GaD\:P9BFojQ]]nE(j,1nMO@:(ZOY+1g?`>-Id@tSNHr%oXE;h[V4MB+Gs30`h"26-,4k'U]J<Ir?U&F"!]tjP8Hi4rfi75S,D:(B~>endstream
+Gb!SkCN%rc'`HlqEBgSn(>>K([Ul*KO=j,:,[K$5-nkc@BSi%C8>JjM;>os-8bnXLPq9_$-%Ub@(4#AZkM1DT_8BXF5*H'+E!h5-$Ijjq*,*t8@<r,JdoYF6Xe(L=K=F-Nh=!iTNJA3c?ZfsfTW?WA(fqW$,7)0#8#&oadfOj10p+-JlR@3j\lurgB.;F:cFL$0Op3Q:i<[0f<-"2.jT5.J59q9r1i+7^@MoFI#,[_@rRhDH-\f1gEp37QYocm]7AE&$'OuIafQ3*l7d!'Niu&j65[A]MDmS17hi3WahqF!4[RMh&^Y?Btg[/4ta):bf0"GR/:ERB&#*WF'(VQSIX-+"=PY@@TGgg+8q,"&Jj\W02=n!3NFi:sHWn%J8'<K7R/;A/Oal<:QN.S_Kdl,/FUMcL];Z%puT#3;3=NM&("M8X0>^gM@Dc_)Zp$=<s:n[QNc]p,!/X_j'QC'e)s7,mj;Ej889/gIu`S_*^hS1#eG3p>-4ASq-$Sa=qDa;Q5i[(kQM`b'3'd8dR:5-nMa>4/##<=no#F^uO='QhT8FSpOmfF9I<4J.*PM0"U@;DcLY#PMQK#<H-]F47a52@Mki-sVXolc=H[RLs?=/&t4SDttp%Is>:)m^k/o('SJr]=_"M2C[D,q#Y_POn&<.&6<]A[[<K_S.5>#AN_-1m]*>+q\5k^ShR*RN%:[7I21!#q@&rf3HK#<I4]r*n9bLM]A!n$`83DC\oSSZneLa\6X)Q[T-1!^I)%1oFO[oO^kB*Anen).<QnA<)mWZK0dsCrRA\ji($"/rVC8ZJXQVJ+d(iUcmTn1;+q433ooTUg!H1(),2*!8P<ErVCSo^-.4+!El7p#3(l0",qW!9R]+/ePcRDJf'FY6.Jo%'aFBK;miknB0Kaic:!;&C:[J=X-*/M_aQ-PD`ngpTeT4Te)ttG*fFK$T3./@LS8t=^9>u"(ZC3LPod=J1;@-[=n`Hp=WEt28qH>$#OFX;aR:Za<CT=c"X8H=KaN09G=Kk,-V,=OFp$,>c&:X0=B7H<-Ld&9Mha"ok8W#R@<*+=4WOfB[/_@e\\lp>fma%iO9!-WZ]47Ot.tm^C9,F=Q^Y",q@MeF'_,h:Y:^?dXL2*&t;1_r,dOoaAdbAt-Q?W_4ap!Z#0\O.l@<?j&hY'SQP]jN%'X#6`h-h%U)-e?7`3`>S7rfeZ-^_B6+;dRV4SCgpr\/T$hKsqL?8YMW<lSt]DV,T+Y:QoCGDM7`0.!&s+W5GgS/,%38%K^`O/^-[-UHO)ap%<aG8/mqjPC7H<ML\cS5kXY2A<O9g`4,'k!)8qPjk0*/4VU5Uc(7=c#L<0X[Qg-gs*Z&NN\bhR]IM<6njMt4[nNKd^'c98lceTJ4DGfH,G^P6QVE;pCf=Rq1p`e8&HGXkFBs1O``O4rZ+`tb!3e0eg-#:k]mEc$je.Oc87BA^bmAF_<4YEVF!@QSK]*-0;2m^CdEkQ0gf$&0=<P4#FYu>hK%(h/>m?S1Ncj_b77\S<sF[[_JnLq]2@=4^4G%@7>nkP[km?bYfYo#"FIor6b'lkr#P@*i[(D#O`q-diu-DJ=25\0(NXs?%nh,^B.Na=QoP,cU%)_]d0lC&09-5eIqCthNbu_>NEAf8Q;1s*p`5F'F`Eu-f$gaemlu0YT@q>HojIKt`Uh>/X0f$W=W5n\^9O3?UDNX$*%/(-$qTNL="XoAKMOTAWDhA_qO:Z$edi=ZeXI_e1M-"+pL^^tmOXEieaU_MJ/QdRJ`O$<60=H4iOT+BhM[Ab-gT6N"<A"TF;R5DT>s9nim*7r,,"pqnlhdL3EJ8Z;"1uF'?>&%p2o"4Wd.cP=6.Z,elO6,f![%(0n,>F%0ZRVb*\*';;'YZb^-><2+(3[3:.Wn"iDQVEuuL\/IPiG<c!i9:bf>@Y(.N,:*5lK0<+I2-lTHb+BAeZ,6Y:e!c]^BH\-8l]o]CrpYZYKs/Tp?H`OUR(lb'k)FlG2nnZ)"7&^TsfgX6_EbKmsA"jK'POQ;[%'TX2oWH_@~>endstream
+endobj
+145 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2935
+>>
+stream
+GauHLD0+Dl(B3/tThi;2HY_UW$mdts4!h]S&j'M!69P2jCk3=;bI("Pbl7B#Z4fRQVPQAf)^^(e+e=t_H-VNe,f<9Shnp/%^4X]?"XtpAQ:P`!g;pfn"6[SR%o4FB`'CNVH+Mn]AYn!Ud+clU-%;LLXfhA*V68TB>.Z(2H<3U3MU&@Y9m4Uk5ndLf4*4,76jerJP*M8C*.:[G?0%1t,<WiTO%>PdN[--<dVaddGX[_j#BClIo+,9R'[1s]ZD4ih4gh2\Y-,.IU`R%tGbH*^<^$gOPhO13CKWVEf<8Y;c>N0(D$mYg+lS5&,])ha3=Bi4b;hjF6U"7Q'Q]MF,XFP)'h9,W1N>a,ajDBM1dX0[OA2%B8.j_n/"3T%KGL'Jg&*W.(Z8);H1q!p"4jOu6TO/%6mY2.!]t3j`5MZg[]E#Nrmo<=(-MV0oC_kgC;Of(ql<PA2cuWRFqh#in9$3leBp\67(dh'85p28Za_Q-IW9h.Oc$VKN3*`@$<_[]E./9lck)pnIb?YoqUt(Z?;D*fm@?8mp?r[LG=SfF3dlFVjg%+[B""dK>97]!WGUCEFbl0$mj:dPZQ8S"1iS^qdto0:AA#fon(.4"dTu1jI]?Y-EmG*thK%S6$SkOV-V<H$C:@i4GDXdhDCW?nCp:m"D-WIGo($>sJ#c)7nQ4>3[]Q6O*R1?*<kN8TgJ-3j%>XI+<:cSujNSKtE>A:-GGqgPeq$IVY8p`srG6WGE#KY_hE7l')Xg?[)L<XGF#A#/jsq/n.7"_05n`7E4(t+4*_1ijk)LX4l75ru0UQ!XC_Bek]'JaJUuqBrEVF^-]lW#Ib5,\Z?g4n>]<p?A`ktShHQV4ckk!A'K&Ip<YtuC/ZaB@;_qmLJf@leY'qT5VSe76R^V.%7\0;I?SG:jZKcda?3BdH*/:qEWf(&NQPRm6WA(Pa;\o;6:]]uu(dsn^n?ht)ed^l>2;>l6+(1!%**DtmOY%NRNSIg^fes>EYZ7JXNg(@S_$CAPg0W&B;dL@kWM@#lSR[Ab;Q3(uU^c.oF2*GRkcH-h:,fMT%\6dQ<(3JT+49lp!^W%XtGN<d;X8gQ$caO>[0#:l&7?8.X@8/KKjXdH"Z`HOcjc>%-IMC0Lj/c9U,^1n`o`DcIRa06]ej&F!X(38!lMm?@hl).<h#49Rn44e*RY.BfS/M(ud#"s#FjRCJV=2^MlgV`nmcV#nqfuX"#N%\QGVErS[FT`C]6E&7_LppMAQU1,R)]S[]-RQKcXm&e0or42E6E/?HfD4pdKYtQq4>"H.?uiN#%89\`&D"g%^*gED3980ok`NA=lATJ/)=g/&km,\IU%g9l<N0%j)qPd;dM%\-G/S_LRiZ1NM7mr`d2%2;qE^TW-@'1Q-k)d]5`*/Nf6WO2'u8B0W+iWlDjX_&']8W/B?%"IWSS*:"IFoko%ZXS[bB@bAAQ6S7*HuEmG8ZYVO`Kiq[ja)d(s*K:-Q2#,Ct=<.][tjnnj;/>Ib"1-8fh^5$PQWEaX?""3eTWgB.qCJT@OR<kJUDdZURp3iainP&97$X^YpWBDJQ+$<Y,cH(lkYEpf'kg=Od/Z),FW_sK*T9MFTMTO5n*'YiHeAQN3Glor")lPWaHXU-r^?=oP&>Y6kE`bUr,>o)[^tDmJ(bA#k=As*p9Jd8hee_=d=;%;9)A/LTQ.eQ"N(`[MqA*,+$Eh`#.n(sh@:8#COH#To]G,u^M2N$0e$\'ZIDZLH+pqNIj_VdH$8gc2.pWBjmR$00VK?#1kM^?'^)R't)'U6I=@tr:EQB1mYsT\h5]D!?TbRuGS:Ls'W/EPDOs>R;TEQl*d*f@!+2gg27RAH&Qt2:4d&=6ZcTa\AhN:1\',m$mP=Xd*8bDi_/O:&4cpEs51aOQH)75qYHNFO)Q4`1i3Qj>f-u[sq%q<XXM:Vk=c8\J^G#_'cQugnTW9YoK-3>;l%a2^/dH!29F-,XL$E:08#%/*(ABPUuL^4M!\nG>e#0RkQ.$-n@7Q:W@P#m",YS]V7qI()Cm"E$Bd&6k>TW>)-JH;f!ACVk5s2#,cQN\Pq!_qhg3'13qk=JB*WN7Nq!Ipo"5>oC_'C=7F^tEp?"sH@#'Fk-u<6,bM((".t$^O-Mad/5?Cp*^p-J"K12M$Z"<4MZofY5^Td;Jjg"^V,<L$Asop^Rc3R.;6.$!MeZiR7q+4u+Fc!fBgI%$1c\84u^@-)b=`L:]\p+eR(N28KEg0X!-6i6kQ9nPS4/>;%p,!_6)b6:M"A$LaE_#c%Q;Z98rp"Rq>U?Rh(L@\b,>i,KNL;?238A%D`A(\J?]8?pl?*9Xjd&U9pE/5V.\h+RKJi"S+4>QXr`ckeRb<\[<`,4R#qH.@A??lcI*AVE+B!`03e66p6i!P8YA0FZ!#iSIuj&K>&^S:<XEC&2c+?jM;"Bh^g26P>^u+C2"00!S(_iKY1$;U8.Cl0*rnr<\A\o6T..XW^+p!nn*W"e%_`;K>+s;gRo@d-VnsFhZPlpo'BD1aj/O^4$iK7+D<3AKaX:6l[=.-5GVs1+,dnk@)T%3&L,'`'W^3s+7QDhOkqtL8%tPqM!cfX_K@6,k2ncR$^]#!W/T%MFA`m14V_?gKE>6*V`c]5;CYjna,BFV\JFM@"kp6UcD8.5gWA.f6ab>c'AYI(R5,Y1&SUhc+Q+kl`'GqPgII^%I5.X(bcS>njn-oa,."Mr[HOJF0b<CoLSnQY/K>^A,UpL<8Jk3?OfV7J%jkrXK[)8S$u51YL%h94'2oA;nEMPq?S*s"FU[q#*YYt:'6A](3+?WRMX<f[LPAo$78Kco<=CL:rJi%jsU*t!i"nn>/`F98Y!M$eaGAK<oQheV.U909j"6jcE9PX]@(\HUkbC/;OS^*PF?/V-ZZ2]*BX$H,4H*B)tZR@"^PJeY-3p;e]iO6e.KI[!,JFg'T_ku-DrC=D_+@"rX3^]8UC~>endstream
+endobj
+146 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2580
+>>
+stream
+Gau`T>BAOW(4OT53;^!]G7BBf8X<sL43ltdDrRl\;($Y1bRR$m&o&%i!7J1QrI+aFCMK>5h-G@O9gjn%39RmS+U.WMh.p1,]j/qJ9h8\\Mk%XpR*ahU]jAAHntNa:DD04gPOA&$3!a/\OA=^+b'kN#mN0VlVeIi]3#MqZGWM]j8V:)L(AIIE41aRc\Yo1RB0mQK&uq(Z1A!Sq9^/=nPV<ui5GKW_-7fF*R.s>+HmL3?Sef)hibu8mT2FbEOcsH<R74HDVN^6U--`YV>TUoQLJH`flO>8N(#&?+>U(H)gqfi06nRo&)YuSk\(I(ohs[R-6bDPh>e)U=N9B/ESkSD9e`*OEhl\\o%r)O.jjT+(o5.'-i.kfX@_jaWcf50"f[/R<4`,EgZrAQuWf<a\1fP82c"njZq2M%@Y%5EX\pQq\<Ru"q.Xb)jdCj4LX/];19m'IW'Vf)2X48*H1TIi6"dMtWK*RJpgJnFFa_"gqlr0B2DeL^d7o<fqW(_iAW('hl<Oo/B<S\"a9!ltF%;)OoIRY8.)e%Nc)k!EcOiaKKoSVPKN37Dk<HgSE)3.K2Gm_Lq7_<Q,g<<'^c"8brq_8W1C=qC%'Lk7&HWQaUh$C!JBt,dLB!#h^lT34"`X9G]>0WA\/-s*a3*\CRnT=;bfc^]_C//TiIc>\WCiMdon(c.mf=G]bg43(NnK3-KmX=^SlFo#uLVi;.0>+p*^"n4)"ikR<Z6Q)nY5,(QFD1`IbZKPZXd2t&kkaRW6^k'Qa-*=[k9?O"Mq<0\('`JH\F*u!(^5P&*X)-0!'`V]*M6g(CD%u/`Bj.PEoUoXNLZn3E\7NOoq`DCWgW<)Zn<$&:oOHF1<1n@%pUq(T[*c0"-e',a&+I:-P$g'K6IHXSt+,e@:#:-$qhTjQuo:j;/$S*"DP&P:La/Fcgq4\ndqH9_D7pajDD.jZWZm?BiWCa+4icb=#UNRV/EC\3a?a4_teZ"@_0-/AGH+HYld\e*k+sO7K0FZK?Xnuc)[cWk34d`cf=2baVA-u&`E%*QO9I4')$CGEAIFB@D6KI-QP*+L"NJ\3MUemPk5UFYGu\=4AB%4W>u>2oo?3$RhIbh>Tcn=-,'G=>JY?=S+pl+eoV7d,-5J6QElV-no<;l\`(HLFTKL+HoHR-&!(Fjfm/g,3@#O6N_Bhs_Jq>fK6TN4U7??VAfeR##?uBIME0<E%pS1#a_WJq>Dl^%#@6Jcb5bfPkVA2n[`9`L@aeK/5Ett>$"b\6MBB4qJ0"R<^YrA=bF6V>qB8OE_9k\Ro_u`u]:$m?he6orrU;kZC+]tF<=:Vr1Z.Ju+*q::nBp:J2I"jHoI,/LHS0c]Oc$3hCAe42@?'V`V2O\;M?\._]3Z1G`j9UUY`%:?QPPPr88p8a_k:[oG=E>kW@/+L1.3C@1`P)q6C(922=[5KCS\90XPL9(Ip'6RA&T9ndjfmI.b/#H8bg=80":)I**Ip5O@NH>k@l?ifk`dAYp;qN`j93t-Hl=W:X;B_$.!rtp95r-!TP7PA;$TG>f-DS"Cnd'["WD@)D6ADLom[/jNXF1Z%?S/2<6D<9B_+@=j!"Q$:_#Wl&G(XO/e7Wpj_K\d<n'G_]3uR2kE,[&Pr5G![_m=@&]*,;:\4<Y0UmVR&srK*83oO<\:D!"!:B,ADT`ToV)m(]?=AWFWnhjm:oYRbp`b7Z)>u%-ga##)LH:&(gC3T+99X0'#Tqf4,a+R="@)R,II>!m$:U0llLlq`t.q-)%A#e_K`FW1Kih.adP@X=X.jRl@p>;OR7"3i$E_?qK#pg52,K(*]gk@;TN&smi<iqX,T9,Lr)g=<6BMX6VFN:D7/b\h'P^rf"dJceo]H2)t,VU]K<gW+SE]"U8"T-CrUfI_eAan3P>E2PMW2RdI_NBdarS)J250X.<o!IKV*(bZ`VNK!R=T*[tX.Pl_B,Xng1#8F72F;Z@Fg&_q%.'q5RMK^N.O_kJUc?Mcp,`N(\?76ilkC^kglN=Y-kecE)*`PCki_p,k?kU'FI(Ng2EsM?f2o>ucl$E$q;?XDcW&E*$m'p37nn[rU,NNQ!mZ&9kql%+nr[Zp`'MZ(#6?lu>t4QdDV0c(6(BI)'G)Z@-"_l.eOePhS-pCKY1=J3=ea4S/A9B7(M%0-=b%178Br^5!6XoJH+14TXo4Rl.d@F,3MSkZ2>J^O2\D@"/@6'MrX![BQFfWLGU@^@]GX2ZC8YML7WhG65:H<9<*iBIZ$V>8:\0NCZ(g>7*>0@UsA?i6%I%<RtiR6NqXV2Ij>FDL+9KQoobDn>qX/MasBJZfkm8QYa-MAmrn7N0so'ZYHo(V#;@L40l4`:%7\-oSfF@H&h)trCMpYdKiO6PQHX=clDB<g^:bUE%iZA&7A2\C@oFcCMe4>=_a"?4C94ZgEP6@J?Drn9p0d`oWpEI7aK-45fr=BhcCA(,767@dTE5p`hc13R*&bPG@7H<1)au<82`7VL"/;]:N0'[]N4NNb&Is5mB,42XrK`OFPMDnmM&Nu(*Qe1f,Xh/>m&u;;<GHqeCML6@`X/j:W*^u+]ZPbdqpe?"s!"-r2+g3(U@/G:Zk>'rX0KE/>W~>endstream
+endobj
+147 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2299
+>>
+stream
+Gau`TD0+Gi')nJ0Z1m?T]`o*@]pY>RF=o4aEjen(;5Vg3bhPH/,f1`2"op7@hffk^AQc9J`oFG7-!@#DmI'R.qgo@\r!iUGU&\LN?uR#N(r9YbiM\tm`AtS;4T#&X\T:(rir5aahB)u24:1!AeZ<INf^'Zu\C3:%_Jn!8_XV^V$O+4F>in-CGQr5,g^_U5:PH&m+UTT>@Gt-ARDSD:/VHjomQ![$1gr\k_GP_scIW+e5JZ7k(B5^kIR>pGYFJ#Z8K>\m9ZLQ`9o@=]]H-e%\#mQg#oVeE%r0/,^#"+P5o/B6!UmrB4uht`<P5j5U'8_aQED/->C+HQ3eL+m_SSna^S95g9QmYb"E*4,bAD$DD^CBc^l(N\[p6N!WT`!6j,i;2gc?0sT-E`&k$2V5K>D`CmA!,9MORT9U7Z*V+R>Okll_Wr@R/ln>k2>8NWu?VC`-MiWE`*:F!ahOi)7`V65jGV2bFp7UEj%fNeL4`QLgrU$qp:X,-&LbEJGLlFqcpV$F."?.T:ZfYiCq2nU]_EJ65/t3/nh)>JQs,Tsi?u`spN]O;=.:(TBsa?iFYU/iL";fDddr/4-8`>hlnMK,6Z'jP4@O10O_)F0IDg]X`al"dDK@gu)D7JX<4\<ru]?ZJ\5W/$\76(^[V2f'YSP@PU(P7=XNNi:uu4'uRXS;(M/<TA`]Z"c:1+T75E#n2Wr1^W:br"Kn/PU=jJe^K`<N=?.@E""a?OYQYAGDPRna+U`"T0I.Ln8Q&[o9<Y#4;(i1in.rURn13#>7W4jS2IWKPPP?Qu_?s2E&[!mCQR225S3b;lp<l)2Z9X:.KrG>U_/g.G;JT7q$\SAD`=[d(S?LOTM+D`^eZRdQ1;WpOn^=PUfjiR4r3h>YJkk8<._&i&"sg)Ik#7]/Jq`74,`KV1T]&(MLsBai>?6rV[5;Le$e>lSH(m(UrMYR`k,]_=5BA=S\Zl*88VRM,r$Puinb2rb^YleYX-1YKnP_E)K3L:2dl/)X)PcgoG[HD!?W[+BVBr`Jni<n2,XZ!Ha[GF:_AQDp5#fT*i6Gaf5SpZO7cJ'B/t'NAPbOt'Z]J"V3`nQ`5-[/F0hBnl]a)Lob^qSI(uS0p1Sa`Mea[L-Z9+#(\0a,8`UdTiAm">a'\'7,)(rLb92lk]#-)nBQUoQX)d/sO=E0>"f#kQ-E8oU=29Aq,fbp(mbe&"S_6"Fp>7L"pWV"%tk*=1fnX.rLfmusX<=@Ztl4B-JiS&T*:5?,S*j%e(mYgD5K%VoA2,%O"A0Msf`oA1tieNL6S]'DQ+A5C<MWu$MAXu\-ZVH]8.+XdFd!gYL%^qoO)5H\4?AVohq[\&fFg-635-7(V?XpdWfJ`Hc9rPh(P2U'i"C5"_)GVBTOuj"Q/liJKk=QX]JSgjt2i,2@U@qJ87GP*2Nd#/rOf;$S*2Q+^Mk`snDPA'5>KXWMN'N%I<icd;Ku_ns"OTXYofJS%Q"N.G%W=/;Tb_F#`B:CH[WWK`^C/N$F;E`T[E.<k)]C.fa.(4HqFo.oif+<<pnZ?@%8ROm\j.6Y!ak\0)ZNMX@2R7@;-1%67ibh#00?V[8;$Ir'jU#uS*Vk9]/Hl^jk@daLU@bO,;!;ioj/cY'fBKoO;JhsG<D]Ys$*+FXZYm\;NXM.V#j`d-#d"d&o8mfg?oO*UU;*chEaMB*0\);m-$E?I)d_r8^%N^Q*%^"<'j(E8MGJC;LCSf\c$i'%_nUPilu7`oq+H\n0-7\T#/#[r4lc#?67U&C_:Wn2^6:N^<UWoRS_&h)94r`Bl*!]L>-ILTu2DXd3_u]H*O>/5BlU4qU?NfkP6NrbegmEHk[%Y/`>N^[Z%,'V7/uu,X'-fCNZYd"Z8M"c`q]?5q41Cf$mj=EedMi);kK9XQumfE_A[U-C=tuC'Q\]Bo.B(j2&dWFlqoJKNMI%5+Xom,mq@8?3hrn8JX,f6TE"2Y\DRf/5U?#,`jVLM[jf,'\je8-_-[#BcIVePK4W\RC*]mpQtCr;H=TMceSK0#dTsXjM`S4ApX;hk,!%nk\7XpoQL>Hef/H"W`#]a`uV(Cn`*NBmu+_FhC51+;ch`5HgbB9/c/#[()JX'I;.qr`$?8L\Is)T#DZfgYfK"57E6mlk9S3@CQlUSiVAPY>KWE4>3DP.X=#"u;8Vkumn"/NC`LcQYZm7r^GtZIS>)(-"9MUQR7g<:(<oR5/ka\@%81etiQEQZ@38lN&`QiCnAsC\CWb.D!n_#E'*6B8ai8L#F'X/g`nt"F;%sOUg+oJk?I!Ir292)2L=$l0c(;gONZ0-+SUTPNTBu/g+T~>endstream
+endobj
+148 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 3077
+>>
+stream
+Gb!SlCN$7E')b#/U8=,uZb(iWK5jRSUX=4#lu3&`0f0DHC"5K'&=UWCr;?6BN?.1/S!f``AQPXd-'J>b>ug&eeYteVZ4H<9UE"fH%5'LDTEOU-JGidrfQU_4s7#]:dutr)T_8Sfq`RB$l2ZFff6YCP^sh_7b'(?/YCPEsM,:`\J=V=N0i$sS31n"hY1l+L,<.#m!t8)7Bj!:NM_qpF/r9ta`-D;,O@3e*LerX#j.cjl,!brcYTJGp%rTU]RJCsc5jAeX8VQ(pJN[V.b1o()!REC9+h%Ps5'C7jgc;Y:e15M.WGThi+F>dg"fX3[9,seI$A:C]-uKYoDFb3\MUT3=#m%CA_j!!N1[.f$:)dMe-><o)/Zs.mT:S1dFog"mZtujIniKL%>L8[DMd*W2>],HIpF`J/V@h_!:"VP^E_U$TXm6NDlPp_6:01$A]ElO3iK3/>_U4RZ+7T.'&j?oK4AagJ[GutZ,BgrM@,Knc"bY2JgZH]:c`mAh,HEWL3,S`5li-BW\cPgJrk=X"<W0q[-UcfXml?V&*&!8X8=PnY.DZr)2J!eh(bFuqe(0m"lPRFLZAub[E(E7J!4&Y=RC4*kK`)e9Z6>lM]9EK>]hV-22b@2(D;$=e"*t16">#<[gfM""5Z-)m>BPS9Zlgr&ELIS%UNQ#GSe'=XV/)DUa5ESp3'QD>:"m$jXtMH;gMJV+d,aPo(R;[VG$-M4/m4L:&L@KXq?+!PF`mMuDrJWQiQ,rrM;Q14g;8]u!d@j.\LX&Dd!=*Z!/^iUY0c]>GbV4Rq'gF`'TW+X-#HD,.@PbJ;1a^Xd%BXd8D9!:*\Zk_K_#PKX5[dE=2bsde$aY<q:f>*61b-JX9SfOcGb"G"tKY,'!Oq^R$Qik&loGsmX'$IrI[^o1AmcrnS]$;@)SYh*]DPE0DWr_r%9u+K<&(]noagEJZ?G<hG_DOeY0J;Y[d>M^LTA#<%OK]RurgC5A;?q<$cR.F#8H#fKmY"WmD<Zg<]F#5t_M>%>AiQgcJBFE+';=kE,HjEp2?XGeUM^.sQh_5r&]TBfC5G!@9\/Dn2b+aYC^TU;f1XgI:V^IC+/cRk*>=:jg[5JjS4Fg;l(UGT)BqGM_1CL?*RpRceALGe1VnP?X7hHf**_GG]"B?7i:s8dWJ-KV:EGDCh9<\f";,]fAhEU=#*'A5\'nh9O4W9BZqWGIJroK@Ck3@,=;,#i<n+:L&>4Nc2C_C:B3s]f>b1%NOH[$.ds!<s#C??#SfaER6YAXi-7kNM?8Ch"a-u%5F+>oCfSg3V".mP>HU.Hs6BA3C6BuBngKjI>e_\[8GhF<c'*t$(=]BEH_ffd;"%jgA<'\A?+"18A/DI("T0L=H3mckNuPt&a"NaC"bNd#OH!26hsti9Qs]Jc?;+R/Ap$[![eUXNc'Fm0)`gaN4m.fV^b)XN.Qn$fJG#`$5V3W_LOg???/HI>\$2.h`qlHai'Lp7l%V<KF#\;DT]m,9REM:M*q#*)r8&M]Q@b:mhGAGBc@UJB$_,!1!5)"Q7Y%[bk(8gn;o)BiChg]odJEI%gIeL27@t=JjJ8YF,u@Z6D$\FjS3%mqf:%k&T/GAr`k&WK*'A1FL:86m+W3dV](5/n=6PoPgRh"4#0KYBBbQXU\+IfrEg@7l[i\OP@O,k`?D',mK?(NY0rV9WS9.HKQ^W;!&rgGLZQ*ZP(^O(i'"8B?R/5&.Tq@Cg>Jt\e"UDO-X=,SJ[B&;Rrr#eBgZA/r]?X(+!qP;R?J@!:/(JfT($$2W*G8MID%n[qP3UX&:<DUGVrl,C'uZ$Z7G=?fHt0)5XV970[TM`KfGgm+sUrON-Q'_KY=^'Gf1nT46A\V"&Q0/ef`Te]L=Zek[Fuf'&b^sOUoHq94E)r?a4.LrO>&3)<o^@\EP[NbEB9&p)RQY_!b>'2hCd*.]1N7I4H)dQ$5"7"IdLI+b_`gBGW/WeCoTnDqN>('I4id<)JmQg<%!OfIq^r`r;GOh_&^$@O"Pq0Nd=fViWif2.k:DTNj+=Uh&/dAc@6qc'gbU3X-O.Uhn\blLL'*mJBdJQJb90`!ns/POXZTOSdX-+8f&J5MrqH;LWb'kRW,H*)5F6"PL`CJ=>CBX%OJD)(D-&0BC5^L(_/qW<"sh))o]\_sEXWVO[uK]dgKBRoUi9?/:mdf8&U*`;q,$niS\4BaY^dT>et7/#\bm==<JMFkR/B0s?*&3_K2?Mo;[d0P!Talj9g\ajVkNQB7o<EV"pmcc7g6\(WX%-uF:GB%B,+Aum1p8=,L`&\O.Xf@HK.2_!e=d65^ZQe1I-=%lCF>hSG\?N5E..U?I0&DQ>;mM./%/K7")W_20"BE&&hS(iVf:=6IT^'Hi.K`$K]S*RXj&Y<5A2uj$+'`e]_4:t>6Eqp3/7HL;6,TF\>RT[cuq:cM.#El>%H2RV_X'r@c@nL(_]EY,YD830q*:Q#:UbP5s;<Yi(kt`d6F-0c1ei@M8")sI""b*k%:0..X5'b5Hqu,uR[c$Z?cSB?'opUU.>oa\1Is?E+%nqIJoKI6b)K[\P._h7Fa8^;]iQ5lI3_s&m@A\Bm9(-RtZPS<q),.!@mOlJB>nP0/bg%C]&<iY<a'[/1hqM*dm;-]eecnjLnR<8!HYQ92(Yl?"k&rIZlim?p[;9C54IP&Ok16?ueB[`HJQ-Ar]/D]\#<\t4p1,SFJhF-Gcb'NG9[,XtU5q94-_XaIJST*c;))@V\L?3LXI5L%$RX4Ve\%O=0IeX.G;F7,=nmI>8XsETaPPT<aDrJM['e2+kHl>``\+W.(XM`UT.(9OZq<5k'^dgWC?A,+W4/PXp3AX*R!&!OK!l&fE)LOHUl1UCDe.GUc#h.#4O5WA4O`XW7;G+DVe3*V*R39L/fcSTnT\Jll8oYbEi04dAf74^^9Y#i?H?_#kL9f+mAh\)nmW-MpTnUQCFmEe]aK6):Gcl--I?icG)/=ffV:>e6kZ6>4rPXtP0q-:g2rniF+42qOY`4q.<aMK"ZQn`$X/GH+g,*PB@F.MEOFttd9tAgUYMAD,&3l91`SS0XN/-LA8U?u\fBdf6JPdVm^@:T8!<,UUUOhUnAE!Ah:^AZ~>endstream
+endobj
+149 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2714
+>>
+stream
+GauHLgNMR;&q)uOTr0o@3AFXUL,cMObmGI68]PoY`Xo$16!+1&?f[L]K_+k8Z@Seb3h^o+#-tc7U8hLGf.I4O':u^Y%24Cu5,r`Z_A;]T#hr>uq)>8>s7Yihm?(=q^o]N'^K2Eh]+'^*^<=($!,q=D\T"IDfgKtpC1=+*+?r/W$c:p5)Lb/b7-5G1_['gO+ciH[(TB`.X[Wt`(epEmA93>RdqT^H2R$I.\g;EP)Lin0!Vq5s_=Snph3&5Jg2JV[ULqEC6:``)=([$X.GHll>bkKf=9tBW2m[bO3N@I=>bXMZAAVl^8qBZU;?_&oW8oJ#cI!)hMPW_?aO.n'jX:q$Z5FlIRP&YLdZcD09QX$c_dBRnJjIC28ZDP=qSVjXc"HQJlbrt>I/b7+'@h5?3aT9DUnr.f!oACM,Z=\]V8q0PlQ:JD:G`j=,V=O9(nY7"bV[_>-9R<E'A&kq\O5oaW:9%(X:iMcHQ<@6U_#>H0*&DFa>FJDAAo+J!_OYJ'Flj^'gr'6$-FQf>[pB81aT.e(N,n3=XI[>,[2u9X5YVOZ?uZXG<&VhaVE;Y'^89u+</g,T6Df2_N;f:Y4?GKhorUh3\N7;anm10@?K`@3igf^lZJJXeYn4s\r:AQ<2>h:(buJ!blXk$9X>KN">_7[US1:D)UE,?7&\B)Mdmj1c%tH>Jr7*N2;e[YEQ*G[^iPRcK#:+a*&8d?9HoON+dmB3ZP]7:p^2n"9RMll;'bT_M52+nr3ZU.jZSKjoeY>k?-e!b7`RXn_o=tRD`'eKAis'2$ZdI_c8;8QCsYjH!&&ocLD5rB.Eu?LV#Ur)eJD[(4Tiq8:fN#V!-+)i8n7Y?e""B3T<f7"0`8R2pl7Wgk+JEO(?>frd5>-?<.?l4^bq0=9^Jb([+(OTKr-[7F0--iMa[b0UM$n//t/WN)D]e_Oj>qS#,sfd8kHm/Nb/DT4NK1,qp0r:VZbSB'+c9;g#=c<P8>K).?qBDl$fUCWi[J#+HEC)j(7%Qb7m&,knM"%Dkd<7-FIDq'OoT\W]cHNL@*]@Wtciq`Z@KW%8\"c(2BUtg<a"XP#<e7^h+/)MD<p7G`6;U)ulY=rQ*K]?:,rE8nb%M0JWg7#e<6ccZp"Kp?LXnTWIu[.JXX4Aq06^CK0Gal'sb()jT6,fsY8R\8E>:nGnsVHn*KA!&SXkF@l1b8Ph3>)J0"HlOM/'#,tF^/CO[A@a09[3?]"0)bS6'`Eo<E!MX/K=Qpa>I?Bgd$[AMJk^3RM"el>K0Z#LnPc1FI/s@_(J.>Hg%D'YQWA6'#)$Gq>nu,XAh\id63-23U]D&q[C^I4*,F\hu0QhEO)0OMf'm!,aZ__O)'Bbh9WP5ZS-E0888EXqdR4\@/mqT9,T-LAs2#hc@%=pej.J14C9p"MCW/;`r@o%)S$bjGkm>0E[mka/4DL/8KL'u:=Lqkr(LPDK6.>iJ$<P#uH<r-SICZ>qp,CdR>:%ukLT%WluMlf'2!.3@-5=r`T?kb`#+;LoI<R9?+.4]6aTo]mtMV*g8_Ogg(moC0@RK0ArG"Me19q`?,9FS.@Fa-$%ho.-:T1$\/Oi&nh0,DY/IC&S_]->/k%T6\#e.VlH/i^!/H+CrqE@&qip/O/#Dh_sB>XqT-E"aA6CUWTc<a5'M#-+%aEX78Kqm08JicH'D]sh%8JWV1WB>$M?Iur&!ZIAqaj%2]EiC4u`"$X?CVK.?1lK58[cPQJENmpBHA!l+tU'h&T(M1c=`4ap1S.tk@EYda3qa"A_+#YitGY6DG6_$?IH+bpP#oV2N2=6o"U.8qOCA_hQr8).!"N"8kok7pTYiA(ifL9RoSOoQR7?e(k@8nX`>DLJ>).S1QNnGDX>77Einq`Cp&+H/n?I0KHR5ro./]<V$%GWZ(dht%0`iNTBVq<^jl@poTXh4";H:2<=LEg0:\,Q2kD^Eu7i#VmlHZ?Ee`sP5R]$s42G<M+e9<*=Hb@]*N'p>dO=``4r\&$sa[oCc+[DiKTe"[69%O,Rp*6**mCeh14>\"1aV22LrD1+?t#q;4RS<2;'#)K!0K;<!,iJW90s'9m=qE@O(rNI13Bj%h&"EfEc"/ES2oNiMSB8SX%;Eo5k`sDo2mb>-,bUU&+q\0HX]e;5A;5+"sKgeErGNkMV[`VBHpMXV&ku;6o-pKoqjek_#>3P"rGtY`.2mo^2VE-Bq>R4F]<?i+b5%^hgWTEYgkFGWb\5##2r'DY&-G6!%2O\_7\2@l(F7"sd2]5Cpdrq8.kcrkQHJRGLrg+:6g?q%uMsn@,igL%A_=4`TaBq<tcK^C96+]=cg7'bUCTj?ipB/'iP>7Y(N-hm[I-(,(]a[K?4Z%ei2p+VVEcLo^BhX82h2LBJIl[&4EDH`)C[^,;/H7JE#%iOF3Q]=OQen,<=S6dr\)VYhmp5ZKmY"mVm:kLYaUm>>XA2M3Jqum@kspZ4r;pJM2E3(-WuhI#2XYhhpoZJ/ZReY"Q5@$3i:=&28(T?-6ZYJL^NlSiEtV8>cupK-ejKs"g5ir+WU3u5l>39#TAD[/e#pF"l#kuL)$R\s^sO5.Jjct%9mZ1[(IMubm5;oV+S34YCm=Y\6%*`Kr/N_;T:83?g(<Y:+8!8UL6$Q.Vd^QLh`aagVR%+]Z=)+XpS?j.Yhg;mXm9m)+WutGgnQ+'73>\HYL?+!$-mnj?8R$hG=LES0aZW.2Tc1Dh51,aiBNkL1do+W(Q=?2Qi~>endstream
+endobj
+150 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2880
+>>
+stream
+Gau`TD0+Dl(B3/tEFsB+Q[9O$D(l:\m+_mn,U"<a]U4B:(L[]Q+Btup#KX++,@P8KRl7Y.fd8MkZ-^mDH(OUO#Aj<\bhjNIBFUZhEPQR&3!6'bWPe3<:50k)Hmi#*og6"5.,J#fgM&PcGl=&To`h=UmP[qjJUIO+HGt'?!tU,@PhLf\22j0GL1G$.Q^!.[PL-(]@Nps(fkh_ER"bp4+^(/J[G?RK4-ih&/DZCJKnDTtp]/2r[5,4ik4ZlN>A5qMV?7&4YC\5]d6([Bc14NpCoD,tN8=3IDJ`[Y:P+CCkYq=K[5P1OAlPJ$)<GBt6[[nqR>P7c1*R';,)\b2+CoPj#`&"0/4I"o2W^+9d.;*KlNb`mXjkQ*]`*;\HYog1e#;[QePC7LKo@;H\TB&U;_4$&s4B?=X=`euWqIjnbp0]C<:f%T2geuS7^Mon4)=9=rabUkJJ,sQ&E*@_$>Ch.Bo!7.ao&^4!]6PYe9YYgJB74/,uUTa;e9>C";+3ZqC!m`qgp]L;,!:oLn1XW-'h(KPlrEW&IJf&/<sk)7U0+V"ZUk)3j]@S6rBp+:IG'\_haaK!m3ME*ta`IjIrjlf9eilm;IfZmuIE31/]T":,O_a&_[Vc,0D[^?FU;Y`Rh&0)+_t<#VrMAP=D-M6,WGQg7e*fC9K)_%3S)3V=LQg>qVHY4DeE_WY1,t\ohI^_l3DsP,_HaIeB+/35mAK[TKJr4_"N?r5O4<*Frk!,h^'BmsXQ9:$#m1NO(6[:pL-.EYJ4N-=Tdh#o(B^Od0oL9,,WYQ6ZFSQSA>NEgh%uZLs,8El>4@Et@s0cEH7%GnSPi-JG.anLM3K%_WC6gk-iTYp[6@f0J$@`L8L,e`&nH,TukRiHrOQjOJs=pcsrmVAiQQ@Y(Tn#t2iaUdE9NIM4M(J@ilhB*L(Xh!C.j^#o2WGJ*[3cG&"`8?_*4C4\(@io^gCg`X_]NV:p)Xg7$-Wb6RcdX3OH.8B#b.0M]n1QkUNl8EM6EGLhQQRl+[pFsm>?HQU.FJs'1K]6c\[df!u^Pqg5R$tO8<-cVEOPMN05pt!GaQ8^5]c2e/MKPH52l[n-&6gXD=1mC]<WY&*X=5p(`6D5OS@<b["'d*p#o5:2B7*6]8i,6+2a,eI'01:dZ4P<[!=EGT.4.9,)[O8'c4s"'-tLdno^M;jhQ-U\o(r#]G[pqPKpZ@&s'3u+J-#r4-7#n%H0"?qD`t`+HXa_Nkl3Z?s4h:R9P+'?oD&7.%gBW6^@(puSdQIoXa6H/Q+;aSWHahq<U<^g^o=DaC@t\TghHS5dgJXGC[+^@-;!rGF;@$r%f6iX4+?Xt3t1KDm5X>p'&ScJ31Z"O53bi0Y<2^SgVm1BF1]UGGB,QTpX^X>dcoSqAs5Z)1#\Z,)67Pfbt"H\<oN;#q9Gd'q./1QYIphRX@AsA\ZP\8JKLHY::_+R*60Rj`5.nNUNZ+"e[QTs\!M=5l@.g<VC-N@YGHGE[?IMh7<:U5FiU8cT++QFkisUs:#a:Jcq2uEZS:n_iUtdI_k;;3g.D<"hjJrJmmI8-m<!:FBRTp-mg^G6PA.0!j`8$)_G2AR8aD,doe13.^OH44]'(NtphIH`qoNA,*.)/+=SW&#\\VZ$hHok[IQ_NECj=AJKd4!s/6#A>RWe_q^)"([(BZlb*B91K`(nqY4%nQo1On%_%6NO%4E5L(lDi6'fC*]S:l-fE:?pH%8UFO<9AI9,&)I0+Fs^.7eHsr,rU)*Q'-:GBUiS9)'=D6'<**qn%G&ffC?SHZIu3)JhB(VP2K.p=Vl_!sNoMS;9bNO5KTPIO(#'5"*LffiZ[#Hm+/V-Q1I(17&rt;s3&&3fY]hN@Kdj)Pame8;ZYG9PY=bO](cK[[]m'>in&TR2C`E@jj3Jbb]&.[Yj85E4=^_u"l%NsO60=p>U0f?Z?`50tbhulrl41HsP_)]$c*5/W`J`ltA@3V"rSu7Im>iu1$"rI9oKMu764;K*n<)^DnKQZN:!UdrMa+dt^$$G`PX#>5Lj32[Z\fIL9ll=bisF>:*gH3u0nbP9MeEd*-rqhMZT2aBF.-_9#4_msd5!C7@fWad?gAhZBK10M0dVYo9MFSMHEbL8MHr$("(P8!A^6Pll_ZYg?/%ho>pSX#SEs-sBdNs0qmeQ_g`rWgqhb7,kp8U)Ok?IL;R">2G$/$m=h6CVG$,!\[dBTl#d]>,Tr"6,$i+7GI,IBbIGN_sg.sWVT1$sl`*^`]7BdLA6)4`t?)A:H;K.h.6Oc2Ekb0j1CCaD`^Oa#ig(//S[J+W@j6cA(cXkm:+hdH7*\o"[&ECR7R@`pLHP7h@I)&2l]6q/?o/=E_,'BB;d?Ns2<L]funT3"8+Mai,TQ-\7g',E@N(<G,H?^]r(ooD_ZBfH%75h%tbiik<E86"qLoH:(2BnF%(n,*7gTM;]&+e+"+.$/7D].s1/Lo,A+ammUn5IP5a=s-d;4BQU)jqSJc%SM+DYN)=0(mad_"1Aq:W*kM/:0C=Tp<5G2qMF*#L,:,[Hn;YmW"tYR5HR*La/.\V_*mT/(M/=iWAk$:s`qS/-Us7(o*gfV7i`.JZ0V_BeD.pVSA3*/.=8TJj%PM;u[:h[-\sni?i1XH9Y7oT>Tp<Wg.05=_(mXdc-8eH)'sL1)-Ur.Us4QCk5.&d&Gd9KGTum77Bn41hD=o&kU;jLc*ch6:s/TBhX_W">i%'eiA9=X<oeXYZ.B:YuFRdc5Vpf\CMRV&;J'W=Qg,8]i4Mdbqg&,V9T.S_^MFP\f-Yi-!2p]>bdgNCeMPf,8Fr0`bb(T;;!)<1->_=9qL:pQ3<-A3=<WDK2bi?m4"mRZbhRjV:at.m!/U2G>8p_*DBW?&Zk5O#aVHaes6T-+bF9]n=#d7iP1@#kN`~>endstream
+endobj
+151 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2397
+>>
+stream
+Gau`T?#SIW(4GYT\GNSl=bO43a`;3j-oR9tgIXQtCg>1J'H#10D6]3k%8"P.rqa=(4tM'G6sE@>VQ^_*Uj2>gkMAR(nF24EcSu0>=i9;0"mX!O$T&iYY^R+df.[,JdG2:@2s0/!\NZU2F<4:=s&M3CJ2Xb2F.?t,bod;4*hCTRYg-[!b=$N(%sP6earK>&B*hWXQFnn<()fC5d0tKa8\oPd%ThS8IRH:jBNX.qYoSVc+(>*Sf)Mt4q%]7L^,#9"dG1?mQpoIY/np@)ePX[GjNoN3\e&/oSrM!95ACFuH_WPZU=d:/A(kU8YF<,oRj[_,VK/i.bO#EWOH3Y_Ha]'%Je,e!$A0M+W=1$rJX"'4)drFK9/KToa8ucV>qOl+UEAbS%2gs,)q\bs,hl"YY>/R*I'hk6([X2$s5<hP'HI\cRg9tLgqiF5N&:#TnIn*H&>`b/?@VmX6flI&mUoQ[=MP:[T"bPCn92>`YY#i+<nV*_FA;D=>u[BG)Q1t$'D4$(16]R<Ntk.jO;e!qK$^_<$-+nB;3j<FVD62h1mUog"'rl#f30XX'(1I*4"f"tYY7\t3.NFtK=>;9N/32MD&f;h*8'8t=QX276t'5,;J&02qdLcrUeJ>h(0m'_!u_eTE"E2c[>ZMS>fc^9j@%V9-,NP-S/S"0Y55"AChcYC(R)si^E4g=]c98VYoHgUP60.$T[#rqEC-R36tm?/3f9,UbG;!eWG,"+920.:P)b7VeE#;`6N<XtWJedXL_U*>?7N'mo)??%_P^k/QV?b'QSb4Z-T?aAa,<`k,beYEiLa#%n19un`<%T7i_8F&7.*p8g9C@glH]Mn<82bNbY,lL(o5ZngIC'&63r4Y8shOr5<2/=(*d*]]'ukXM)"S`(\r7QFEVLfG9+.9;6h`gAak//FI_olT,"i*'aZZo*IqeX%7d'n+`XSEU?&Ph`F!T<:6.8J;>$keY2.hd-YN%;1:'$](%;?oV?SGe3kn4l@'K,YRi!H<T*S1f@N$`1qt0Xp(%N(q^ZW,*.Y%9_qth$ui13UrXd5PbEc_o+'4prg_Tl1H\A[qbMgLRt^p%X@#39s^4?32RQ8sqi%ia-&/6J4R>#finL;68:'i@t5!ni&@2F4FdCKVY8#)fFcLhg5#7DY/gYtjQXl##9$T_O#(S>LE%V7l8gaBE*_VA`?+NUN!-$5<^<VO.JZSQZMhmn8cg)2Hi-9<M[%lMP-"_AQ1';VUmM83uT+#3Et.ULMo]UFB4dJF4W@PT25J<lg_N2a@"&rlD@u4([E'/:I[H'OK,"7J$)I1HMcLmeTu/;W:eN0JlZ@PISPEij_O@Lr9KaOFtU)FWc^(Un_D6_gU(L((Tu6Ioc"AiHEqM!Oeu=2uO27Oo'SfN\M:4Q'rDo@gm1`ZSrU;,-8q'Mo:1Pg12C^%<bA9^hIY&HhI=$n@k5,obK_s9F%$6OC%Wbch+u$%7Te5n0n%5M6u-VFYGA0=@W)rP:uK3m$&/.C_#)!+)JE&TgAOK;r(p/EY%fH0X=V0k$Mp8f%?^!cQL`1`%Eq@rHkLbXRif&rbse]\A:+ESR+"@[$kh5-gtr0j!6X>9U_3.?HP<3*i8bA"WBd!#(QW'E;FsiY6c5B.!rr4NopI]E6DJ,`^`8,'*%bDKqI`^-R?\!OQ4mrSQ>)Jk4BY",3E$/dgg0lc[7BBlc[gKhtOOD]9F0q$7r4[(@(j0U46Aj.g2mKH-+NCiD19=q(Tqf"&KB#cXmjbJ^,!=C1o(Q-[+i>Z7:gX(::0L-Q.)/WYo^MDcn];!O$^KW)HkLXuRgLF^!`DFtup21R;PF`Fb/H=M*6Mgi^JPr2bWH4E<M-C<m-b19nU0=Z+VZfLZH/gYpH.%Og+>GS)Yfeo`A=Fa($rlRscZiXDsX32[*F@>?FLLraVeDTEngbR&"u(PWGZ7j;jc-3H=@??rF`j&oHT7Ooe,MP4Iu4m;q`krF^c#>]4,3bML.AmnfRL1nlB<tE67/^(3:-WWoS3-h`/6T8SWeI\_/8eQn3_/`P;IX]?cV^'V,@iHMhZUG(5M9`h[CY#kGhq/]'m`jSpNI+;/@5hRoL<.pd4_=FYg.pQ$KA&H?*jSY.D,74oYM/jID5DoeFGo:%Kb]1[qM-@%99V/QOmjrShVTng6H=Zgf]:ECq\XhJ%^j0)`h3*oXm\&Rh-s"D0k2laZ*de@?bo=+Ybe5&ME]EK$E;jcS\^;)TkFlBY!/;sUt-%G%PGB@B^/,ljWY@\X*m1e\Vp0-qNVLW?k#KHim-rCga*tXNu"HM\>iJ!Cb!QS/i;'p&%Re5"K>%/DNZ5'8^#@s[M,$&qq:msg3ZHo$q/!_E8stkAU&eX0@9F)o?)\3QTM_"fY/.!>:%Z=k4SqKD3.V;6U=#.[$e7C_i+NqiruI.~>endstream
+endobj
+152 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2342
+>>
+stream
+Gau`T?'j9R(4FN4301Gc@"X#]Q`a$9VR]XnSKqb=,qm+N=;fkfOpj/HrpD##O'u_lbtV8PehCJTC$V;&c\E\OnJh;UU`d6S;#cl<U&ciH'ZIbQ(;J8CMcYD@C.<)c@+lPYc[2E@RZ8URs)6IN+_k%"9X3"kSBrtXL!aQhU.%A=T7k@ZkgLR.$fdiB2^qX=/BqbjPV+P9*fMK=]1bk3;t8A65r]\d@2)+L4`i@.P,@-aiX7?PB/&cTF2-g]cl5acdtf@28Ipo[3$*g$6iTO:s.A<\BugSU]Mia)!?\fB[LsoeU86*UT`2FUg!AOr:j-8"qA0>R->(K]GS\<kG.r3Un1r"&FFl7>_rlj8nK(RBf$<fQmcS-"PGLt$:?IBcUnpCrn[beAM;7BB>WsY'<4Sl2lmsHob#;J9ZHgO3m4qhePXLqfIo][(</D?[=pt&B*e.h#nf1TeT!FOOX#,tBroBh1,&roL##ef>Ur3<E_tB$lY^fO>?)Ni*aM^sY)`FNlXd'P[^&*XM"g0UlO'\l7RE<@<+/H\]rlZuTI<<=t>JSIL*npIlG]).RGfeGrUJ,U1lUi*\A#"+14OFXO-KSngls[5c1);jm;HMJ@2P-F#m@<nF)dVH#k1mu%qYf5ff)qai6`V7:eRrtXPO7OJ/,RPerYJH*UU\&fricDf%2u8N.Ld"a[D@Jp-Ep7465k5"<3V%A8tBKYcGhb.E]>;.--[3cKnhAi_muECQ%Nh8nu!6.*t>E[ocdQ-J<R[c3'kK_9JSS>WtM6Z96[*AoW\Ic82qu[#LXnMZr-T.]U_X09Bgp)*rO9:buu51NkUePlX2SO`dgON4'0BCcGC1l&E9SkbV6VCd-0Vd7Gj@USlnNH-CH:6Z:jp]'bZ<q#Tr3S_"AumFf/K!8RE1m?Rl_u7@>RTkc_![/$e^X19mj>_[Z`4cpt0^Yrco`DB"UEl%0Ie$s(cW]gg0Z5]7#$)$aDl'`3$:N,Hp$p/5-3rH,'A_KuZrl;\@Ck4heZcP3]u@aHe`GQ8D0iHR0d_ni\`f^X+a>o(BI_Bi?bfAnb7L7p%H5q#-p\OpoGA6[))=W;T<P!gi9/S%V[[qZ;3Q7_UF_g`j67^I%nMl5r?@!pG?L4>?ffg)'@<,"9HES<YfCf)G[NqtG9!NLb%5*Y7G8`iG^<:l37!"p=8N&h,/5A?/PSAXo&X_!>(52@5)YU:$&0ZN'keiJgh'1+?6ct?-fmbha7!CAV`UQ%>^7>+3mJ5;tBLL$OGWH^<rpn^<7>s0nO9)efOCP9nHXZ.-nF=^f#m?Rg#Y=69aR;S9=nE!=X?(V]&5!<^^Q!B,*J8!oNdCJ/K72DsGHqo!Rs)sB&!iL['%>,\aYG*ao:n'LRXTV(pPlPD("LJdmO$Tk$B]?l#CINZnqam[GM?H--2/o;rnq$H+]:+[34Sj1mO/(n\:jP*l`KOFE[8ZoUDIM2@8q1?(>(a".:SI+H;#.95QC4:WA"\=7>EsN&^n1.ElU>)%$]50A=>_;(QNiZn_<`-Qjsn2g]lNa7DcEk[`Wc[Zi;D1a^W?+D`d/FMO9p7Z5e73@Aa*B8=hRWtEME1Da#U,g--2/.b_pug0A1@W4\()V)p/CV#7t/7U\*@ZSQ:S08A)9V,148SdCK#N2SEHq[^U3pPYiQ&i!"3gmYB85=t"#;SU@9h57#aK3IR!P].PG\`^kl>f#V)Yb*8mT\8IW>`ssbi,:C1N:7DK+IDNo=812m$60%\K_>d-gKB[23C+&Sgn9R,;%PHKL/Xp6ZZW/Eir^`JclP>qg/CXC4Enp\:8YU73JtOA,CkT3d:qN7_l<9PkCV%5;VhUAhd1`3V`!00CQ;G:>@5c[%s.F[;ccFAbG_t&<!Na8-nr+F"?poCd7=WF<NRXHQkBh[a[R*n;QtL#G]&?G/>nYN.Tuc`hnH]W]_J@OXW4N#9UHK@dd:P[SP`r8907[(QnWsd,-FXT/oi"9-;sq=uE6Y^6n+Q*9Idu#6IY[nUK4_XbXP%:lpN&Di:,LU&U.IC]\UJ>qFn3d,o/@!ZHTf-pRtd\@4Ih+6gYOcE^:Gpeli';_^XYDa(a0QNE+qT.R]1P<JTGsj2]r,<^t1Q_q$SO8V%f47E"pJU1P:b-C#,=b'nL&/ob4j?o2e_L#@E59f*;N%E!p#qlal&We-<0d@H;/T9I]5$/gM?99G>ukps?d2Jhs[baKk4f%_LOPDOVYU7#u4sMH$-flbL'<,j$i.TOc)7RET!m<P"ftHu;EJc`<:30@>`+<,AY"CQal2]Lb!4SMp/B\f(HR3_hpg;0WEElb]udV'X:Naoorc@)KWIY-*'-DfO_r3<FU.MI-5t<UO_t~>endstream
+endobj
+153 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2121
+>>
+stream
+Gau`TD/\/e&H:NnETi2.h(2d6IKPJ%C"fXAg![lG0d&_I9=2Z-,$g@hVu?JJ;79s>M'E/VQ6;J<P2b:\cZ=;0!'^AdmP?EqNi(0Q)aFtOF:LUlMdcGohFsR>Gd8A.dD37N=PrQnIP;fGE:^(GZliI84WO>^57E;Y`B?FVL'^OHkSuBUeF;Q%S2"krprHUX[=M7/X\dH]75u.$=.W!$10/TBoYZ7C#@7s#6YC5O+n2,AoK,`r->Pf=SXVbI@;dh0`rQSR8IoYVUOP8i]A\20kRS-f^Ps@l)TTt5c?kgL3*ut@H+g]1mJFirmh7YW`+\ki4r4nOWM&$kDA>2@FM#N#dIjrW:C*["qYqmp@s6DBpVHY(4k@=Pqn>jI%](or:6\or49MX(b6!,lgbciDF$`'A*:Le(Es\:BECP#_k2r;NIf[HT:34(gA5,^5cHDP+$m4nher/;ogq;Kc-/,jaG+OB4PD7A\p^%b-=5&P=i9'%pQH!3Nq)sq%a1,fGN$c(,(E\-1(`EYRUH#hB`3456%%IW>]C9"G<,di63FrirUOcSCXD1e/M8kiRo7BQ@eLYtq=<WV\+=%ZO?^7c;=!]dZ<uMJK5QaMMcWI&<GN2#F8[BT])k=N0_BJ8_+S'4E9pg8Z64iL<@,H$l;&URc\28ha!M/$"V4$uQX4=5:&POL"oMX5?0)LVOIF\D\"\Cf^LZ,K+9O9QOoU8A.elluZ_-V$&ih\Khau!au-]/_o)!=NSVrf2)]=Q@f(I:1WpP*[%b/u"D$[Fm[0FZ':r'7BTkGg!eaM^DI"T7(1UeGD*70P$gCq8W[9DFbd<ND!"Y(=hLEhm(Y*JZ;>XgDnQi@oLe;$j@e1DcV>q!+NJ,*Z'^<`2LG]TZ,d8PRj?_mkPGPI408("\Uh2J++bGt4l,VNeo;eC76Td;jpbd+`o88h4)cLeF,R9U4ajO'"/IQ:bA-=LQ`npTB1c;%H^%-jVAiVL3)l-O!/&AiQnAaW!i8CG#gu=QGbpXd$P9&WbisZ#8._4$_Mb=6ZA]CJ,jVrM:tHC<Q7/US##UJgW>"dEgQdc\i!!4H?0Pd)DdD0Q`oD$iD7i@\9qeJE(pD.ojem%0`A."@An.6\HB3ca]&E5dON)Y!g8EV6^g!B%\JijHrt^X:TH>$^V$t(E-G<;-*X%Tk#iD25WO,=)8KAaek(gLa.m]<XM7mfj;+s`c-Zi6_oE((e[Q<fHa>n`Uoq;n.)ECpD-l@P\L@PU*-V[&:7i,>\SF;hjo$P]S$6b.f,>WRJ=\.&rr^l=2hY;rJ_YdVB<=4X:#`N@+5@S,1@BLPU;ZuGLJbr"Xols<sEEX^UU*>cRXXRBCM;sF<jGh,[A-nl%g(n:.\.C\MI5oVP"1Q;q"&aZ&^V>@3)r#V%W#OT6!`NEhJstc];:p`Rt2lb2Us#8W9l!DUm``K]5!pGc1qPd=b"nn?.K'"lX?U]Inn^(!B)rOjWZl-1V^1G"Gt:l>lL='hm4i)QP8X_223Zn-YH$q/Xb5\`mR@^tC$a9@Lbd_4qacUSHEhW\5I^P`n<s/PY4:S=E>Y=;F*1*hFO?Z(PO`hK*2je0(tkUjtG5iu)d??S,P*s0TU$dql93el*W[F1tD#:GIddUf;E:P;p,eo<#5([VF8O7fN08c_AttRE\XZ7bJK`[5L]C*KQM+(rXO8W*V7VXlPnKaqp\rchBDX,?kXr8:T"IE&;qbKtlb-X>i&e(,-=Xl)Mii(ELXp6CLMVkuf_<As#7p`].mFe6r2VgjLdDaT(Pt^7NVG-K04/qeZ^-(pu?ihd-kS2";)T5=gNW/dAH_K,m0,Kuqs*F)gK]&UpRL&hTRR@_&IMhg&t+,#H_XWZa7DKk-?A;aoN]Q@%@PGGpj\KttudN^VB<(FTqH4hM6+_r)k3*mh-f#QuXuZa!$^`j<flqrTor4ESVbN,c<Fc?LrSr>%<Z<2WqJ">+ZemB7m$kEU^%96d?k*]VpD2b7-(Ku\R0K15*t(khXArUq(u1-ChO<#,*]fF"qM-M)aFrgdae5+L_qh$u-h<OmbtF,fFcWeogb)A>0F3S60oWQRIS^"K+'O-,<p"EciE1Q9t)=q=fk*-OioIsmWA-=Jn(K3RpW4S]4Yoo$f~>endstream
+endobj
+154 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1505
+>>
+stream
+Gau0BlYkN9&HCV%i]aL4(>>Kh[K7.1QDR+"Gj#ca`IIpl/Q%R3,!D*Hi;\6r8obut_^dE&O:]k$h>JBb;Xj0Kh(rmJITsYT4U(,g.L-ke6WdX0g$7*PYD/I!SOfXJ0KtIYR`#m]^/\SXcs_,_nYVoHcQNRl*f]:oX;[J=@o^3p0;%/Y;e?7NS7Pr>=E7h".5Y<,nJo:69Q6Q-h%BFR*ts\J)YR+%=i#[;2mE,t<^5>TrkLY:R'Al8'0i0EO6@:!9!H%D%(`X1/o2`]($Wm7Ciu?HWWFu@K%1a?<825_A&;n5&fQ&5iO'%T@0XlS-p_c3cha?e^dJC+CiQ:[)\+F,o`4u>:n3Ht:(PO[b*80ANq3]NKf]Z@l=$0eXpN"E-&9g(lRG8@T\X@AWe'?D<..MW<JeTk9J@9b&iaY+s)J:RXL!7%4cWGPgqft^]MG:-J]5eVPrO3e(:ZqMbZ5h3AmO"_Rn>-/VQ$)oS!i3*T!b#spKDRF_'DV75UFF%8dqRdf'UaX"E>-$@6B$"eT_Zg7;:[E:[%lWHRUaY=]VA2A?Ct"QQe14VNXL]6q>UhdP?`B?i+7CqAq?cH?T#(Ep8n7hYTZnaYN8615q9Va+,'J!'/M!QrUpN'$iGmZYZJT3k!M19A+$@3<C1N2H"K.#`?hk/N#0+%9HBa7]K'hD>2J\._+1QO0\TfR:9W8;n2V4\idUAh;D80N1A%Z_9"n)]9BuNW9kJLj6.!:e%gCiiVOb:oZgh''<W]1b#E*"p%=ffj,YaBk=dkYK=<i6j(!Q>^NfN6+OT,&%=_rn'obu*V?>DBJ9l`>[d0B7B!&LYa.gk;!g`)Vc1;:S<QDJVMrhn8)S=OW29cWVOiGf%QF%)bYS3hA!aoIB3P1D*p-8Z\gB#G/\#m$:;(C%]$]c(F;h\`M[>"KfiQ51\F`lTLE+[4+n1hG_jK(9$N:f">)MPFd(W"=!M"DH,K6IkT&k'Z@L7hh.2%(:mTug[C=,Esqbs2IXOM([N1B=*LET/@Zpk]_M).ZOEm)^Asil"Tj7s_G(^![5PHWll8r`//FcJP(tA4#e^XjR:r5P;5&aL=!"]R,8tInNqNAQ9mk-_I:[Sj,Y2pq6Nj.!aWhrSO);h\<XOk>mDir^FXZOKGe=:RQ6\h,JNVU[-ag-uN.<f^2lcSn=CjDNKcS[0IBa-N?_/^am7iG[rqm&>J2=3K><YYZr31-&it9CYj7qomPd7fUehZ\^VVE>E!pN7)<Z[.uU$:%]O9Q28`?.:Kk8i)G]W0OLhK9b>j8a4[g`.b=9=ZoDN@\a=]AA&,,FM1[Ha8%j'k[Gt&1Iisa6W]KS;=QV:BfraZAD%i;?U2BiX.V7R@o#;h0S&O"eZUE=@^mT@6Y(2+C.ZR3p$\"f*BibB`kcH*-!7U(?17Yej%k'PU\cds8r$MEp2K_(NfdRtjiVt-rX5-Q!%j&3&M%$9J!<;`(-Kmfcd^)4'@"^9jWF1`S6Bhp-=HpCdp^OlO!qA5WV3O&~>endstream
 endobj
 xref
-0 140
+0 155
 0000000000 65535 f 
 0000000061 00000 n 
 0000000124 00000 n 
@@ -1026,126 +1135,141 @@ xref
 0000011016 00000 n 
 0000011254 00000 n 
 0000011464 00000 n 
-0000011715 00000 n 
-0000012043 00000 n 
-0000012275 00000 n 
-0000012636 00000 n 
-0000012997 00000 n 
-0000013213 00000 n 
-0000013515 00000 n 
-0000013817 00000 n 
+0000011741 00000 n 
+0000012018 00000 n 
+0000012353 00000 n 
+0000012604 00000 n 
+0000012836 00000 n 
+0000013197 00000 n 
+0000013558 00000 n 
+0000013774 00000 n 
 0000014076 00000 n 
-0000014376 00000 n 
-0000014676 00000 n 
-0000014977 00000 n 
-0000015278 00000 n 
-0000015578 00000 n 
-0000015897 00000 n 
-0000016216 00000 n 
-0000016451 00000 n 
-0000016687 00000 n 
-0000016919 00000 n 
-0000017230 00000 n 
-0000017541 00000 n 
-0000017838 00000 n 
-0000018135 00000 n 
-0000018489 00000 n 
-0000018843 00000 n 
-0000019143 00000 n 
-0000019397 00000 n 
-0000019638 00000 n 
-0000020369 00000 n 
-0000021100 00000 n 
-0000021831 00000 n 
-0000022562 00000 n 
-0000023293 00000 n 
-0000024024 00000 n 
-0000024755 00000 n 
-0000024988 00000 n 
-0000025257 00000 n 
-0000025526 00000 n 
-0000025833 00000 n 
-0000026051 00000 n 
-0000026319 00000 n 
-0000026587 00000 n 
-0000026803 00000 n 
-0000027466 00000 n 
-0000028129 00000 n 
-0000028792 00000 n 
-0000029455 00000 n 
-0000030118 00000 n 
-0000030781 00000 n 
-0000031041 00000 n 
-0000031314 00000 n 
-0000031587 00000 n 
-0000032240 00000 n 
-0000032893 00000 n 
-0000033546 00000 n 
-0000033881 00000 n 
-0000034534 00000 n 
-0000035187 00000 n 
-0000035840 00000 n 
-0000036090 00000 n 
-0000036313 00000 n 
-0000036542 00000 n 
-0000036844 00000 n 
-0000037146 00000 n 
-0000037375 00000 n 
-0000037704 00000 n 
-0000038033 00000 n 
-0000038333 00000 n 
-0000038638 00000 n 
-0000038943 00000 n 
-0000039304 00000 n 
-0000039666 00000 n 
-0000039968 00000 n 
-0000040270 00000 n 
-0000040506 00000 n 
-0000040776 00000 n 
-0000041046 00000 n 
-0000041336 00000 n 
-0000041605 00000 n 
-0000041874 00000 n 
-0000042135 00000 n 
-0000042359 00000 n 
-0000042476 00000 n 
-0000042767 00000 n 
-0000043058 00000 n 
-0000043292 00000 n 
-0000043520 00000 n 
-0000043805 00000 n 
-0000044108 00000 n 
-0000044411 00000 n 
-0000044641 00000 n 
-0000044868 00000 n 
-0000045278 00000 n 
-0000045688 00000 n 
-0000046098 00000 n 
-0000046388 00000 n 
-0000046678 00000 n 
-0000046971 00000 n 
-0000047043 00000 n 
-0000047325 00000 n 
-0000047454 00000 n 
-0000049564 00000 n 
-0000052641 00000 n 
-0000055240 00000 n 
-0000057645 00000 n 
-0000060624 00000 n 
-0000063561 00000 n 
-0000066363 00000 n 
-0000068862 00000 n 
-0000071412 00000 n 
+0000014378 00000 n 
+0000014637 00000 n 
+0000014937 00000 n 
+0000015237 00000 n 
+0000015527 00000 n 
+0000015828 00000 n 
+0000016129 00000 n 
+0000016448 00000 n 
+0000016767 00000 n 
+0000017002 00000 n 
+0000017238 00000 n 
+0000017470 00000 n 
+0000017781 00000 n 
+0000018092 00000 n 
+0000018389 00000 n 
+0000018686 00000 n 
+0000018986 00000 n 
+0000019340 00000 n 
+0000019694 00000 n 
+0000020549 00000 n 
+0000021404 00000 n 
+0000022259 00000 n 
+0000023114 00000 n 
+0000023969 00000 n 
+0000024824 00000 n 
+0000025679 00000 n 
+0000026534 00000 n 
+0000027389 00000 n 
+0000027643 00000 n 
+0000027884 00000 n 
+0000028615 00000 n 
+0000029346 00000 n 
+0000030077 00000 n 
+0000030808 00000 n 
+0000031539 00000 n 
+0000032270 00000 n 
+0000033001 00000 n 
+0000033364 00000 n 
+0000033597 00000 n 
+0000033866 00000 n 
+0000034135 00000 n 
+0000034353 00000 n 
+0000034621 00000 n 
+0000034889 00000 n 
+0000035105 00000 n 
+0000035768 00000 n 
+0000036431 00000 n 
+0000037094 00000 n 
+0000037757 00000 n 
+0000038420 00000 n 
+0000039083 00000 n 
+0000039397 00000 n 
+0000039657 00000 n 
+0000039930 00000 n 
+0000040203 00000 n 
+0000040856 00000 n 
+0000041509 00000 n 
+0000042162 00000 n 
+0000042815 00000 n 
+0000043468 00000 n 
+0000044121 00000 n 
+0000044371 00000 n 
+0000044595 00000 n 
+0000044825 00000 n 
+0000045135 00000 n 
+0000045438 00000 n 
+0000045741 00000 n 
+0000045971 00000 n 
+0000046301 00000 n 
+0000046631 00000 n 
+0000046937 00000 n 
+0000047243 00000 n 
+0000047521 00000 n 
+0000047799 00000 n 
+0000048161 00000 n 
+0000048523 00000 n 
+0000048835 00000 n 
+0000049137 00000 n 
+0000049439 00000 n 
+0000049675 00000 n 
+0000049945 00000 n 
+0000050215 00000 n 
+0000050484 00000 n 
+0000050753 00000 n 
+0000051014 00000 n 
+0000051238 00000 n 
+0000051531 00000 n 
+0000051648 00000 n 
+0000051939 00000 n 
+0000052230 00000 n 
+0000052464 00000 n 
+0000052767 00000 n 
+0000053070 00000 n 
+0000053300 00000 n 
+0000053527 00000 n 
+0000053804 00000 n 
+0000054038 00000 n 
+0000054448 00000 n 
+0000054858 00000 n 
+0000055268 00000 n 
+0000055558 00000 n 
+0000055848 00000 n 
+0000056117 00000 n 
+0000056189 00000 n 
+0000056471 00000 n 
+0000056612 00000 n 
+0000058722 00000 n 
+0000061750 00000 n 
+0000064423 00000 n 
+0000066815 00000 n 
+0000069985 00000 n 
+0000072792 00000 n 
+0000075765 00000 n 
+0000078255 00000 n 
+0000080690 00000 n 
+0000082904 00000 n 
 trailer
 <<
 /ID 
-[<a4a945f4d9d89965390faaf8535a827d><a4a945f4d9d89965390faaf8535a827d>]
+[<7c5b0a2ddf03bcad07f138f0e37ddba0><7c5b0a2ddf03bcad07f138f0e37ddba0>]
 % ReportLab generated PDF document -- digest (opensource)
 
-/Info 128 0 R
-/Root 127 0 R
-/Size 140
+/Info 142 0 R
+/Root 141 0 R
+/Size 155
 >>
 startxref
-73456
+84502
 %%EOF
