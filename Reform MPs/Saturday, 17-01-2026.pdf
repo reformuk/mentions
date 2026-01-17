@@ -2,7 +2,7 @@
 %“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 5 0 R
+/F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 5 0 R /F5 9 0 R
 >>
 endobj
 2 0 obj
@@ -28,62 +28,46 @@ endobj
 6 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.bbc.com/news/articles/c4grqnjr1qxo?at_medium=RSS&at_campaign=rss)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 608.3969 402.8119 619.1969 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.theguardian.com/uk-news/2026/jan/17/zahawi-defection-pushes-reforms-vaccine-scepticism-into-spotlight)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 567.0719 532.3489 579.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 7 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.bbc.com/news/articles/cjw1709n20qo?at_medium=RSS&at_campaign=rss)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 500.3969 408.8239 511.1969 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://inews.co.uk/news/politics/reform-fight-rats-sack-jenricks-defection-unravel-4176838)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 473.0719 421.8019 485.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 8 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.theguardian.com/politics/2026/jan/17/conservatives-robert-jenricks-constituency-shocked-defection-reform)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 351.0719 526.3549 363.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://inews.co.uk/news/what-robert-jenrick-really-like-work-with-4174878)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 365.0719 357.2629 377.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 9 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://www.theguardian.com/politics/2026/jan/17/conservatives-robert-jenricks-constituency-shocked-defection-reform)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 339.0719 70.18991 351.0719 ] /Subtype /Link /Type /Annot
+/BaseFont /ZapfDingbats /Name /F5 /Subtype /Type1 /Type /Font
 >>
 endobj
 10 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15471629/NIGEL-FARAGE-Reform-Robert-Jenrick-Tories-Conservatives.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 216.3969 525.3019 227.1969 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://inews.co.uk/news/jenrick-tory-baggage-clacton-locals-good-thing-4176446)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 257.0719 385.8199 269.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 11 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15471629/NIGEL-FARAGE-Reform-Robert-Jenrick-Tories-Conservatives.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 204.3969 273.5449 215.1969 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.bbc.com/news/articles/c4grqnjr1qxo?at_medium=RSS&at_campaign=rss)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 162.3969 402.8119 173.1969 ] /Subtype /Link /Type /Annot
 >>
 endobj
 12 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15471121/Kemi-Badenoch-confident-Shadow-Cabinet-members-defect-Reform.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 82.39685 532.3489 93.19685 ] /Subtype /Link /Type /Annot
->>
-endobj
-13 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15471121/Kemi-Badenoch-confident-Shadow-Cabinet-members-defect-Reform.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 70.39685 291.0499 81.19685 ] /Subtype /Link /Type /Annot
->>
-endobj
-14 0 obj
-<<
-/Annots [ 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R ] /Contents 19 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 18 0 R /Resources <<
+/Annots [ 6 0 R 7 0 R 8 0 R 10 0 R 11 0 R ] /Contents 24 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 23 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -91,79 +75,133 @@ endobj
 >> /Type /Page
 >>
 endobj
+13 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.bbc.com/news/articles/cjw1709n20qo?at_medium=RSS&at_campaign=rss)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 768.3969 408.8239 779.1969 ] /Subtype /Link /Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.theguardian.com/politics/2026/jan/17/conservatives-robert-jenricks-constituency-shocked-defection-reform)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 619.0719 526.3549 631.0719 ] /Subtype /Link /Type /Annot
+>>
+endobj
 15 0 obj
 <<
-/Contents 20 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 18 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/A <<
+/S /URI /Type /Action /URI (https://www.theguardian.com/politics/2026/jan/17/conservatives-robert-jenricks-constituency-shocked-defection-reform)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 607.0719 70.18991 619.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 16 0 obj
 <<
-/PageMode /UseNone /Pages 18 0 R /Type /Catalog
+/A <<
+/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15471629/NIGEL-FARAGE-Reform-Robert-Jenrick-Tories-Conservatives.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 484.3969 525.3019 495.1969 ] /Subtype /Link /Type /Annot
 >>
 endobj
 17 0 obj
 <<
-/Author (\(anonymous\)) /CreationDate (D:20260117094306+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260117094306+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+/A <<
+/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15471629/NIGEL-FARAGE-Reform-Robert-Jenrick-Tories-Conservatives.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 472.3969 273.5449 483.1969 ] /Subtype /Link /Type /Annot
 >>
 endobj
 18 0 obj
 <<
-/Count 2 /Kids [ 14 0 R 15 0 R ] /Type /Pages
+/A <<
+/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15471121/Kemi-Badenoch-confident-Shadow-Cabinet-members-defect-Reform.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 350.3969 532.3489 361.1969 ] /Subtype /Link /Type /Annot
 >>
 endobj
 19 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 2015
+/A <<
+/S /URI /Type /Action /URI (https://www.dailymail.co.uk/news/article-15471121/Kemi-Badenoch-confident-Shadow-Cabinet-members-defect-Reform.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 338.3969 291.0499 349.1969 ] /Subtype /Link /Type /Annot
 >>
-stream
-Gau0DgMYb*&:O"Kbe@o"MoZZFac6fE7?^Gt?;b;I0D8gY'XU8$N$ZmqWOVs)*KotFF^h$\,d@eU,%o2h1M7[/+oW&IRT9EdA*@51+;'R15iPNIit$)mIW>C^=ZN_p_bRtWhFU$hlk=XAY&aC>Bm/t(:1;p"5S)aD1.YeX_9lVSQV4hs;lM8Ak<3'U_\Ei>9;1<CKQl<O;lbj0O!+k*ILqZm%/e7*bo)U-@!i4>5A_Bi@t^o3qGF.TN.qH>ae4:6$o'PC%c-\n?m3HHPjUsC`+9]Q2R2F3gGsBUZ-i9M#bh9HHua^bZ3U9FSUAN^;q/$fJ+hi?'_gP7d<VkTS97%eO\,*-&!'<a'fB^A<q+47V+cpm)RKd=OEJosDs3f=#Jl@H9"fBG\<Pj7-"nCDiAg]4_oHRQ$b)/ln+?8=1L-92B5k;\<"04<QPgW$@o..g'fSe,jTAGU68HB+JlL0]>@NYeA2M1SRP*@5)7PV^hMi1o4U._Q*>OT;#R;T;N8bC$YJr.(N`mMuFq;<QA][@N]$>AoNGbt`C9,][#MF\:0Em)5/B04C<jL4A"9D22"&iq@/Yk]=ViW]Em&h%\n'5@sBotfn/WlUVHT$',A8!b9g'%>Bb2K9QB!+Y[mUEHb9I=I$PuUniL$hiMGZllY:#fL7M`XAq^WP0XI&U5flg!$FmB$c^k]d&].k.U_Piq%kdOb`#L'IjE%*2@-3BfP5S$H<s\#S4<!e*l,9VGp&qB0_>96eL1ip"ZoGR7>[X4:-"=!?&0<@jXaoFuQad_J8m)&(7>/Q,6_:TNUV.)L!G[]AMC4BVls*H!PUhdCVY"cHhQ_iDsj"#^"-@850D0!*X72RmuV-OboT(IA(u+_/uuWf>dH!1hgk$a()lFCko-Z@qtRii?lRYbr*S6.FP)E<k5\S7^oD_A4&GLVmJrJ\)('KL6?*pHMX[nO`1p%E.f+?mU)1^MVl:r\&&e1/>f$FKgS6Kn:MNV:5_(b>`I.1;"Zf@#U'LEQ<*<aL.ABAOIJTC*qB*m83$UI2)M3k'G:IkIa73dG^VLX!8$WX/"9b0u!;S[ebI]?8?be=NfTroT:`(RdG^7@*4r!=2[c.hOh';CZgTjX!W!3D"`%GPUS39-uKDh_j$G=I@*lRM*%D#EJgaR[c4/D`WfKpN<9XHO<YrK@l$LHagduN3MO]Wl[dePY)bkU&h,J,gi7lUc4ugIA^uVW@Vng(%"/D'WbRdZ&jp9fP`-"';]V)>dmrZhWh>V039G$9`j)2iIskXS*d8$N_SUmD?or&!"5/:8hIGC`cboOEXE\gGp0-?N2TD:HC2aNP909&I\n`gqHUgMk%(b[]qLN\c0"CL`lX64@TTMUGej?#\.dN$t.%qFtYe]J`E5b!eIm7s\iTk.Oq"F:V"'iLLH#n6p=uBsR5[\fFHks"sSp?ho[P>#"5=:b"9[6;nl=le3:=JsFjI1YI[@e8D4!Lt4%DNq/4_c4]Q<f%!YW#26G$Q6UotK$&hnkVYWjI@.3C@m^JV([\Y[g]nf>@15nKFOsIDF]g-h6/T="[=2\2S*@S=Em>TZ]4P-m.>>ltjNr3[TmCM?Pq$0+97`PBW#hAd]$aV_L_GHY$e>XMPe';l?5SG\04(GX2,QYj6$Wn?j&hNPbi41]R^9I=e$@f-u[%_eZ6!/bGAZ/Z95^>^PeZGB%Ke]-JGP4,_n8c,F<m+^8^9Im_YiFS:ZhgN'[]&+!&\\e3Mj:@cgC5ggF#j*ZI=PI6A3L6>KCRULF+D)647$YS@5L@p8103<Q=93KKcbBV<)\=h"D6bmku9\R4AI=$+@Si`Q0NiBf)XbUAkUUqT]4F2H=$;]@^hN*@<a`e$iZ$idj9(@f\c@?B?oM+s>CSKN2.<<(3^Je)ESZWa`ro_*2U90k!X`,XEHn5I`&9$'EA2j,WUQ`thnHXr;C%lZ'=KhZ8EfSk$NI1r1T@k#O7(QD%_+Fj]>,N?)S)DkGkm5SuKF;CDAlreaei/\m`dhpc(GlAAnNS+@?:Y~>endstream
 endobj
 20 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 220
+/Annots [ 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R ] /Contents 25 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 23 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+21 0 obj
+<<
+/PageMode /UseNone /Pages 23 0 R /Type /Catalog
+>>
+endobj
+22 0 obj
+<<
+/Author (\(anonymous\)) /CreationDate (D:20260117101742+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260117101742+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+>>
+endobj
+23 0 obj
+<<
+/Count 2 /Kids [ 12 0 R 20 0 R ] /Type /Pages
+>>
+endobj
+24 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2014
 >>
 stream
-Gar&85n8K3%(u1h3NCJL]>1Rr2<mV%:tM0QU-LC6&b3[*/W(@nUm#ntdj[S'dAL>D@-KB&&4jWKTKiX!405"In-3LP'3==*/j`-1'E58YqZRnnI<Ld)2XhS51a-+\d4-U5*=cda2^M4'6ntFCC5]ZLiiH719\NQh9tDd<<-fm*7cqn48Y/8.iGNUu50'6.riTr]ZrNE"N%[/Mjj.$/mgXs%2:q~>endstream
+Gatm;D/\/e&H:NnEM'[]MektNj;4I+QEKK'2FZ2A(pLCbBSj/79;4aFp:ObI4&YWRdTB5u(3MrI]&Pq,GP&\i^Rk6cc2fPpd(f4go3jZb0B`QnI0ZsQcgIA^4!WGrpS)95(V8H_o&0:A/a*5=H2@U!j9F!C#5IG:_[r\*SGg;m[Xes:/l`C2]S3D%\Dfq'A>.tWO5IZ[<NQnB3="I7,KKHsDeO?tfn+kN*2^2!rIOP7*A_N,7=Hm.qdU.kiNS*jN:CGgm@*F[`*<QrQ2[TjSiN5-e%m(um3(W1@K$//=@2oR3-)BcCl:G3O^I^3.ou3$iR</AKPGK"W`HFdrHGP<AF]3#Xi_K$<lHM+b9q'?F$0PRfHFtTgEumW(SXcOZC&?hdU:6?F/5G7%(+:@F<4;$3m8'iG;%1te!.c9R]/]ZiY27/;RR@&n2ZO93%/Q:V6Q\BoR1)aMT)hK39Z`rQ&(.>5noRe?-4W1MmVc2DpUN%i%SNVpDaag2ln\='=P&*nH4#a2*Ds>*">XJDE-c!7]&MS"CGr+F/\REWX)Z[Q"ne!6piR6TdsB.1T")QM^l\!9?l_#'W^8Y9$TlF+m8Z[.h/RNbj.luW_IhlZT5oNkB-tG<cM4t%0`%WQ)Z#Cj3(Prf7bn$@4%XlM0nk]c1t6O$U@6T?C$u%H^:HODo&9?[W1_MY,uuN;dSg_lQn0([:5D'EJROo`&u3s&>`8@.un75J/qO_i+m]\jq=^u<.LrRU"7kn[uGT/dk[L11SmDQ'kF$@DYFEcm$974>1gh!2=!hJ<L%mYn#t@/*Zf4H0YJ:G]O*<49N_%G8,ZXmoY"]55>re>.fdTs^es6Yg1c(\G3!k'r6?+?57GPmRmuV&T;lLS-BG#%e@I?Nilro(XR_MVHDF$8!X$^,-"/]_?f`3_n3RGnT_HAHb;r9-CrKF;lYnPeF5G_PmCMe^MgnKW%S!!V+3FAm=RZ_OR3Ge1aCg5_eJ3oZ75ed]7TtsG>GL9^$-+gE3*Xm</34Vo?cQP?>XdNCl=Jl"[ZhZP5Lt8+9ul2Y&B#'PleGZ?ocBM?.%S-m7\deu6e5]@3*1aKP<7*VX$fj+RlX&0R;Jo%+P4]_HtN:N>GD+bZ3icd1sN$H/DrH%7uT?lhe7:NWKmc)pW2=+Dqp&Xo5u`JB#FSo1u!DT%jCq-Eu#@3`mMR8Y%&bies\+TTu#HWC70-^@"q(HqA*n(lS2>./*c&]S=#`JJKa4JX^P-u:cR)F&C/Z^2@#619-c3INgoLh8mmXCE0R%a96\GI_')!%6jAFf5`?4C_[_VI"N/7t5OcEu5(8mh-B8"9Gdq*;b=@W$>YeL3CHc6d"h>?l&fEqD[P'EP=(p<UN*1nfVkQG)<7]M9/>Pt`ihAdLgs/DP,n+u[$,&pgFVTWqgul`\HE_sDWbA_kZel,B2ffYum!JUq;\>iqCh?7JD1rD4O;47YQ"+5+2ncIJ2pGpY`0;M2nL7]*`cbL>,9F:ISPWiI8V^8IMMe/SWHg2"ALu'u`:T-hnWf3D7SHif'femiK6mIb.n?7Zl=gu#c-C#oji!HSNhqk*ZuHLk9[a9!W'dG7'*F9`4aFiR\9RfUXtqC;Ge(prNIFYZ8qhFXZT"U\D>*6%oFmZ-b7*IpJ7b))$JJU;P'c5-2UJtOM&/ng\(`dZ)a8D7\X%DHdIgt"UUY2VKld-o?eDW$/aTusK6Lth2U@hcch7V_I-c!.<3kF^AXJES\2?/3FZ;eMI87q>Vj<oY[^M,YSCqP]fZ`W8Y]rMJEQ3,c%Mn?4\5hDA^[`aQrI]`TW:LfIDJlQ2^U##l'=5>^@Ssd7\dRH4M/gT-_p=l&fQS_CSi^*;;Y)e05Yn&XVOMVTH;7sQ`d4*0$`%P]j4#au0!OsVEC8?0R?C3Lm(;'57ruGuYiA1d+6boU`aq7+Nl!/'qW.f<;2oE(D_0Xip>J8]AGWp=bg)bV!,PD+dMPB)1(bH1UpiJD?:9!KO(Emda74o@5j$JLeHs*&%D]=M!=gGZHN~>endstream
+endobj
+25 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1549
+>>
+stream
+GauHJmr-r=&H/38iq?sT$Hj(D?a50VBY#N]Rfm$V@3;qPTI&<$9T]fV7Iu#DUF7S"S&>Ll%"U!#UlKZfh7G$9&cRpX437NKAe:OI+>M(U5R+n&bc]mam,[-$?9*-9PMW7Ph]#$q1*WrPeP#W:WMB2B;D]5MToW81*"QJD6g$DN`<L556KoKhp^Gb]i0m6\Pr.uSN4\PW/TaTD?&58#'LX2hA&%Sg/fDUB_X&=UDd4?u@tr6BUUW7O`"N44dC=tb9X$9Z!,8M$]*qr0=&i66=-[.A9B]p;Y0Ad3bHgKZk=I=(Gplg06E2V5">aJ,?]oCcO`C#dhGO/%B.5M)\$pR*<DoB[r<678R]e/Ib.$)lSV3V2Gt?YRTAMoBCPo.R?*Nj?lDb6<@j$osdFHqGCR-]b.&]m$Q!Y-EQs;sI*uP>q/5TG^c=Dh,j!i1draUIOpr&ujai`EtO<?QLgOdOX""$sgMPW#a5fsinER]P>9pH_pmGXd0PJ]6eHqAtHP-@<bJ5,Qjb,RrS)GQu?8g\Ls4ZhZ]rp]En,C_K%4o*E_$O2[71As@.2lrg$[0p$W1kV=uK6TD@OG]8Kg`U-5aB:]NER^^d&1XBJ7I^IL@JZ*ireQ4YR'88W<mqLI3`d5"P/CSND:XDD<bR,;_$s%*KGqXEKmZOnOX%I%Ja7mSM!ZpR.V-DM^ka:#\CPIj24$s$%^@tT7Cm"F9VMp<jT\Xqeu_hSV<k/k"Qjg$XBWe[DDI50]>/RlFo:sGN!dsd139[-!,b%URPG?;#i;;(hY&<,IYJ;MQ+4NYGEe)405EFE$=>=";;NXASJ9pZ)3T!,Cni(cKfn&HhNMf.D2*[H%RI.L5W_s!MN:TNn9"64r.i2-*W)#trOfh`n#p\OH1CD3cJRNn^\Bd*Ah\6J<E\j[WLS7rKn+"KY_?YG/?bIF$Wcq!>9H],LI-!u^m[U<S@aT5/9\p,8(<!H(lt0gA3,OD_ng=k!%mL_S+'8NA"H.TP8eTr@DR(=SDXN_LlT_V&3(.XN1uoGEojV[gfAjP$jlA3^\E_$kCD<9YOLKu9.Wr%(`NlnQ(4n[5rUCT-m(ZHc8;u4aWNkOeL\5lbKPQM<1rieoIpK%n]MaXO7p`GF]aZ2W2Et,g@<C;%.TEV4:/(F$[hCHp#,<>"Z8PrGFr8Uo^stDe`!n]hF[;j:GOCG'<S`%^5Hd/mukL4g0*K;4l(K+PqBC,^EGeHFlMjnB1IuS)2dMaa.H=&#)7"(ROd.YPGOqOlOdrfMXri&<mEJc%>%Ma5I&gY5Sn*4OR`#JUpKI?9tt+d+mth3%V%$4'm^a)1'-Q;]2pUD&Q7`Q50iQX@'d"`!]d+jIr&cr3k@Daq_>p^k7=H;l#D=D^\hD_8FZNMfmo=nb4-LVJd$Q9rQ^h0Z!,6qhP)cZ>bTU]P$?`(#r,3"RcYFn%3M(U:hLnH(5[BcI!!doB`:QM10pu=)s=Un6;FG&"B>>dU&$G*!f9M46kD1!E7VVYptH!s),4*KI%YO5R18GJV:oP[!8/8!3%"WsiR!Xp?e+,r?Y'nUp&~>endstream
 endobj
 xref
-0 21
+0 26
 0000000000 65535 f 
 0000000061 00000 n 
-0000000122 00000 n 
-0000000229 00000 n 
-0000000341 00000 n 
-0000000460 00000 n 
-0000000575 00000 n 
-0000000803 00000 n 
-0000001031 00000 n 
-0000001299 00000 n 
-0000001567 00000 n 
-0000001872 00000 n 
-0000002177 00000 n 
-0000002487 00000 n 
-0000002797 00000 n 
-0000003067 00000 n 
-0000003273 00000 n 
-0000003343 00000 n 
-0000003624 00000 n 
-0000003692 00000 n 
-0000005799 00000 n 
+0000000132 00000 n 
+0000000239 00000 n 
+0000000351 00000 n 
+0000000470 00000 n 
+0000000585 00000 n 
+0000000850 00000 n 
+0000001093 00000 n 
+0000001319 00000 n 
+0000001402 00000 n 
+0000001634 00000 n 
+0000001863 00000 n 
+0000002113 00000 n 
+0000002342 00000 n 
+0000002611 00000 n 
+0000002880 00000 n 
+0000003185 00000 n 
+0000003490 00000 n 
+0000003800 00000 n 
+0000004110 00000 n 
+0000004377 00000 n 
+0000004447 00000 n 
+0000004728 00000 n 
+0000004796 00000 n 
+0000006902 00000 n 
 trailer
 <<
 /ID 
-[<a285354c34d07a5ba43aa737eb548045><a285354c34d07a5ba43aa737eb548045>]
+[<636c5e4122461e57b950e07bf9fdc1fb><636c5e4122461e57b950e07bf9fdc1fb>]
 % ReportLab generated PDF document -- digest (opensource)
 
-/Info 17 0 R
-/Root 16 0 R
-/Size 21
+/Info 22 0 R
+/Root 21 0 R
+/Size 26
 >>
 startxref
-6110
+8543
 %%EOF
