@@ -2,7 +2,7 @@
 %“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 5 0 R /F5 6 0 R
+/F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 5 0 R /F5 7 0 R
 >>
 endobj
 2 0 obj
@@ -27,54 +27,61 @@ endobj
 endobj
 6 0 obj
 <<
-/BaseFont /ZapfDingbats /Name /F5 /Subtype /Type1 /Type /Font
+/A <<
+/S /URI /Type /Action /URI (https://www.independent.co.uk/tv/news/bbc-question-time-reform-tories-care-home-b2910703.html)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 609.0719 454.8319 621.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 7 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://www.theguardian.com/world/2026/jan/30/friday-briefing-how-britains-high-streets-became-a-barometer-of-national-decline)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 567.0719 530.8459 579.0719 ] /Subtype /Link /Type /Annot
+/BaseFont /ZapfDingbats /Name /F5 /Subtype /Type1 /Type /Font
 >>
 endobj
 8 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://www.theguardian.com/world/2026/jan/30/friday-briefing-how-britains-high-streets-became-a-barometer-of-national-decline)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 555.0719 106.2079 567.0719 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 473.0719 530.8459 485.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 9 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.theguardian.com/commentisfree/2026/jan/30/how-we-entered-the-new-age-of-political-rhetoric-and-why-its-bad-news-for-keir-starmer)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 405.0719 530.8459 417.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.theguardian.com/world/2026/jan/30/friday-briefing-how-britains-high-streets-became-a-barometer-of-national-decline)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 461.0719 106.2079 473.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 10 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://www.theguardian.com/commentisfree/2026/jan/30/how-we-entered-the-new-age-of-political-rhetoric-and-why-its-bad-news-for-keir-starmer)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 393.0719 173.6989 405.0719 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 311.0719 530.8459 323.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 11 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.theguardian.com/politics/2026/jan/30/reform-uk-enlists-boris-johnson-ally-ben-goldmsmith-write-party-nature-policies)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 257.0719 528.8209 269.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.theguardian.com/commentisfree/2026/jan/30/how-we-entered-the-new-age-of-political-rhetoric-and-why-its-bad-news-for-keir-starmer)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 299.0719 173.6989 311.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 12 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://www.theguardian.com/politics/2026/jan/30/reform-uk-enlists-boris-johnson-ally-ben-goldmsmith-write-party-nature-policies)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 245.0719 108.7009 257.0719 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 163.0719 528.8209 175.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 13 0 obj
 <<
-/Annots [ 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R ] /Contents 17 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 16 0 R /Resources <<
+/A <<
+/S /URI /Type /Action /URI (https://www.theguardian.com/politics/2026/jan/30/reform-uk-enlists-boris-johnson-ally-ben-goldmsmith-write-party-nature-policies)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 151.0719 108.7009 163.0719 ] /Subtype /Link /Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/Annots [ 6 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R ] /Contents 18 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 17 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -82,31 +89,31 @@ endobj
 >> /Type /Page
 >>
 endobj
-14 0 obj
-<<
-/PageMode /UseNone /Pages 16 0 R /Type /Catalog
->>
-endobj
 15 0 obj
 <<
-/Author (\(anonymous\)) /CreationDate (D:20260130073353+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260130073353+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+/PageMode /UseNone /Pages 17 0 R /Type /Catalog
 >>
 endobj
 16 0 obj
 <<
-/Count 1 /Kids [ 13 0 R ] /Type /Pages
+/Author (\(anonymous\)) /CreationDate (D:20260130074709+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260130074709+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
 >>
 endobj
 17 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1735
+/Count 1 /Kids [ 14 0 R ] /Type /Pages
+>>
+endobj
+18 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1986
 >>
 stream
-Gau0C?$"^h'Re<2\;sD*$i3,=H0N7alo#rf>LU\flTQlJJi603A9S2gVE_e-<rs<g@rNb8gG"qTmQKagF**6f_G;.Xo:"l`9)YfXie41MM?gfq:#F@al&/=j\hdiGihABuNq]h-^)4l^pt[M!"`\b\1eE&SF?H:>d#6n"PgQk8ZQH`Z[e.2!CK&\(Ds@30]beg_XXr9S_\$/l=n(f=,uHF.;9[Ie4at9bK&W+RrCGE+Hl'Pk^KmsMdMlL<(GUoT;%L?F!#JC#iUgP_&Ij+4rMtV2J1F2RXJZsu./N&2ahtD,Yl/uTH+:'5;EYMTYD!UD4&LA3HSh0:A%FaKh&*g<rHDE[>2?l.3D$44/h]X`h5tQg0'n7Sd0VDFn\4*<IUG.\N`):PJC=D_"@0/jMJV%jnNM]Fj(7WnM]S,YCK_(VDR_,@=+>GTdEG-9QYJ7KTCdjjNHAF*]-Ks!Q#]`bF[cXLBdRk,$fX#'7b>K`6[DLbHc:8!KubdD`!QAQ:@<UNfKU9<-V4/iX.VF@_atV<ifpV':QH=;`p*$1h8I9fQ%)iq1rsEG;.=#ciP<6^?@`q&7R[n-k[.nV=/t]XUDl*AC6Sk%G%Ce0BF[W`fA&D`l1>2BG+-(O5dOEY!u3(Vj`$S!p)Gi\M]LqYX7!@8*S8.h\Hq2W&So35a:8*?KgJ!7ZT0#(P-9S3.NPCdP-/\Q)LZndZta3<bX%2C*r=Zc4l`Pe?D":]TgC7bpLKUo_NK#CF[<Dn$81QT9On8tMk9+EQBgM8%*f;e6[YaMpOn<@BLo;e%PM:<&'1:!Rk/nK^5j?Yprdj@HP$7c8R4BdZBK`eZe=tIGL9,N&'Xc,g/LMu];bgmX*tu[k91Vn/f#;$_Z/X.=m",9%Lm1eJT8+o"K(?5,f1T@U4JjT%9Y`<3b#GZ\:slKict7oXP4#4SY0TRjm\!Ks3*m2XnFPY9&[.n+9q*.jDE$k8_8h]K6;S\KSb+-UtOeBFZapC?[AQ+/R=6]M8VAK_;LQ>3]S3*UuUsOF;uRrf;@Sf&M/d5nN!^/kd7^ZY,%?1FsW*%WBG+(`douO$;O+d:a(bT&4\VK%6<?BM1>)r6'es)kXETNU<;+"!51P-do'C9(fT3/B%6S]I4-si\.)M>#h#9"54>qk6!<NX3##Z&U8]_E67pP6'R-huhp[Q=-!sg=lYj0af1O[4<UuStl(:(FdZ(E>Z:ilG?ObSDm7_Vgd0IJ!%3>PIF8A<X6q(24K]2K')d^s0;`V"*Dc_!e%)!QE1J>"t5H\4:nQ<8=&I\B7rA&$KJ8l,24q9K&FiIk"OMLr+fY%%S`aLsh0Sn'5)(,+,Itm1FKtkhe.)D3'%RMHYjoiJpm-0U&Z\Jq.kK[e>p-'UBZi4)sh!_[<q<>/+#t1*9kYbPG2gL)\(t5iX3XT&1j0jCYC+tdALKpFVcDBd7>_fuN#H&G')1D0=o\/'L_T!5lS&4d%.W"K8^QI/ZnOQdqk`OFSE.V'Ge)&o%BhSKoj'[GK;K.$fT44K+B&2l!TT_H"n8m31jPKI#*d9]EG94uBp.l`Kn,pCM[.d`#?scR%PojK'[0oEU?nhJ/N9=;2r-%t1(1/5c35-aSp[[a-ThYNW^`I0i3Hd0)i:ZMj@4Zq#e12?D\sb8a'ab\5He4%oCub*ikm%1..aWIm*n]9OfW85]c3%nFa^ZDsnsH<hMh#7ELf+IX=<NP+i-lWt@g#BiFCQT<_e"@)r!/=s9sF~>endstream
+Gau0C?$"aY&:Dg-\4=#<80mk>l(o'&ES;aRh+!sZ2!G*166[Td:]OCnB):Q"#?%khGTo2tNbrK('"kj4gVk>5#X<>(9M;,G3V@<"MA)F3.3A2;1k/4Qk0H4SC[YNuNG3=d?LNlJGWLlLiO<%]K"-7++;sgS#$2HV%!ti6RZ(odd_u_p(OQ!a/ZgPfO&tu9QJO#gBkohZ8B)=SEB9<\91kph/>?5TU?;<S>UbQFU%q3IJ'2!mLAVOd`^t)29r9X>7["m6RA)=hNl(24Zm$E/,5n!ai_W^>E*6O?lm1fT@?^Rs!FYNr0_4uU\UjT,7"2+oEjATrA$ngjfeB*1(GBN92lco3R`q32h_^]/WK^DOWtr:U[W\Y@1J/u7;NBdIb)\_?^)EPr12.(6*.'%IoXlTn2n>I)@m%IIk&[8cG6ZD<Nc@UC0&HV=1::!S0\'P&>HL#o7<;`aP'*Xe8JN[UD^nQ2hkPAR,Sjqk/W!Ej']g*'E0kC'dG-db4ROL9Orp:9W,9"PRt$>.W4jPHqm/,1DC0Z`SdhRho$+g7i1tGPpb_J&=*/lhr<']["i+r,(6Hq@Z;enkPul*_Gf]F]BrT5YY#a,V8Wquq%IgOgiS3[[J+QR8&+(U9_'/hm8AC:$?<%q/lh>V8>u0AJhb.gi?MCL;hl*+70,CP^e.sG^'I[5-:/ldL_5n#V>qD(31l2FM]IJj2H&nh8<&9u]:GAI=`4T_p?ImP9>+33000l^U[FAeGUEAl`Y+;_k2VagoEkTU]S5Tb(^/1fi^8H[,W/GAr9/;YBO9K2F/[S@q$6436s(k2dB;9,U&%ZoUn7m85nG(CsrlLfN!EK:12aF&d+>BSR!6,(;Q%]A;2l"ieVS2ocL%U18UOfH&3$g@a!`DXmoG+%#lje@WoYCt?R*gUF=O=RCU(a*gQ_4@^*,=m[otW`I\E2:I"nKa6Xc`kO#6.K!_EP)6GM5m(ga__A)nN&r<EZ)3j;!Vo;_JKK!Z3OQjE[]t!oEd\4?$':$E<6R_9T1&%RVnOc)A"p5UARFLg]EbN^ZTDl9\,K"IBUu+h=h"o`Yf`d[7$S?<60&Ioh`tTUXp(@JbLkB^t;VUET'*m/f7Ng##q6A:7KWs._FL6.B6G>7_$DJ;N[g+0NZmY"#eKLrL$['LtY)Ft&"f*(toALsFR**"K^LIDb9]KR)]?Dgq%q4)EaX=^sMp/1`4/&J2+R3VJ!H'g$`q:rf-9bP.g5L>2s.bAIkPp6F(o=SLQB#4;CWcV:jGCR)'])!<%ZF>9c?mMNb\a5,NjOE?k*+*Yb0Cir;`?!Yn0!_uNQ?0/G5eo-eZ[1BM+&f7ui-n$+u6^c5O67OJDDt!eAV>a5JRKobKLJ1<T@9(SX"$#`F(br*nKJpf]+\%A[kZr(?LI$Mn'en&<M<oG5>9g5Q0F)6mYp-/1(!<V>.N%>#r&_Ji/sdLfIed!aE".N/1V#%C9E17@RVlscNF1umrTZ'_mh`!07dj11gRo/.F@j72Pq(ue]$O]pg<#lAejUmEllBOVK-=<OdbL;(9$d*p9[D$F:U^N*Q$bL[99aF*%r;J4-!K75//1p25]&(OUN".;3!/.KBL_2qpKt]sAB)g*!#&fNiP8EE?of!LF_3m2`pq[+qkkKT2fC1`h;d`<'m]Z/k/LogPQf?Rkb]BU;:.kEC<uKJNK.Nh;VgGVOpqB6EJOc_lmDLPo$udI$^RcIN+Xh&KDi'rI*%i7BcP@$V5t!mB^[YuA(G$^ZauLWkPWSJYX2\7W4mdW1!h>XD.XBq.4]60C"5=d-i#GtT>nJO@c-b%!t;oa6+V?fQAp<nSMf3@P.:rd"(;c<$&t8g7!Q;V(JAZ(<>*@/m#Kq41GmC,+IEOR35=NQb^HV&%u.MX9rd8a,2QDD26=Y;6?]:'@%!"&G+`aJIuFH2G5[9QgJ^h[(9IeZK#&*B)t3ttMF#%6'hBbU.j=s?6K($9*,>[JU:W,=_>RemT)B$rg'lX~>endstream
 endobj
 xref
-0 18
+0 19
 0000000000 65535 f 
 0000000061 00000 n 
 0000000132 00000 n 
@@ -114,27 +121,28 @@ xref
 0000000351 00000 n 
 0000000470 00000 n 
 0000000585 00000 n 
-0000000668 00000 n 
-0000000946 00000 n 
-0000001224 00000 n 
-0000001516 00000 n 
-0000001809 00000 n 
-0000002090 00000 n 
-0000002371 00000 n 
-0000002628 00000 n 
-0000002698 00000 n 
-0000002979 00000 n 
-0000003040 00000 n 
+0000000830 00000 n 
+0000000913 00000 n 
+0000001191 00000 n 
+0000001469 00000 n 
+0000001762 00000 n 
+0000002055 00000 n 
+0000002336 00000 n 
+0000002617 00000 n 
+0000002881 00000 n 
+0000002951 00000 n 
+0000003232 00000 n 
+0000003293 00000 n 
 trailer
 <<
 /ID 
-[<5c11c9e898ed79877ddaaf587f277586><5c11c9e898ed79877ddaaf587f277586>]
+[<3c5b824d616d7a6aa704189a72504a5d><3c5b824d616d7a6aa704189a72504a5d>]
 % ReportLab generated PDF document -- digest (opensource)
 
-/Info 15 0 R
-/Root 14 0 R
-/Size 18
+/Info 16 0 R
+/Root 15 0 R
+/Size 19
 >>
 startxref
-4867
+5371
 %%EOF
