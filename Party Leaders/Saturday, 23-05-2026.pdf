@@ -2,7 +2,7 @@
 %“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 18 0 R
+/F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 25 0 R
 >>
 endobj
 2 0 obj
@@ -78,7 +78,7 @@ endobj
 endobj
 13 0 obj
 <<
-/Annots [ 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R ] /Contents 26 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 25 0 R /Resources <<
+/Annots [ 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R ] /Contents 33 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 32 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -110,32 +110,68 @@ endobj
 17 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.independent.co.uk/tv/news/refugees-migrant-channel-crossing-numbers-badenoch-b2981210.html)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 437.0719 502.8739 449.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMitgFBVV95cUxNamtyQ25qUTFSb18xVWN3aFdGZ1ZXZFZWNGpRazJJSDgwNlYydnZUaUI5QXgyVDBNRmRwWjVRcE1RUGdtSDFGY0t0aTk5N2k5eldncWFVOFlia0MzT2h3RVExcWdQSUZRVWI2UExFVk55S0UxVWJHM1BUcFM2M3RiRXpsZEN4LXhlVDV2ZFBBcVNTVEJQTFM4NHlma1Y1U1BzNVlobW1LY09ob3BPNjNzcF83YndTQdIBuAFBVV95cUxPQzZseDlvazFxbmNKZmV2cHZxbXRySFdKWXZoZF9FYy1USHBfclZKdjZuRndURVEyeTluaFgwZUQ2RkNxdzFob2VXUVFYWkFxZXM4X0ZTMzJKSkIxUTczdWFPbTB5SWQ5T09PbmNrNzUxbzVZcTFXbV9xUHlmRTFqOGJLVWdvSVdLckJSblZQbjdSb3lMdEM2M041VVA3LUdNSS04WFFTX2tRNmVqOVdlbkJ5Q1RkM2JL?oc=5)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 473.0719 528.8029 485.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 18 0 obj
 <<
-/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
+/A <<
+/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMitgFBVV95cUxNamtyQ25qUTFSb18xVWN3aFdGZ1ZXZFZWNGpRazJJSDgwNlYydnZUaUI5QXgyVDBNRmRwWjVRcE1RUGdtSDFGY0t0aTk5N2k5eldncWFVOFlia0MzT2h3RVExcWdQSUZRVWI2UExFVk55S0UxVWJHM1BUcFM2M3RiRXpsZEN4LXhlVDV2ZFBBcVNTVEJQTFM4NHlma1Y1U1BzNVlobW1LY09ob3BPNjNzcF83YndTQdIBuAFBVV95cUxPQzZseDlvazFxbmNKZmV2cHZxbXRySFdKWXZoZF9FYy1USHBfclZKdjZuRndURVEyeTluaFgwZUQ2RkNxdzFob2VXUVFYWkFxZXM4X0ZTMzJKSkIxUTczdWFPbTB5SWQ5T09PbmNrNzUxbzVZcTFXbV9xUHlmRTFqOGJLVWdvSVdLckJSblZQbjdSb3lMdEM2M041VVA3LUdNSS04WFFTX2tRNmVqOVdlbkJ5Q1RkM2JL?oc=5)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 461.0719 532.2679 473.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 19 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.dailymail.com/news/article-15842787/King-Charles-unannounced-watch-Shakespeares-Tempest-Stratford.html?ns_mchannel=rss&ito=1490&ns_campaign=1490)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 242.3969 528.8479 253.1969 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMitgFBVV95cUxNamtyQ25qUTFSb18xVWN3aFdGZ1ZXZFZWNGpRazJJSDgwNlYydnZUaUI5QXgyVDBNRmRwWjVRcE1RUGdtSDFGY0t0aTk5N2k5eldncWFVOFlia0MzT2h3RVExcWdQSUZRVWI2UExFVk55S0UxVWJHM1BUcFM2M3RiRXpsZEN4LXhlVDV2ZFBBcVNTVEJQTFM4NHlma1Y1U1BzNVlobW1LY09ob3BPNjNzcF83YndTQdIBuAFBVV95cUxPQzZseDlvazFxbmNKZmV2cHZxbXRySFdKWXZoZF9FYy1USHBfclZKdjZuRndURVEyeTluaFgwZUQ2RkNxdzFob2VXUVFYWkFxZXM4X0ZTMzJKSkIxUTczdWFPbTB5SWQ5T09PbmNrNzUxbzVZcTFXbV9xUHlmRTFqOGJLVWdvSVdLckJSblZQbjdSb3lMdEM2M041VVA3LUdNSS04WFFTX2tRNmVqOVdlbkJ5Q1RkM2JL?oc=5)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 449.0719 531.2689 461.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 20 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.dailymail.com/news/article-15842787/King-Charles-unannounced-watch-Shakespeares-Tempest-Stratford.html?ns_mchannel=rss&ito=1490&ns_campaign=1490)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 230.3969 288.5569 241.1969 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMitgFBVV95cUxNamtyQ25qUTFSb18xVWN3aFdGZ1ZXZFZWNGpRazJJSDgwNlYydnZUaUI5QXgyVDBNRmRwWjVRcE1RUGdtSDFGY0t0aTk5N2k5eldncWFVOFlia0MzT2h3RVExcWdQSUZRVWI2UExFVk55S0UxVWJHM1BUcFM2M3RiRXpsZEN4LXhlVDV2ZFBBcVNTVEJQTFM4NHlma1Y1U1BzNVlobW1LY09ob3BPNjNzcF83YndTQdIBuAFBVV95cUxPQzZseDlvazFxbmNKZmV2cHZxbXRySFdKWXZoZF9FYy1USHBfclZKdjZuRndURVEyeTluaFgwZUQ2RkNxdzFob2VXUVFYWkFxZXM4X0ZTMzJKSkIxUTczdWFPbTB5SWQ5T09PbmNrNzUxbzVZcTFXbV9xUHlmRTFqOGJLVWdvSVdLckJSblZQbjdSb3lMdEM2M041VVA3LUdNSS04WFFTX2tRNmVqOVdlbkJ5Q1RkM2JL?oc=5)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 437.0719 528.2989 449.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 21 0 obj
 <<
-/Annots [ 14 0 R 15 0 R 16 0 R 17 0 R 19 0 R 20 0 R ] /Contents 27 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 25 0 R /Resources <<
+/A <<
+/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMitgFBVV95cUxNamtyQ25qUTFSb18xVWN3aFdGZ1ZXZFZWNGpRazJJSDgwNlYydnZUaUI5QXgyVDBNRmRwWjVRcE1RUGdtSDFGY0t0aTk5N2k5eldncWFVOFlia0MzT2h3RVExcWdQSUZRVWI2UExFVk55S0UxVWJHM1BUcFM2M3RiRXpsZEN4LXhlVDV2ZFBBcVNTVEJQTFM4NHlma1Y1U1BzNVlobW1LY09ob3BPNjNzcF83YndTQdIBuAFBVV95cUxPQzZseDlvazFxbmNKZmV2cHZxbXRySFdKWXZoZF9FYy1USHBfclZKdjZuRndURVEyeTluaFgwZUQ2RkNxdzFob2VXUVFYWkFxZXM4X0ZTMzJKSkIxUTczdWFPbTB5SWQ5T09PbmNrNzUxbzVZcTFXbV9xUHlmRTFqOGJLVWdvSVdLckJSblZQbjdSb3lMdEM2M041VVA3LUdNSS04WFFTX2tRNmVqOVdlbkJ5Q1RkM2JL?oc=5)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 425.0719 530.2699 437.0719 ] /Subtype /Link /Type /Annot
+>>
+endobj
+22 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMitgFBVV95cUxNamtyQ25qUTFSb18xVWN3aFdGZ1ZXZFZWNGpRazJJSDgwNlYydnZUaUI5QXgyVDBNRmRwWjVRcE1RUGdtSDFGY0t0aTk5N2k5eldncWFVOFlia0MzT2h3RVExcWdQSUZRVWI2UExFVk55S0UxVWJHM1BUcFM2M3RiRXpsZEN4LXhlVDV2ZFBBcVNTVEJQTFM4NHlma1Y1U1BzNVlobW1LY09ob3BPNjNzcF83YndTQdIBuAFBVV95cUxPQzZseDlvazFxbmNKZmV2cHZxbXRySFdKWXZoZF9FYy1USHBfclZKdjZuRndURVEyeTluaFgwZUQ2RkNxdzFob2VXUVFYWkFxZXM4X0ZTMzJKSkIxUTczdWFPbTB5SWQ5T09PbmNrNzUxbzVZcTFXbV9xUHlmRTFqOGJLVWdvSVdLckJSblZQbjdSb3lMdEM2M041VVA3LUdNSS04WFFTX2tRNmVqOVdlbkJ5Q1RkM2JL?oc=5)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 413.0719 529.7929 425.0719 ] /Subtype /Link /Type /Annot
+>>
+endobj
+23 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://news.google.com/rss/articles/CBMitgFBVV95cUxNamtyQ25qUTFSb18xVWN3aFdGZ1ZXZFZWNGpRazJJSDgwNlYydnZUaUI5QXgyVDBNRmRwWjVRcE1RUGdtSDFGY0t0aTk5N2k5eldncWFVOFlia0MzT2h3RVExcWdQSUZRVWI2UExFVk55S0UxVWJHM1BUcFM2M3RiRXpsZEN4LXhlVDV2ZFBBcVNTVEJQTFM4NHlma1Y1U1BzNVlobW1LY09ob3BPNjNzcF83YndTQdIBuAFBVV95cUxPQzZseDlvazFxbmNKZmV2cHZxbXRySFdKWXZoZF9FYy1USHBfclZKdjZuRndURVEyeTluaFgwZUQ2RkNxdzFob2VXUVFYWkFxZXM4X0ZTMzJKSkIxUTczdWFPbTB5SWQ5T09PbmNrNzUxbzVZcTFXbV9xUHlmRTFqOGJLVWdvSVdLckJSblZQbjdSb3lMdEM2M041VVA3LUdNSS04WFFTX2tRNmVqOVdlbkJ5Q1RkM2JL?oc=5)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 401.0719 164.4829 413.0719 ] /Subtype /Link /Type /Annot
+>>
+endobj
+24 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.independent.co.uk/tv/news/refugees-migrant-channel-crossing-numbers-badenoch-b2981210.html)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 259.0719 502.8739 271.0719 ] /Subtype /Link /Type /Annot
+>>
+endobj
+25 0 obj
+<<
+/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
+>>
+endobj
+26 0 obj
+<<
+/Annots [ 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R 
+  24 0 R ] /Contents 34 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 32 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -143,55 +179,69 @@ endobj
 >> /Type /Page
 >>
 endobj
-22 0 obj
-<<
-/Contents 28 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 25 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
->>
-endobj
-23 0 obj
-<<
-/PageMode /UseNone /Pages 25 0 R /Type /Catalog
->>
-endobj
-24 0 obj
-<<
-/Author (\(anonymous\)) /CreationDate (D:20260523120147+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260523120147+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
->>
-endobj
-25 0 obj
-<<
-/Count 3 /Kids [ 13 0 R 21 0 R 22 0 R ] /Type /Pages
->>
-endobj
-26 0 obj
-<<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 2341
->>
-stream
-GauHLBoh#i&cM-);4k/#agAuZ-a3l(B<`\bj&$El(gt`8>>jpOh:cae'^`*MX/;]?-pkih7`I@JiM!ESG>pG0MXVu'a1NUB1T15-R,We]98^&^7e8]f5C`@\X8S;<?^UJ?qt%Ke'MjH<SU\3c57m:u4cQc(E0?2/c$E5L(_(.bdEObPb8pQK-i,B"]q[Y8$fsLqPc;&JSfX'RM!ej1\3fV$.>a4]L^#%pgFJoX8l>LLc$uSc+$#Y%,0If\_ZU>oPF+gl;%F75O<#rDiUY1M,0Dm8reH0dOBn#gEnA0TZ1-kOUWLX+-tW;MI.cQGq6oSKYl%"&P`rL)/sd\UVLoIDgq7Qqh5L=D22*muhm]GM:i0uN;C1XVXkHAgik;n3NQ[TZ!fZG*$n$[;%[V)NV,ut%[g=8B[&$bnn<71XP!2DA*'4:d:9LcVDANA(UQ^C^+#*;NYGGHsSs;2+g65dmb)n5JKp+cJD1/P2$>4Ck[\[(aWl3_C_&[^"PbCh0_,f0'M?aaD39Nl&@prqS.oT!&G=a0=:UuUB+$0Ea:G=rm2[S`V4T3YAC4h5&,P^b"D>f"i+:^ApdS0'1FXTkZnRNPtki6L9+iYqu.\3o's$PC-Gn9&f[Oc*%9:[T5f<WC^;/VjtWQ<]B(+:;tduII[#s_)DNr]Jh29ONMC)j#[ou7H&TQEpnWT&4.K@+rKkK\a1K1eX=fCd-Zqu,o*gXFIPmcCn/4SB5Agtu::(4B=7VfV,"\^Qi/0:Mgd$RBENS_1<f'+LPpgdL,.iS;BJ5Us$0-KF/XTem__eoau981hHVLWeVgL'V0q7a]X5&:E_Y7=U*Ir!pS:d+i>R%5kZ?itpY+3.PY`5nDBoHra,aL8_d#OE?:;rBCkmK@@;GhabO2kqjDVUN&60BB/;aQ6o[jqFRhe8,C:4hpQ[ba_s/e//o6r*0*n`b8.U;/Gq)6=;7@d_Chqu9$mhaAL'2SGpL@'DQBcl)J0+O[)lU(jTq+\MP?Aa_Qsu\D3sWKkncU7`WJ8$nXV0$*IY2HHUnADaR48"o5V;CmM=^FrYNebiS^a6/gB(:I8@mGK[I=^V&,CJcj[mf;9!o*2:<0/J;]N>6@(9mlWVQ0=kZ_ffnn32hiM*80eW49T@ir,C['b$*<M'YcSB/*Hq9FqI;Y%HF:OJadao<TedCT(.G```o<b.t/P2C_[]3TL]AV$Q5_pKdd2"%@NZSPngt;m[YVE03P]k(u],lG_SpW%!Gg#H'4hKG;-IXrDAh![-_G>pm4!9q#0:)AtMT?]`=\/PLVX\G&p`$,Hah?#<V(9pA%+dL>QU/cM`S;7-W6<ZLhkFCC$UlAtj/MU?HI?P$C\5q!RSqP.He_M;er[,Vl)+N"lI6Si.De[spVJ(3&)T>t-DFg'(^uPlQ>R6<pZJ8"CEHG+eM;7?MJ=LtS(?8!L'Q"Sj0Vjm"E1r)Bn>unOI^'^b=1I8F-um<4AJpS=Of$j3gA9rNHI+`$[+cl3q&8>iB]KV-7d_Eeb9)V&RZBq?0i^M!FepDIon'"q2,0=33>RJHGIYtCIS4kW@*5-:b0PGM:QiemaaKc@K+5^MRMRo9I'`cV)u6'IK0Y.h9B,A3^bt*AhsA<JGbkHItNa3J!]_>)F[Spl.!k>/lm7#aD[,N@^G[=6dR53cU0PdbTe\kAH#-T%/#cY/Y$$)fNH@%'t<8cNg9%CO$cPEH]/r'd04m58UpDRWE*70Cc:#oQeHBeT"[aS_^4]4AU0NG0fW6"mqDU$I88oe+`Lt`(!Vm>C)8NX^HJ`$X8S.=2#=3_!H)b,6+td/@F>7EGPf2r_`PkV/8t6XOb#D0Sp%*M)!E\UoOuN[rQE&@kLXNPYWTJ&iEQU@*h@rX2.J_"?g[(mPfp\#>3EWGFQuqJf2'i/$O%:u'GqM%,EA/RQ$?%n[!q%<m5r-J[?d([b,8kT)^eT..UD<CDX*>Ai-[6DWpt;:J%YY+c#BJf5L3s15L$+uReE_s)\I7IE=HHob\'0P-A+`OH'0+P^rAD<Q]AeF]\?L91E="4I)qf+FO3b?EHF7B?[*%,(@8S^LFUctRhilF`m&_p#:lXMWnf8H*;c[f;?*Xb@:>G8hI3V1dbCLrCQ-W*1cnl5Gc[ttmt/E'JP&oM:qRhEd1D?!.'3sUfg9*l^i+<k&tYaAMcI+Z6?2A,D$NMU@-h!AHWOX*h!,O3j%X["_i(EhRdo<6D1ZS-G`HGX'_YEh"bVTe;$Q\-C4Xb/86+iL'(KA"-1Ps(B.Ad%'uc;jilFL',SVg:`IW\NnG[L`hcl$6V..7Y<W:p(lPqj5BKqIU-(!.OlBV/gc6gqsMn6@C-_G0@YPo!8E6+[~>endstream
-endobj
 27 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1962
+/A <<
+/S /URI /Type /Action /URI (https://www.dailymail.com/news/article-15842787/King-Charles-unannounced-watch-Shakespeares-Tempest-Stratford.html?ns_mchannel=rss&ito=1490&ns_campaign=1490)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 768.3969 528.8479 779.1969 ] /Subtype /Link /Type /Annot
 >>
-stream
-Gau0Cmr-r=&H1J#iiir_[md_Rad-M2.%3![]#7fS]BGR_""d@_(Q$X4.\?\;*@9Bqh)Nuk1^55GqSBdfn(p2?E:H;a@pB)*04FL=!:aHb!XXS^/?e#Qq;UiZh3FtQ&.L#Cn&)D'U'ZCgZc_V:UjK`B#/a"HK]!)&Q]/g:/5$hmTtK$nV^qO-Q.`r1UBsj;k"HUEKn_8;,_Q=Y[7]ZF$p<.23:>Ghr:\8<RPF;\K]QRFr5ltL#=c70ET5r/?:5p+N/&6IK\<b)OBokWNIiu)2EAB-27NC[$jNmmSC^Bo["KA>he8*c$8F+_atn#Ac,-6b?ME5_@AkZDl@.U(D?)-3EhgHAd"ZFg$SXSnN0\95oS8&0_L'*0rT4V#chghVi7kn\#Z4MgcR(Vrb68V8VZeVsaUm7DB;pdLbE"`P&RcdD(nq0PggK9UZX<k'k0"fs')u:2>7C8D,1CC6/Mo'MK10'G;Ai\aNJi:R"1P-$LllhGiti5,[=OREJLUkh@MPJu%T('I,_fl.nX((_-^.I2#k2$K7FHbu'T/2\3Nom%$t:Xodft%(mhEZ`-qmsc3W=b?9=g5mef8B`V`.;GS/'.[*%').!/JHm3)Z@'QqG[oU\/pr9[,8WjerJ^Qr+b+*gq8Pirt;."H7TN1aK'\8!>d"qC[]HZq"ZekZAq6KfRuqQ_-O$HDTSPY..jDISWl`\+C^=d%7IdFd=1ofX]W_#eB(A.i8>eDX`c&dEJC[1f+W`5\"^nCnWB!'ccJ5h)a@.`ABAV#ZrI<mg=EEC9:X4HXIJJkA%2$bN=&fc9b,"NNMmDhK!782"ScdH>DMp:[P9]:tYBOlI`hek26Q@[Xkk`fqM:k)&636J<uOa[objkXIu[4>DSb]=+uUZJB"inM7pmL*V.jOfZAGa3i?s7*bAh;**QHg-uV1]^JPUOHARES?N`\Z6>#bt?k+&M!tonYkjjqddFN#GX.>QE:<Q>/@ARJ5kB,3p[]g23Q=3L.AarCV5Kc$a6EoIGdOi9>hmXuG[[dj\8J&FZ(V,ZP5<]S$jGoB6hr%#&g!Gnu#NFVc_\F[^S>-Q$)<X.,EK:UTIDPEe&ra"q\j$bdK(;g70Sg1&4B#5;G`7p;\tKd8m%VJ/d<d$21CY$kl\mRS$j8[d?u;/mOj+Q<o//#7NeoSNFYaML0%[:%-Q>aOD:$!5$*+ma"9q&7>R.,^'$Z$,T+2!6s/?@><tNHXgRBBDC-W_c".YM%fIp&U=eTe5V0Ja9SRXr_j$gei#$+qG]\0dEfiFtq%8`2F'<!`E\JqrePa\<"E's/4.i-SPs2VTXJJcOlBa)Sl;9RI^VUTVBb/iMQ*m"-&0Qm1sh,$k$p!(S5[[OKrd-93JF;j(R8aD2D>bSiM<ZT-(b)<.8,;(H:=nG787#uQ*+8)!%%sIoT1)I/[,9tk'F<H$WHC^^7-eKLu=M#-6'o,?ChMjqTDG(oA=EY=Ka?MYcE8URH'6ll_Hf\#D;u:?]F@A,lis#O@S=lE@J[7L;+sB4/)-kii6=!Ln2@A;T!Qrf4.^ZA0qQA2Uib$*b<EE"l<u8.XEU.\teD)MH@$.3-eJ6!r+'>`n[crs?Q*n$PedJ7O60$M5[sF2:9q9SrFrVTj5iU)E1%$mVB:$+kk+hZm)nSOgN?u^]A(D&kfFbK+":;4kX3klrK3JlYRB![Np#TG`1V7:O$i/,:/ao,CKg"/q5KXH'W"(=eX)oN4%#E.oKt[sZ/hR]o=?>$4TO!R$_%gE(OT]U$^hj9\hHD"5Klfo6Uepi?.V*K/>NL.Nd<RWSjb;0&AGPS6LcY:ol82agmNJ<qNfq\RO*@0FC%Upm?aXO;*]7/_,BIdUqVVf.,#;1*O*N>8FTq61=u0`9==Y#U?L&Q//32fDacjF"S>m$A;%<+VOb3;[.MHiKZ#9YpHXbL5:2i8nmi]9<ka,*YE4;O;kcqDYZ-rY@!+,R2F!2pU~>endstream
 endobj
 28 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 226
+/A <<
+/S /URI /Type /Action /URI (https://www.dailymail.com/news/article-15842787/King-Charles-unannounced-watch-Shakespeares-Tempest-Stratford.html?ns_mchannel=rss&ito=1490&ns_campaign=1490)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 756.3969 288.5569 767.1969 ] /Subtype /Link /Type /Annot
+>>
+endobj
+29 0 obj
+<<
+/Annots [ 27 0 R 28 0 R ] /Contents 35 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 32 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+30 0 obj
+<<
+/PageMode /UseNone /Pages 32 0 R /Type /Catalog
+>>
+endobj
+31 0 obj
+<<
+/Author (\(anonymous\)) /CreationDate (D:20260523121648+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260523121648+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+>>
+endobj
+32 0 obj
+<<
+/Count 3 /Kids [ 13 0 R 26 0 R 29 0 R ] /Type /Pages
+>>
+endobj
+33 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2339
 >>
 stream
-Gar'#Yn"W)$q0i=`JoC]Lm'Y=.fpJO.O&[[&If"6M^W0#higB0O<n-%ftM)#O$TCc/:j5,A4[mEG604ji7;#?jH9)WZkG">I@k)@X=!ksqV3Z!IpI*6ZrI<.0i".Yi(=F?rc2eZ?Qo/ddpa>F&aC`%TkZ4SlA:/?#!:_TlGC#?#VL5AZW,#LP5B<N*5Z"?7NKZ1;Z7ZDLk`bZN0,Y(g%\hm5k5,a^,N%~>endstream
+GauHLBoh#i&cM-);4k/#agAuZ-a3l(B<`\bj&$El(gt`8>>jpOh:cae'^`*MX/:mp7>MeuaOm@P4OdC"W2aH'&cT`-Qrc[ok1'DB;k23^8TE>)BRWJ?kHB>][D+KZ$^9FdJ%djtilNmOo1ujT#NG]kVbu"a:9kJ.=YGX;UB/Ui\p5ZG\YHq<7%^<VGBB`nTq&$K1:=R1dmGl1dClV#=302L,uHE3d6JskHf_S=.>km<q6)XT,KK@V7!VmSQsda@'%:MJl62l.ZGYcP>^dPq6lCd/s,^%sZ:bg*mTOig(;@G'1jQMdTPXY"YF_8MDc%U3jZb5iS?,_1)1ji=iqA.spPlKue\AGfYiapA(7I4Wg=ER*9%NfA[87nG^:C_4bE\]ONU'.E-\GnAQZ!_;<rn?9$p!TR=!>IWHDO71+<?:)&4ejm^<X5o-tWTW$\:R)jsaY1[fW4f2>,[e>h7&[/5(\\TR(I'Xj%2cEkAcV=>m1th1*6]G,pk$9b>0Bf5$6KJ/IH3BlaDXf!R8e1jPF0P5)RIddTWeTB?NXL\rJB]iM'rRR1kq0QMgh5,kYKkQ&bVBMt;@?-j'MaY]S_UChpEbr`i\`Eg/uLA3uTD3Xck?>[l;2R_,GU3\D,*#.MCfp%AAD/B:Rq4)W8$;(:k.Xqjhd&KsWVGcFsID?d\^k:&qrM5>:)%9!t)4[$?r#8lBF^<T<5OJ3SgMK`Y!:JsWf0&a95jiQm.uV-CPgd28rS6X0obU@%kQMSUohK=,iJ@cbEc.Ujg2Lq=I1VZG,a34gPYdg.HgA6m4/A0JpVUQ_?GcoE@7JYm.0t=cCdihD\bR7tQ]Sc,hAU-JS&[2?Z#Lo4P(OjP=88km2G?tp.k'WnDu+qpr!0-<\UGV(T;9qX4H7A:"J:[Wf<R6D!pV/D#*/><)8;s7g61?4UffT&<,klrC(FOqrXnp0dO7t;MLf&:(S%3/C6Xk9ETBt22n?&j`b6&2YbFk[!\HpBCiC)jlk>tmG\t'/^Ic0_qD02>!QB8_b]i]u(@E=d$t-^)n]f,9%_Q"nX8?6`c\@(Qp:JCb#PUA%o+4CS[Zk)tZ9U>_MaeTML"&Xha9+(^<X\0*/?EVMQY'r%X(BVYG56mRqN,^-#QDYqn%P(t<MVu);<MBM9V)bd'#2bpZ'ETXZ<I)CF2M2?HnqOFRqnT2<1tU0;p\R19@PRnBM9Pe%mt#g'"*`A#jU3u#(<^1WnN\\a""\BIla0KWuCJnec0r=[GaiWEAl'>qGW'>%M<kl1)jPQpch#S&&&10s0l_?RN;CIkur,rZWlZ$oJFHFVs6$/)6oT6d#Yng%fS'6-+m&RdQKd<^/Ig2D/#"/\O9@GH?>3PlHL4_p,N!bkY7W%_Ce8ZM;qo%`9'oU%Z?1B(C^R9Uq3BAKYdVtBZf%a<(jV-S\:cOaj$]bCbN\YAtX-I.p51t?D2$up>D#_d7fmb`gKbmr4G-e<`)uL/seUam*s%dR^`]J?o0q5P@%1>Ei;]5-pL_h#F\)S=WhpnVcX(Z7?./]4qYk;"M2Nm*;\7h:<$XVnh3TuJ^fBW0m>1U[VKrnjoGh\04n.i,tDAf+V[hcP7-^^^gPgOXS&GXKYq_?j,XYfY?C`]fP1;./!$Q)1rYkXXZYiG.PDb:m1CZtG+Nm`)R/cp7'k3%daCJEO2T:>0Bm`gk8"PMQ82O\/U=m:VgIjln<1U/,DT`M_6r3(J+[i]<X]+SS*cA3D)__q?R3YMP4m,*4\FBES1ENA[!gOi-Zbjj3&8g?k/`"ZMjKsk*nRICI`QIHIFX)Q\$j,G?L#Qbks<M)rEtZE*TK)E2g`rn+I`g9]2W2IoU%.T2!;.C-#fd[RLL4%-[.1&f?&q@kN%'9fT+lkH[,eXnh-`h\aQkpqN]k/PI0c[^qp8*0gRq]LhU1P;_k)L2kJj>'3qHdZ4]h+FCMIo65?6CV-`)W%LEWj#G\FCJ+rf[]786;7sb((D"dkWHqLSVT,MGh_QGSq5n'.V$j=FVYimH1Eha#,Yn"UHUMj`4p)V9aa"@Q<o&_bLF>J.]4eL7X]EW$M3rsRkR;Ulg'S\J_^2#sc.8<h0DDC;+7jX,j="Oc;;X*Kfp8VrB/Po__KW_-(d8H^Yb0'9-.(g@p<4.7pgQ<Qei@'`7g9@2$'K-$j8dCII"=;a&RYrg=a7Zq/T]d9;*F!Gh<Ob51FU@[0VRkC<bu9.)4Lg&=YY@d:Ofa8R?M^R-o$BJ@i1<7e&:,FtlF^(?*fREN*fg(J7Br2R39j<[FXU@FU(s@]LbK7oIr>.1>9\NqfPj<F5<.P$Ngi8?+3+>DbA&9pb5;f`PN]tS?/*iM'.3A:hgm&o^]~>endstream
+endobj
+34 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2505
+>>
+stream
+Gb!ktCN#t?')b#/U9u(dII@Aqk$]447\as416]YJfKAM&,HVkt"#8.DB]@(9heKBd`0oD*8,#V+D(G^=VRu+mSa'-],f:-o7mBG@B;9M],HN#7Nj.*aOF<&`p4j_3G#(0YJ^J<$mPf8+)_I#/cZppF^q89"=_kGSXc6;^.:^&n,<J>R9+iTkjP6CiP4K-oV'M^ZJHdsk1!9pr?"p^/7<k4*A93J>=_UI5/h(Q6jGnm-.DI&'!SP3q>=N#^I`7TS$Ru?Mm?ZT3M[]*XFoiaJeq=dJo!%[f(9Yd00+Uq?F+JXKSjannMqDANLs>,(-g?f4@<RC*L!NJ)pKkbs,Yr-g]=ji>J`^qhnH*]b$;NK-c4H$b$;!isR/V0e[IuE:RqhVONmBA`QB<Zp&geGq&/F/3_i-C7q(YI&*N'UeD+n''"Q+\j^^LLLBE0@dTTQ<uA\"kLd+,oq_,.3s1N\]:9=&SMDc[BBNI8VnQV3Wc&buJD^DihJKO2KbQ!je3$M$fLk&c;J:=1hp9/m/<5WOO[E#Q#Ep.5>M`$<,2!5)cP'%GhaJs&1(U3O6CV;\b>dt4?>NimC0F6)8,k!sA$/lT&a3EjC`L'+`Sq)kNGn3.=66U/HHQjRbb-fTMVFO/97X&X5dRm'Kk.g%SV5&Y3DDCKWud/m=r-s!-=)p]h\B[,9P<MmK*:9[DNhVpgAR(%q!G>OEe?@a_b(MAu-DtA8@fBM&b7t$!IQ!jsN!HWf?!-o/h@6t"9Hi^Fp!R6_2TKo;<&3qiP*E20V`]8?t7u)51(HF&qhjFIaimApR]t>m'RM7,WU>\=p??Ih=^_)q;-#H1S`S912]8G!9p!^G$P2!aoXX[/_q*T6,Dh&gI5`$W1*\%a9Jl52r;<:WE/p$^lnO#<286q/X`7;J+_Yc2XI%TMO(rFr,H(ZK<\S/_GPMU2lR>obZ:r@TEH-`:Q6jX"[.3'hOA,uEcA6/%E<5NrO_hOnWpDmt7[Si[)KiD]^<+i(-AYgYM:YMY:["kIqeJVCJQR8?1inp^WOY!9La1S>aXRZ&]"OHdg_agdGnr&8XB2:Jd(ml*gq>W]Y,baC@CmKtm:f>fXJ@LXp6!'!O35.<e_TANqE_g4%O+GBp'9O$;M`W:"=mQ"SQ/G`Kr07QU.GtraJ%[+]\F\U5=#Gq\GL9S]^9rrX>0m\Y=B;g1fX`^F`VDr@&G+98\ZVY'c?`#Z^)8Br&'$R[%sQUmA>g+s\=2C0FCrfF_lMmdCp1%EbCf->C7*dpJo'Q\kGpe8L)]lm2]SaUe`=OeqgCSMXo`KHRTK5=Q\iE&LWVpg$'G#se,<l*0p)]F>D^k7gL'iA?t;:(nR6`fnl9]+CXZSQ\g9FGdIih,mQ&!A:^62E*`&-AX?Y3PVbuG[]#r7`omCss]D_&XD%<r3QR!mP*]pm@*P)RK-M[9gq7USu:[QsI+,4"Wm&9Y]@#ooC^%1aqP.T+b<m]%NO_i:MQO[qGWN5f$Anu<GhH4B/1RZP@bV[Q@%<eg+]t'cZ%eJQ\&$p;H"V/&NTls<H1L/1pOYU5Of>6$KT&NKcf=[_,bk5d5d&-BX*c/#uXMrf!A,G"g@buBR:U_Yqh3O$^0H`U(52827DsP\rgRNSmZ$*q5Z#0L8G'/6!:4c!Z%;u-`[H/^@OnTDhSsg(>5/8L\fQBEZ[n\Wa/6SI0VEIrSGaQ',^-)K=,i7Na+5ua!TNpB'@fAmrKRE/LQ(sr^B]8]pn2d1AK[j]sp^Kr-e-#600g@_8''8M/ogO^7?Bpo0.m<?1r.N"&!Mq'rTJR."P!Mn(kH$']%03utU>?_;Oe+:68beh$bE1/H;Xn^>Tp:`&!NY&WEF(tS3IjnQ?<.uYLtM"A$-p]5T=#&SblYJPE6,ia`ZL,J:)=jTbrDif/+#:MchD2RMh%H+MKT_f9#?\t?O[nm`l/*b;RV6V:\$WNK\NZS"=4s6#n8Ce7:]f1.\a819Jm8'=TEAj4=#\'Vr:.)'bhp&bR)MU;4j*B5KjH8U7`ZTXW#0;"e0QEJu'R>g9:%U'9LV&AaM.X9(>j8lHSF\5Lr/?n"@&2<bWr:Uj^Z`=daT_'2%*k@`_Q-%T]eBZ7epIE8[-`qtU5>]T&K)qJ-jXaF`h9URUue_6:;jfB[,C3nhdV!+OOaZ@_Z)I<+9tJ34XW:K[=YSGDu2ed7>Z:]9_ek`S'"jL_Gk._dN*=&=/'HnH$la=2ZA-TI8U66MS:d>_NHe?p8qK,?$;MC@FD%@QutiGB,Zo1Y)mQ`/+N_-!-$ouDn(iD13#@7=]mM^=)QO(=Oc1pq&/']1*beeZR<#H;m``s.Lq^SH;V]G!nUQ9[!FA\BV;kasVr:M=K('i@$g0*H!MrX(t+k*1`5<ko3<h#^.22PqduJ:+2*-R<&U:N]O)dkgNf$XL"0R0`8=-Aa^?(WU>Z&p,**&Z#j>*F-$5MU;+;fX_&:HmT./#m/jO!Nb4##"`c*Z5C$`rhF.u73T&F#]>7.O;p%N\/.UVrWD3>agV~>endstream
+endobj
+35 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 587
+>>
+stream
+Gau1)mq\FI*6-mn?h&P%gmC<8&iG:sp8_]q%_A6Y<u@@&lDBD2Eg?Oj(\OrCN\X8$L^E,sH(O2/&4GqPdo^\lmrJc\&YL!3)aGYkOK[VA^A>N(.+p#Q+??M.1dW`ZnF*HZE<A7lN[#/^N21tq&0[K?a?/lTntt6\[gT_,g?rB$GU^"NNKCSGd_L!qUp/s(Vb=aR%<3(0IRO,OccRQ;"Q5W.s+L=#R,tAAH#u_hB,EE-.A_Sg`*Bpb"M/B-VANgnoi-p1eRhZ[i76EPk"Q[&_[r&BeBSLhTt4'X_1XF^;maD31a@"/V;Xif/,qu]FXrEcP?^_fPD(F`J_Qpm[l+139J<o!E\=q0)!c+Bk4V:/WPquW.tcQ!m9=;=G=CoE&FGlDB%"@/o@-lbL'W_*/\2Apms<hinum<!nh:s*m`7Ng!D6/77?`-!^Q,Kb(nP5&GePmW9^f"<8U/k)(SqA1D7po9@EVtfp*,$]'<g^]:-gAnNn;9#G?nT]IY;R(rguK>cmLU$E:*)#g;0X7Q/lfXLbrYqlo?1r\c;ci-URUPD]9!al:3(YP06]N>BY;s!]7eB"CUm--;?KQ~>endstream
 endobj
 xref
-0 29
+0 36
 0000000000 65535 f 
 0000000061 00000 n 
 0000000123 00000 n 
@@ -210,27 +260,34 @@ xref
 0000003143 00000 n 
 0000003451 00000 n 
 0000003759 00000 n 
-0000004014 00000 n 
-0000004130 00000 n 
-0000004439 00000 n 
-0000004748 00000 n 
-0000005008 00000 n 
-0000005214 00000 n 
-0000005284 00000 n 
-0000005565 00000 n 
-0000005640 00000 n 
-0000008073 00000 n 
-0000010127 00000 n 
+0000004454 00000 n 
+0000005149 00000 n 
+0000005844 00000 n 
+0000006539 00000 n 
+0000007234 00000 n 
+0000007929 00000 n 
+0000008624 00000 n 
+0000008879 00000 n 
+0000008995 00000 n 
+0000009293 00000 n 
+0000009602 00000 n 
+0000009911 00000 n 
+0000010143 00000 n 
+0000010213 00000 n 
+0000010494 00000 n 
+0000010569 00000 n 
+0000013000 00000 n 
+0000015597 00000 n 
 trailer
 <<
 /ID 
-[<d54861419a1700cf20f8b64d1409ea04><d54861419a1700cf20f8b64d1409ea04>]
+[<dd8d6ae2bed2b2cd4d9cfafbb0eff81e><dd8d6ae2bed2b2cd4d9cfafbb0eff81e>]
 % ReportLab generated PDF document -- digest (opensource)
 
-/Info 24 0 R
-/Root 23 0 R
-/Size 29
+/Info 31 0 R
+/Root 30 0 R
+/Size 36
 >>
 startxref
-10444
+16275
 %%EOF
