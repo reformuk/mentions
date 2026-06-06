@@ -28,34 +28,48 @@ endobj
 6 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.bbc.com/sport/football/articles/clypyk2e7vyo?at_medium=RSS&at_campaign=rss)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 594.3969 435.3289 605.1969 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.mirror.co.uk/news/uk-news/nigel-farage-home-christopher-harborne-37257878)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 581.0719 423.8089 593.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 7 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://www.dailymail.com/sport/football/article-15879221/west-ham-david-sullivan-resigns.html?ns_mchannel=rss&ito=1490&ns_campaign=1490)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 472.3969 531.5839 483.1969 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 458.3969 531.5839 469.1969 ] /Subtype /Link /Type /Annot
 >>
 endobj
 8 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://www.dailymail.com/sport/football/article-15879221/west-ham-david-sullivan-resigns.html?ns_mchannel=rss&ito=1490&ns_campaign=1490)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 460.3969 172.7629 471.1969 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 446.3969 172.7629 457.1969 ] /Subtype /Link /Type /Annot
 >>
 endobj
 9 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.ft.com/content/c88c02dc-ace1-49fc-af71-e828d9f6794f)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 367.0719 330.3259 379.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.mirror.co.uk/sport/football/news/west-ham-david-sullivan-accusations-37258597)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 325.0719 429.3079 337.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 10 0 obj
 <<
-/Annots [ 6 0 R 7 0 R 8 0 R 9 0 R ] /Contents 14 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 13 0 R /Resources <<
+/A <<
+/S /URI /Type /Action /URI (https://www.mirror.co.uk/news/politics/reform-deletes-post-burnham-legal-37258464)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 217.0719 396.7909 229.0719 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.mirror.co.uk/news/uk-news/david-sullivan-west-ham-bbc-37257680)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 95.07185 378.2779 107.0719 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/Annots [ 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R ] /Contents 20 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 19 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -63,31 +77,69 @@ endobj
 >> /Type /Page
 >>
 endobj
-11 0 obj
-<<
-/PageMode /UseNone /Pages 13 0 R /Type /Catalog
->>
-endobj
-12 0 obj
-<<
-/Author (\(anonymous\)) /CreationDate (D:20260606152011+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260606152011+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
->>
-endobj
 13 0 obj
 <<
-/Count 1 /Kids [ 10 0 R ] /Type /Pages
+/A <<
+/S /URI /Type /Action /URI (https://www.independent.co.uk/news/uk/politics/andy-burnham-reform-stanley-chow-b2991054.html)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 695.0719 458.3419 707.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 14 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1396
+/A <<
+/S /URI /Type /Action /URI (https://www.bbc.com/sport/football/articles/clypyk2e7vyo?at_medium=RSS&at_campaign=rss)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 586.3969 435.3289 597.1969 ] /Subtype /Link /Type /Annot
+>>
+endobj
+15 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.ft.com/content/c88c02dc-ace1-49fc-af71-e828d9f6794f)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 493.0719 330.3259 505.0719 ] /Subtype /Link /Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/Annots [ 13 0 R 14 0 R 15 0 R ] /Contents 21 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 19 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+17 0 obj
+<<
+/PageMode /UseNone /Pages 19 0 R /Type /Catalog
+>>
+endobj
+18 0 obj
+<<
+/Author (\(anonymous\)) /CreationDate (D:20260606165010+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260606165010+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+>>
+endobj
+19 0 obj
+<<
+/Count 2 /Kids [ 12 0 R 16 0 R ] /Type /Pages
+>>
+endobj
+20 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2036
 >>
 stream
-Gatm:gMZ%0&:Ml+%/S?D[ZN/aOt7IV(/6_Z0:Tp=;:1.nYb3Gfi`6[lP)A55mnahPG&BXOY[Q3+MK@q(3C=BtnO;/-<W\d=0Y8Sq4@h4MrmZ_a"'d*!s.&_Da9LX<f`+/F>S;epNj!27D]o#HF54n1_Ze9S8qKJ38I:UT<"rQHiL*Xkr:rEZItDHB)'LL>G93p$V5@*=h4B5]HD0BQG8L'Cf,Vk98A7F]K>m?c+rmnBhDC2)R(snJ9G(!XQ!r<^_hZ$4n1BmXV$Efubk#XZ00qZjqK,nZ5:odc]oOt)]?D;K;4IB=='SV?e#05oiK==_2n<UdXSM48XAW3W^$Spi6V.a1q*:Qg']XKGhI6V$6?]#o>S'B@X(6N^8b8L%g6-n7$IBfZf5ZK&I[\<ZlLo%.F)?p<#Y[FSTDs9LIrT>`(L"[W.4PENVa?ZUK(nn'+K%q2L^3jW%BhXbE`3"`$s2qqKf7=`$/'D[-Z:+Dg.3M,/V"T??dk,M#lWAslBUQ,L%Jnaf1uDdrEE4.IE2AS!EfU=>[8^%'(<6uLd!>ns7dh"ptKd5FA#C]Wcc?YVIXD?J6H\r)$$[tq5%'uWDK*.?Q_-Y3<rSA/(b,kK.'Ba$C!F;/Aj>4+d;@UVK;)6Am97]TnZJUF@-cbp(:l\X4/c#RoP$qBJEo!n(+X9O.%ol5CK*5+J(g<gq4rY)i0CWhFPgoDG71!Ze8rsRBBS,b%*N][8^b(8SM32Bh"@"XPeEEMJ^'*gZ+3IXaEX`(X#ELT&&2YFu[8*/f8$(XJo<'B1e63>Hh5Bm,#O-[^o3MNf0)]-4s"LbtBBVm:7d<_q'*_Coa%`gL%-JhHG=I)UW8Qo!B6[#Nil?m.!oRCOo/iK4-RGduIhTEAD16d/4SUc;6(GO[Zk=H5$hF@g/[=!@(HCYYpX]N,$gGHN^8'r0qsk=O+T+Y5-HkY5<N[5DoKEMg)Nm2u.L\%?jeH5s/\Z]8l8R93f6:'Ohd@AP0&n9VFNgp?YL/b"RH#Da@>r.b45*kJ1MqL0;+F+9]KiWbfh$Y&L4KKgW9[)'@g;5Brcl@'j&IV#60_*>1buf^m1#K>]f2/Y1D^l0+^77raMHe^N<<`Oe`l.?XD*il03QK;jQem?a-T1ZHIC5o=OrH%$QWR>!e"5J:I;K"XMTJ%cU3XdHni,bjAr*YQshJhr_Y;g^4'j-ITn&r)9]p>_Z4J);DJ3_/@9&b'h!^V(55\DPMEY.o)7V&ta[/a(OF`8iWB8$V1[>Z-7dU:*U>2V(TRkKr'a@uV\d6G[B9gN0H^7A3qo;"GA0<GS+#\/JDrj<NT;a%mGj&)-tb[1e#PK*0Y:VNj5(d%F0I/;fh\V9GWl'??.ir0Apj_]pg,j"+HRIPq7q+7Dc5:AtET#":?~>endstream
+Gau0Cmr-r=&H/38i]_5I)VOt$=U'bW8^jhH>-s:$%9SL=Q=u296u!t^_uK[qP[l:^'!"Bc(`"Z#ipkiOpPp<)q!Zo)Zii?m^uVm.Se$_oGi:W8`?eb?:B!7f7qQ?U),K#aj2gnVW<\2[\MatCmFq_jP8d8,#k7+JE<M147^!(J[d]-VKIl*RDt*/s]VA^f_%g5P3;\Ts>%V;l$GPh%*S5\-OUkts_0ZBEYH[fD`:4EalrKVPj([L#*lLo<`b6"?)%O9%phjIlKI2r*CEG[N1Z(,1HRuNcMr)4Mhd7-BCd*V):Nn<J@*e2^D^_NHBU[blHS:tG&R:ALC+1Vn\J..>r;'QKap^n:e!tUNM-?cUc,#GG"RUKHT^SF*SOH&boU@E949!ka]dsLe9e=?FQptD#R6,=G#aOdM/T.^oUl,@FIl1AUa.sF?$bU+f>/4ntOXkV2d>uO@5s]CVb+\c^m>"!o\i9"%=Ak=E:lu1F]V4>N8g#XDhe$=s_O@S`XJ@6fQ.nn=d+_M*hX,0%SkGrfW,d:H(F#24E]RUgJN&gp@Cu1J?R3cCZK]u0>Gcp0SHo-VnDLj8J&bWNP2e<3Yd^I&^\#L;kEhgEhYqsYmtmm6,bsqapO*4&'#cU5Q(b8.>KDXfJ11_$iOrIV3BdXN'!BIM`+TPrf4"t4^;rqNf<hW4,][[,%(Rc8UnXptW[VbOcCkeb=Or9cVMf(`@$XQ].L>3rY;)TX^&glE.4GI/&gmpO*7cq_Je!s^,19GN>jG#,-^2ee1G16ma/Kp-2\SqFC/WqKp<!h'SX&<6A+noXHdXm!9,]16r@"8VZN9SkK?*'mq8q[.Ea10?M)W>X[!>>UR1WSY?b!<1$bSeT@BHPfK&%%LT.[;'^3P23R,pQ2d`DG$^'`(3DNHR*A;ZWubnq3VTW8f%FXsYcBoT+W2X?es7\[n2h+?/H?qF5V.oIdA$5lR#CW[5X#,E[2RPa`3F*r^5MYtqR$=-P38jTbI.,D'1O(7GrEo=PDl1QD@ci%C7]RB3o6R3PhdBG+aI?U<Elk]('F)m?dUHm>X$3sFV3<b-me[2?89JWk=BpL`.@j&]eKK#04M5EU_jh%Rh/!B09ESmL";^&!^-#2mdR_$)a:Cm_l;JDDaj8)67Js4'MQAu4.'0_A9D(Z_am_mcbpoZgL:jJe>]]dI0#ee/I-U_^8(=_lK=e&k+RVWO;P\0/j##@asGWM!;[cV=pla$;RX1q:1So\)JOK&=toL!\.D,IVF^@9"X]ebV.VPL:!^2-%/3!qfCh`DuP#1D_6RI41R1m+^dSgc(e;PjslI2u.ceMFVG;@TV,O1)^C9rX=-h=7I7NPY/oio:Ki@)MVrB+?fC+<9%/I&kP>ZtQk&9!g#"[_aFZMLq9Hg+/aab=5bT1I=I\'WZXg)T\8P=$T8%ej^c$;[7<B2Gu1Y9V(joH<IJZZ!/47=sGMbW"jC\Jo;<TKn3ZZA1Iap6X%(:&"_EH&#<qloc\UD1p'ca"7)j@Cj-*%m)G)ZbFc`aE?P03AaTAlN1+>_MkNrcX0'qu]eQL4ag3Rh@:temnnaIe?q)FgqY4[l0^s`fnJ`PhU_H$!ri8pLa_#<L2TD#JF_XZ>9D"XHW:;f$oY8h-(N^&J\_)F,1X>6/rCmZ'&^tqJa&>iP-!TONhmno+/1o8JN26/i8DUWn.;9NKIB(*.Enf(sUESBMEl=dd!oDX_,/u?7Y$IZ_0b^eUG"`!jp/WrF=F3RU;Vc`hYduth",`RVk\FoW/a]'oF,o4LZYVV`=EZQ2$)cbP=M<dO%scX%ntECro<*@9n:>O@&X:5(0!N6/UiB4>HOeQo8SpcLV*1l]M]K=V4iM=>(?(If;DaI(Zl]h/Rcb\U5X'.G4)Y\d\UgHb2',`>/OIGq'[U1Y`gkjY(3\UT93U6U$\f)k?jkFpU<CAZ?(?fkqnC98*;8gE8AZKfZLgDFN9`42D`SEb-l.eTCC2<F>M)K_f9tjUhSTUF[M[8`s63@(?p$M<=t\:d,WD8'87NY.KD]rq-iX5gGZMu~>endstream
+endobj
+21 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1190
+>>
+stream
+Gatm9?'!_u&:D6"Z04R8(2$4'ojJ^DME:"0BmW8eX6;ok-tnLDR$1(+Us@?%mo$II46KKL5p8V&7#F&f40p1Di'iA^CB2pGpbr=H#^H_%nfl/)Kcfld^TS,'9/huYal0oL#:)qJS<&!Z4s5X:(V!BT,q1Ba,]O_ihSAJ8'm1&UGc>ceJ,BAWDrI!T/!Mm[+iMnMC-,_JrYiWr9]gp'NAGM;N^NRNj<#QFf&?BE&K[\nTpK:u7NbE7&(+pTfpDb"AK*W4AB<'2$%W43X^J[2%VG1eaF^l@DpmK*JuEsi*]SO#M]UH?Q5+7e>"dO3d)#c7/_<7q'uk\._pCZnGI.Rs>ZP5_c)H,CqK^lDA)'RRcQqH+6jMpc.PkW%)N^be4#q6a,[N(N<P3u,Dt=9d$+Un?/B>imC#h3qh&38m<>mc]b*r(oW`&]r%<UKKN<Id&#VV8G%\9DdXcsS*?Z_$T.\RIZ7,s/?'sq.%b&X0GLjXrh&W.3hMl%(JN/"^N#gdO#n?^:e-J@B0`H/9gYW-6^%1.bVJsEaG=o&&G^\>[]lL:23\pIfT^%$)Y<@t:[`ht5Iq0&"D>Rpn)Rus$t6XJp00Zuuu7p]brH33Lk4lLj=6(ED'f[oFjGOQt=(4JS5IoJa<?kjEfTb:\\#>r:6X)%6UO2gbA5b[oBT_90(p6jlCW6U>403fYt$%b2-]:'7q1)&)@V#QqVUK'u790W^uT;-=(r/j57$%F=?:qVg[<lj+<:l,N#1u0W+L)*&!3PQsV."pa,3<q.oXMO1>$[Z;41df.g6.#kK/9/qV$"&Zc='-K%[cLa\6OP`oSn``07l3u;DF*#oCTPO+!@JE.3gJrn+s$FP/i+:s5MK`S,E;[_g$*1\ViKJK)*4be9rkYo9;Utj+o/:+ZC2`)eU?30LHL"KeT]OBj]Lc9QgZi%&a.d+J2<-B/JUAC;O[u=Mj*MBD&#Ro<'c77"o8-e81L#m$fhBddiILOOrW`Kjr2P[a#o-b(7'hT#$<XS_=]cd@201.OuL)?D\E`i-f_jMS01u=_(*U))(,n@#<k4)IM4eL_[Y/K\Ar*R<Gbg4,TiSe/P;\VA(2O&:=@d&CGW2K[\@0/hJiq5)RddhQf1Eeq%<?)rP,^l=IG<fNrYe(QRiCM2Q)LtH'FThY>!'.0>h@`Pt@E5jTK+.r()]aoadVYN/d~>endstream
 endobj
 xref
-0 15
+0 22
 0000000000 65535 f 
 0000000061 00000 n 
 0000000122 00000 n 
@@ -95,24 +147,31 @@ xref
 0000000341 00000 n 
 0000000460 00000 n 
 0000000575 00000 n 
-0000000813 00000 n 
-0000001101 00000 n 
-0000001389 00000 n 
-0000001604 00000 n 
-0000001846 00000 n 
-0000001916 00000 n 
-0000002197 00000 n 
-0000002258 00000 n 
+0000000812 00000 n 
+0000001100 00000 n 
+0000001388 00000 n 
+0000001629 00000 n 
+0000001863 00000 n 
+0000002090 00000 n 
+0000002346 00000 n 
+0000002592 00000 n 
+0000002831 00000 n 
+0000003047 00000 n 
+0000003286 00000 n 
+0000003356 00000 n 
+0000003637 00000 n 
+0000003705 00000 n 
+0000005833 00000 n 
 trailer
 <<
 /ID 
-[<3f0bb74506ecf75167e3c31509efe553><3f0bb74506ecf75167e3c31509efe553>]
+[<786186aa6fd66154bce42005d3cc71d1><786186aa6fd66154bce42005d3cc71d1>]
 % ReportLab generated PDF document -- digest (opensource)
 
-/Info 12 0 R
-/Root 11 0 R
-/Size 15
+/Info 18 0 R
+/Root 17 0 R
+/Size 22
 >>
 startxref
-3746
+7115
 %%EOF
