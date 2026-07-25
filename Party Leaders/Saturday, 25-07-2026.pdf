@@ -2,7 +2,7 @@
 %“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 5 0 R
+/F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 11 0 R
 >>
 endobj
 2 0 obj
@@ -22,54 +22,54 @@ endobj
 endobj
 5 0 obj
 <<
-/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
+/A <<
+/S /URI /Type /Action /URI (https://www.theguardian.com/commentisfree/2026/jul/25/warning-australian-politicians-are-importing-the-british-rights-visions-of-doom)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 571.0719 531.8269 583.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 6 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.dailymail.com/money/markets/article-16003135/older-workers-new-starters-junior-roles-good-jobs.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 518.3969 528.8029 529.1969 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.theguardian.com/commentisfree/2026/jul/25/warning-australian-politicians-are-importing-the-british-rights-visions-of-doom)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 559.0719 126.2059 571.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 7 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://www.dailymail.com/money/markets/article-16003135/older-workers-new-starters-junior-roles-good-jobs.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 506.3969 254.0419 517.1969 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 416.3969 528.8029 427.1969 ] /Subtype /Link /Type /Annot
 >>
 endobj
 8 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.dailymail.com/debate/article-16003651/Kemi-Badenoch-Tory-stop-gap-Prime-Minister-ROSS-CLARK.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 364.3969 531.3139 375.1969 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.dailymail.com/money/markets/article-16003135/older-workers-new-starters-junior-roles-good-jobs.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 404.3969 254.0419 415.1969 ] /Subtype /Link /Type /Annot
 >>
 endobj
 9 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://www.dailymail.com/debate/article-16003651/Kemi-Badenoch-Tory-stop-gap-Prime-Minister-ROSS-CLARK.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 352.3969 266.0479 363.1969 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 262.3969 531.3139 273.1969 ] /Subtype /Link /Type /Annot
 >>
 endobj
 10 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.dailymail.com/tvshowbiz/article-15993987/curse-Omen-lightning-accidents-tragedies-devil-50th-anniversary.html?ns_mchannel=rss&ito=1490&ns_campaign=1490)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 158.3969 531.3319 169.1969 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.dailymail.com/debate/article-16003651/Kemi-Badenoch-Tory-stop-gap-Prime-Minister-ROSS-CLARK.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 250.3969 266.0479 261.1969 ] /Subtype /Link /Type /Annot
 >>
 endobj
 11 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://www.dailymail.com/tvshowbiz/article-15993987/curse-Omen-lightning-accidents-tragedies-devil-50th-anniversary.html?ns_mchannel=rss&ito=1490&ns_campaign=1490)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 146.3969 291.0499 157.1969 ] /Subtype /Link /Type /Annot
+/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
 >>
 endobj
 12 0 obj
 <<
-/Annots [ 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R ] /Contents 24 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 23 0 R /Resources <<
+/Annots [ 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R ] /Contents 30 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 29 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -80,55 +80,76 @@ endobj
 13 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.mirror.co.uk/news/politics/donald-trumps-wild-week-tariffs-37474835)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 677.0719 383.2729 689.0719 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.dailymail.com/news/article-16004493/Man-woman-best-friends-work-discover-long-lost-brother-sister.html?ns_mchannel=rss&ito=1490&ns_campaign=1490)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 768.3969 532.2949 779.1969 ] /Subtype /Link /Type /Annot
 >>
 endobj
 14 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.dailymail.com/news/article-16004293/Donald-Trump-kaitlan-collins-cnn-dylan-mulvaney-white-house.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 584.3969 530.8099 595.1969 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.dailymail.com/news/article-16004493/Man-woman-best-friends-work-discover-long-lost-brother-sister.html?ns_mchannel=rss&ito=1490&ns_campaign=1490)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 756.3969 264.0499 767.1969 ] /Subtype /Link /Type /Annot
 >>
 endobj
 15 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.dailymail.com/news/article-16004293/Donald-Trump-kaitlan-collins-cnn-dylan-mulvaney-white-house.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 572.3969 264.0499 583.1969 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.dailymail.com/tvshowbiz/article-15993987/curse-Omen-lightning-accidents-tragedies-devil-50th-anniversary.html?ns_mchannel=rss&ito=1490&ns_campaign=1490)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 650.3969 531.3319 661.1969 ] /Subtype /Link /Type /Annot
 >>
 endobj
 16 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.dailymail.com/news/article-16004075/Donald-Trumps-Barron-alleged-links-Andrew-Tate.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 466.3969 532.3219 477.1969 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.dailymail.com/tvshowbiz/article-15993987/curse-Omen-lightning-accidents-tragedies-devil-50th-anniversary.html?ns_mchannel=rss&ito=1490&ns_campaign=1490)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 638.3969 291.0499 649.1969 ] /Subtype /Link /Type /Annot
 >>
 endobj
 17 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.dailymail.com/news/article-16004075/Donald-Trumps-Barron-alleged-links-Andrew-Tate.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 454.3969 212.5249 465.1969 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.mirror.co.uk/news/politics/7-jaw-dropping-moments-donald-37475485)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 445.0719 387.7909 457.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 18 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.dailymail.com/news/article-16003849/Trump-warns-bad-China-Russia-arm-Iran.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 362.3969 528.0559 373.1969 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.mirror.co.uk/news/politics/donald-trumps-wild-week-tariffs-37474835)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 353.0719 383.2729 365.0719 ] /Subtype /Link /Type /Annot
 >>
 endobj
 19 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.dailymail.com/news/article-16003849/Trump-warns-bad-China-Russia-arm-Iran.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
->> /Border [ 0 0 0 ] /Rect [ 62.69291 350.3969 182.2669 361.1969 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.dailymail.com/news/article-16004293/Donald-Trump-kaitlan-collins-cnn-dylan-mulvaney-white-house.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 260.3969 530.8099 271.1969 ] /Subtype /Link /Type /Annot
 >>
 endobj
 20 0 obj
 <<
-/Annots [ 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R ] /Contents 25 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 23 0 R /Resources <<
+/A <<
+/S /URI /Type /Action /URI (https://www.dailymail.com/news/article-16004293/Donald-Trump-kaitlan-collins-cnn-dylan-mulvaney-white-house.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 248.3969 264.0499 259.1969 ] /Subtype /Link /Type /Annot
+>>
+endobj
+21 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.dailymail.com/news/article-16004075/Donald-Trumps-Barron-alleged-links-Andrew-Tate.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 142.3969 532.3219 153.1969 ] /Subtype /Link /Type /Annot
+>>
+endobj
+22 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.dailymail.com/news/article-16004075/Donald-Trumps-Barron-alleged-links-Andrew-Tate.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 130.3969 212.5249 141.1969 ] /Subtype /Link /Type /Annot
+>>
+endobj
+23 0 obj
+<<
+/Annots [ 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R ] /Contents 31 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 29 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -136,74 +157,112 @@ endobj
 >> /Type /Page
 >>
 endobj
-21 0 obj
-<<
-/PageMode /UseNone /Pages 23 0 R /Type /Catalog
->>
-endobj
-22 0 obj
-<<
-/Author (\(anonymous\)) /CreationDate (D:20260725090225+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260725090225+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
->>
-endobj
-23 0 obj
-<<
-/Count 2 /Kids [ 12 0 R 20 0 R ] /Type /Pages
->>
-endobj
 24 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1712
+/A <<
+/S /URI /Type /Action /URI (https://www.dailymail.com/news/article-16003849/Trump-warns-bad-China-Russia-arm-Iran.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 734.3969 528.0559 745.1969 ] /Subtype /Link /Type /Annot
 >>
-stream
-Gau`SgN)%,&:O:Slr35WVF9o'C*qDd'0C>Gk@1K1T#j5C,U+B4'`cLY?f)$cX2hY.Stq3!U(!,iloA_)/d_=J6el<\".W+oGYWbl0UVru"qaN]iG<Q,pX*_gA2ge[Z<A?g504E=pTJ=L+!@W!*r=8,aeBKdB],(6NF>`&nJfWO-2dEW5#GmWE62e0P_L\8%$s;uD31Q46VX<_\ibPZ%hd2a]cc`d51)@mncC.F@IfmNb@`s!3ar_0^`Xk``p!J!P[SaFmCVca_taksisa69+>18KYfRnHhHo,q6i5P3BS<\gIm87`%H!jCEoGn2_%\c.GSgKH)ojD_*hP;^0%fYkMF*3T(EG=](hmXe2)T[$3[E>?4hd&<b*a:q)2E9(Z?VSN_`+CM6$u7j?jJ%EAE=I%^uqeNF/k>B*X@N4a&rE\!V(Bng]g%O6:/B:Q&u>!f]=/_U[UPJ!I8;Vmho2GA#QDq3dd$6FBHRa3H\E<])[5[:q4kEp!)cG-B\6.6%CCAVIInm;hAC/BKV2Uh#^q&_==71L&.J]FL,(W3QN)^V(CQ*S8'Gda3A49!iK"F_nD&LcG[AiU&`1#(p/,68t>7u9'H8jrTjE8_f`\]96[j_YOE4K"3^E@C\>7mc4rRK"o#1!>VSMUNeot18+?4edc6R#r-_,/MS\,3Mg8+j:!!l!5Tf)Q2sQDT=&^=69;XERQGB.`_Z"Giqft49mkEWqcu#dC*1+YroQW?3gNHCq7V_i<jK]iX;R#8eVMKoQ6VNs3(%XuUq]Q:+TsR(1/"f!m``j\JFf9Np(!hKi=V(e6WN/7:9?&9\^XRO#Kj`G(V*"&bs3b2+rfY`V62=cu,Z3^mD/pl1Mbh2&NO#Hf+\I&[lQ`Q/F/6*L6KVj?PCu*cpL-KsJ.t"2Bussn)K:73e/F$t<(k`9>^1>$(r0iqhuXq+Kdj&^ap<*'D54+M!O/&dIfD.l8b&7c'c5ZjCCJf:Df.IBI!thUqL+EH8Gof1+E@q!QOSTmnn;#_X?2*ELp)*/TU->n7/*NHbmgCC%C@DpYXc>NJlOA2rVn`5/Z.s7iV6sF`Xq&050,fd:[pMY&0X>T,'PTRg'1SU!P`db\""Y=h(Ph:'5/+>kTZ<GE'3eIL+n&rK'+%>_6>/hI7Hh;1:5,ICLfOX:2_^Zc\]qOMpAXhG[1gC$<p.gJ,&Q:&;CF%-1nZZ]#$O3$Fje1*e/J1+@5^"Au/mW?rdVtkKZ\4"h_[_l'$J`loF;Kq]f'f`ZT2aB"$/`Y^en](h<<Bi`KR)G&;(1s2O[;!i>Q&BV':0Va9pmL-)/Rp,7)s/SocW2*Q-ngVKrG9Y8>*e]'aMZ'k7d<j+(*`j!Edi7H,>!>^Js[)7I,ca.+I.@%c()6[erd4V<iKgB5#`gHn)NddZY<II^8J'@]\WiP6@n`$SX)K38G?@7b&P;.s_GG"XnC5esL%jVC]f.q"VXeB;cI;'!DjX:_$'VoE9AC9IOW..](0qC'G8rE$sATK?&BBN6&B;CV>WAV+[.!Z9s,fNetd"q>9Q<J+-<Dt#Qj0ebZp'A(?O$er&heqpMm.iDS;mC'KNo1frE3O]4dm-@ZIr[>h\s2THs1@sf36T0TPR_!<Gd^Sa9pKsmZLBcki&Ld"X&*`0d&g*Ej_C62_QEP@q+1sD)PH$($qL6Yc>_BH,N.)R/u1h9R3#jCpMr3Ms(BAIGJ\emJtr>G13KlH~>endstream
 endobj
 25 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1755
+/A <<
+/S /URI /Type /Action /URI (https://www.dailymail.com/news/article-16003849/Trump-warns-bad-China-Russia-arm-Iran.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 722.3969 182.2669 733.1969 ] /Subtype /Link /Type /Annot
+>>
+endobj
+26 0 obj
+<<
+/Annots [ 24 0 R 25 0 R ] /Contents 32 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 29 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+27 0 obj
+<<
+/PageMode /UseNone /Pages 29 0 R /Type /Catalog
+>>
+endobj
+28 0 obj
+<<
+/Author (\(anonymous\)) /CreationDate (D:20260725101708+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260725101708+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+>>
+endobj
+29 0 obj
+<<
+/Count 3 /Kids [ 12 0 R 23 0 R 26 0 R ] /Type /Pages
+>>
+endobj
+30 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1987
 >>
 stream
-GauHK=``=U&:Vs/fV_ba6A_TMcX](n;s/8^-;*"tcZC9B1_GoO"+Y"Vn,%[#Cg$GI[Vhq(Vu]FsnK#6BJ:,"^mQ7P,?7]f2'Mo@h18c69a0^4i5:mt*HaK3/]8=LO\euS;I^#1D["$V=mX\cPHK<-,kou]r'T`28R3f5AB_7IEE_Totd0\9F:%(*c\2JHQV%lT@3XquCqTNcN1U_a)Tc[#mJ*)GV5BF]e3/*E-q3@71\6+2LPhR4V+Z9`F!R7L`(_J?=3_]G,o_%.t#N8@:+pt(Df^<^RA#9j&C?RY%P[n?KD6'-bMg%+l[R]]XkZ@0Pp>&KuE.CBd""eXoe_NEan,&$:<a_Z`r1',tbI#?36^e)m8PEag]]*+jN!*b'ek-=f1Kpo[<iW$[>MGs$5j[HG-h_Q0]kIGW%pd[P(XSmD0'n\cM*2V,(ci[ci2o"fHq>]Q9^$=lG(c#C3sal!,bZSL?MB48>su.f*6dlkGe(YNBhg1ESs,=J$P#j3,q#kudhWE_;/n)\*Y45Bnr.Uc;nuVCQ"kF8a=b\s,5t*d(iI@cRd7XE[`9?W$a/+6$Oa,20ZgSq<HKin9=\)'08*BjEYFVrIfMI7IBi6&nJ9+OCMRuFRC$fmXubFZW>[_Y'++(R[46kFWL<BBn>m#CGYXWt$d@A(dYh`-/=oARJ4Pmf?<bG(8:)O>[bQ!4)7DHan>V)G8tFGiLCYLR/Kh]M9\>M"3`KZ>OA<S2=j?G/aLl?!9Y&/=>3X&4P.legkd0pIlbf%kifB6-Fpl%C'kG4om?/I-_*JXZX5i;l./i*'j>Xgcjs>t+U:CjRdP2K`FftO!TOne;WL;>!Cb'=AM(bP"GQApOk.-!UC-6;\<AK==J@4Y?j[_.%rj^Dkb$K>pfG@p@CUCF%,?=>ml#T3^>+bqY'P@U-&2Gi,bh]$>`s*91l(5].nBc/R?80LQj87e,B#1U[Uao;*6^NIC%<^J[RH(Kf(G&MXL-[s9C!"%rlMGS2LaKfK]hYrkGqViEm=Fk,.D9Qb7]K2L?<[]Y]g<m)N!ijTh,ue'I['!h.P7$P]R6SN&)ZT_rdq\F!=s/sT*=c%^G[OB\f/4#Qg!!UG$g9CUQ-4fgDA3G/ie!!86K*h[]Hlgq%Qdo(uo6]_$UM2_5C5#Yo).F<&(@G?!QLB*BRVbl+,"pD`c&m;%P>M^lm@OAM=E3\dT',Fq>b6o3oX.P5R>ZG#4R(e/#&7L+7uEi5ZWPC#0Q9?%jQG>W9Z!!RQJ0].XkSgZICjY*HGuD0(UMm,AZ;;-pOt3oWtGL$il%SV\)o,M&.:,GC*n,??h#4Q<7#WIP-&jNIWJOKhNHJU6Ff/oZ?Gj5fn\iSfa_c]W(`2I7K$\'_G3C"VaJkW-jK04-a7b16N_QfI;\*;;Bq;JMVC.GhXRZm;#]j$qY@TUEs2??C)a:!d)fCR:6UP("i_-I>`=8RkUB6r&MNHl1hf:Q7)\5ueZ56"M*VRNVGkgkgUbV8ZO(%&8G_lFPJ2mYkb9J!rUZTVmS-3I6#t/^#ZBI@+SUa1[^P>=Fg/K5/qWSKh=(JJ!Ndkksffp>n)V;tn<>]opGVK.*gj"ctGj'+uuiL%.h68%iD6aL`9X0_f(b$mV-5+dikF@2.UZ_h6VrR`C=X?W]CPH;LBg.Eq,>j[!4EPLlE'rp%&^ljr/=kj\002r>/Tkfn#CA,;'g^dk$H$I+2A?lFEIp=f'0>&bI81MDE@m9an7>U/Bc#AcI4FqC<:IffLmE!?~>endstream
+Gau`SD/\/e&H:NnEM'[]Mel6D[Ul*KOu?$AOu>s<lq;k\Q=u257!^+ic+nf+Ng/YXR1ftEMWI9m77h^tgiLd^$2F9ggbCA]:++D<:OiR%R/r.j&POh8D"?l;=6l-6>tB9op%;YXP@Qr:nY_i1#KZc/Tc`q38Ml)SlM2\H`\8k#kT/d($GLqC/#pf#/f;j#dW!<]iDO@!%0f20Tr(^*>oc;j#6W9oH9p>f>gYP6nerj!0_r]aniM0N=r[ZY0LuHXj'`H]8h`;2p>,;BF$<"CSc8KdLl3kkCiG0bgG-@u[%D0&7OXb@a4>kJo*st0BE"D-VPmqVIL$2sj6a<GB9eVff"[:jPN):Y!tFe:84*b5WC_0^5hS2GF<`<$1-NWn*"HG>`1%nCh_5HL!_f$g6QfgT.i7.\5%b&3V[=*j_3+MsSMcSK!q9U\&#oaKo.cb7g*g-D.UXD-DKq&:)Q7,\bCrn"mfJ\/3*!JeF&77US(f%k1b?1\Um*[VUb(JCpdESXH]Z\d>Sr.a2A\^S"-5Yg`tPoO,VGUAQff)`R>p2!kc0J+[s:K@+A$&;<#(EDi$W$l+,;(#^RQ9e1*.I=Pq^jKnHZY4i0DO%G$9sc\lpe!i'Q!'W5r?jbAmd<Els*%iY[TS._&mUJ_KS.2.UN#aON<d>_1%cOc$%Urc/#R;HX=$<`!k$j4>Tpo8M"-9OW?9c8@elZJ"5KalcbsQp(4XT-R"p"4Ps>PYH=9PF]S4$!cT)./6+rXe]D!@G2Xmr14uXToU(ji<UkEVH&1YM)C%6M`J[J&YNcZcI3b/1eT@[eH=ni'N3dt3?.5X7IfN.<;'@fWmpms6ZcS(CK^'hMA0njnZ<&BjR?N&pK3CE5MjG]gmEd:p\T)=pCN\eRV'64Q@8ZaXmYGA@]XLIe\A/BILu8>VRSb"n^cHp/Irlr2RVZ*CV=F\>FqlIm;9/?/hg)H4Bl26fG]n8Ppn'%$^Kt_jkYoiWatD!,LIo'ChL,aCq^\;;kTHAhR42q6eW)^8rY9%6Z0_Td--BjhZA"ei:s!VJ]^_Fk\@@N*7s@OAoNNW"I\8Z==oQlP_sfmgYdH+k(PBT`KlGu*Mb2(%0%jBC0KmK*`9SSZ[Q?U7_@M-IVaAi7_=7k9Y,"@'R".W?'8U-_:$G$2tX5*4J)ZNA.E^XQ>Es("_N5&1tk5%k]I0`h[Xm,I5dO3;UA%PDP:]$,:+C9R?pgU<PP>cK[G2VR\p>\aM@O;'#o?6Jb%AWH&.F2,3(PZGRbJ7K&BcCHFYJ_hh2BW"g5V,Bhj@i`>bWmmN)8UHjK[6V<*="\TgK9`8=_Y7Qt()(7&p?L[Dibd%OX8:kb'B.PiD^RWn6H,VN`i8!"p+81du<8:iX&,M+>%#jc<YgD8Y9/p_J?)>FJ(ehCY=7iHs(X_\[T?3$MeOM?8_\5F:cas@kZnnSZc?Z0g?A:/`DErEO93$eF:A0=LanZ\Jk"N0<BWc2'!#X9Hgk/DqD;ZmZ^QY%O&Ld!]KcC'3R`4JFAJu*WIIu>>*W?k:Upgi?,#^-LK,+#C$i]0I>@=m3$DFoAD%BQ?6IVp!?F,DD`^9"LYiul2JWeen9\3+mFL*1d\JsQg3`ip\m>t#UKUi2Cc>%B`g:9PtAk=FdDV"8C2?5!F@_Lj,,55]Y*#e%=^rYnC`@bn'lT4BS4VWR+AlEDKY3G`?AMhuU7!=-gl<]ZK4p=S##&a\ThAk*)<,ndt7<]\F^*S*rOfYbTbp@$olEOTHTAM$P;S$LPha&?f?0Z,Ln1/pa')E;u?S>\#A`#7/UQD&'Y(s?dX>'hE4%P8qi3lN7,a*$!i*Ci2E&<ItXJgX9$4hZuqmCke%a!(BG'>FY.Rk?[X?dO1:2W5Y=I,(8%Hoo&9.rAoA[tW7R5DQR+N^+&T5e42l4cV]SDuqMO@O^'aC5-TH%8eJs;iJRP<MDP4C[55CKQ)[j$C.u%\<dLkeT?N"3K^lN,Y`@8*U:\N#I"+-g@"h#~>endstream
+endobj
+31 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2371
+>>
+stream
+Gau`T?$"c1'n+E3\5-CICW[nk8sX(43f2<B],N-NXnqSGR1;W:+sIZX!hcsdYO;K_=gHYf=P%8NM%gO)!Si%I\`Y`B&:Yr)RFO]DQ?<*YU*umM5uBC4B_d5Y[!_PiX+'-H%EulArq\S`U\Qa@qql_e-:Ig]-Xed%cBB,?P&V>8Z]pb5NSZEfmHC`<dV#HEN]qEJF)C,u9.Q5`F<+.ioG;+DS[7,i`F1k<_H@GJh8j6;jqN;<b:g7#^"^_+f]@S$BoE5UGsntq*FhT\S?=qAFF3#gDo3UgK0S)F*N^:1CDrJh2J-rX^>3\I\_CkYO)_&^F31oR*.&H(`IhhBL.O.mS6mugCfQJ@'fS$![,<\u\>2&L/ki-[\.0u7fD*/V8h4-*M@mjK4YCSWq6RTKN;b6M5O5C];Y'*7D2]PSrN?#1<dbc1oC1$o9ZU>l0X6q!_0oQ0N_D8oMG35hn"pQo/mO2p,/Og%/m+m@3NK(k"fJHPL6F*#=`X@<F1Lf?X2MTV;TL^5X2Tg_1TIu?4(;>>E[99KP;sB%i^$TiPI]V+Crn61r+)DZ(Z1ioPVH\HP_p:.NRY>pQ/FT=%K*"As/ftX$mA"+@\Imf?U2,'.]m]a&62FBYP:^GMZqSVQ?]JFaGjVS2]ujDF;2.Q`;cP.htQ.jfn[sbXFjc=s!rKFp#pN'-Zf7R/a`Z8P^[9rO*h;tMf?7`BCps5$4!AN3h8D@I%SqAQ\XAa&O7S-6-ED*>HTt(7DQ3%M=aA*MAiVf2WL7_1O[/boS.-a17]X;CF7.Qb*^c$2J$&06V:6*C;NYF+l<?'3'3p:afK5ujD7->FC8G38LUGr')D13!KkRn[f1.Q1MOIlq#o:\P4A&o:BtY*GbCY/&GF,.C:b,Y3lj]MT24ScZZFH[^elDfAP$i6Mr9m0JIb$(&/s=JoUlbAk9]/<+V`E#!;Qk<^sPn-8]Q>f7?_4).9fBI)u<lT@*P"82j;N^YEa3F-$MfD3X0l*Je7VJ`@B@PEgI"^4.W""5r*e!%'H6boKfm,Q/tWD.Nbmapef*Z:K)U0?e@9X[;$U-P-q='(`-B+o[^3@9AS1D*J,0W/45gd,K#$(hkd>Q;lZ,(kRu%\9qu5HlYcs"W6$ldB1()bc<j[KKbsUOd74o8Vo1E_09QTM)@dA.A/_#_mNd7c<ZXbrf'J,Y'm%Y>m'W*I/*3oEeetKbKb]-ZD?\0\;73G>IT/YFqO)%%,o+k8Q,QOkOnt`F[i&U\-\X*$<nGPF-c7s?Ad'>0X@l8l'O:+mB%bb0'$N(^9%K8+"[TP!$0A@=D(gU:[H=W$g=ld.%;JtN=5;&'6_>X//W,&r&C+g,0:_bWj!-QJ<nuDA)KIoW2k;71'I"q\F$9tl;',?X%m#"?P?BY6PDaOu53(jp4F;ZQ>Ch>Wk8WSW/CU=A5VN\;.t-\hf>p_,#XLtlE(",bK%5l"V&K+NCJfB_logm:?^N]T`5s2tLGEX#SNkl+oW_m[.4^^$SBZ#7[VSr`BD\L2.kZc7*7UJ"6QTF[gVh<uN3-'[rKQ=r]+jdBZds(OVYB$2h.I_KJEjeb>'Ss88hRYq8r>N)D*)V-5_+clqCT8U%gYpV?ZobA-TrWSgDi6h!&JR5$[PcuVBctA!DJp"K?NgaqInO,Ge'eNAsD#rji<EQ8d>/f5;HXt\B@NF5nZn)n26ELMd=N&1Sd@c9"1t(p``bo=i\:l^O/+Ns3]H'p#p:cVFudr["oq&o@<F(0&tUbPOWV8jt-1<'P_PBU%GMMo3W%d>Iae<]=tI1qtMA"T5G4]:IQGBKEdWGF!X[G>cbOIc6p^npu>+o?@1T5@ZUMSo%)D2QW24FVDj7dC#PSKFS>G;lh'lmr8k)._e/fT9Ep9Tg?ODa^)IRg:\+'OrjTRiN*a7$D;[]!CcYr.=VnRjP;:4'mRl=(4kQ(;nt8qnP5h?,J'b5\kjG('9Cum84/K2Xe1h'9I089_X'cDJ)4J0tQKSiF552q3210f-\X8A_guOQ/>^P?mW+JqqVEAPX&Y0G?H7a3_[iTQ_'LW<L=Mg,h5'o,9kqY5cfMSqF/qsrWh;NiNC_mG'_JQ9"0na,]>O_0BL<Q.XfMtJ*hWlmqJDHX.qaM`KHi7fN7VV0p_mtQ=&0>/o^ehJFIkN$gGH5d3f"\am^@],Qg/r[AC)<k"ckl1F!!56&j8]b4f[_QLLE-%hDZI&;pi2MeEl8H#koF6&T\F#(@lWrp%QZ!B0';n3n,o`+*g`Yk\ZOb[649RV,i1R@>/A,Fg$!elbZ)=>U1<dZ"T9I=mh["-r`6:/^f8\DetPWiJhCJZ(u`c4>@Un?U20THQ21&d/pptYd]^ki'HA5I3Nt<2/>B+bWP<!l^%s\Ec<8Q~>endstream
+endobj
+32 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 629
+>>
+stream
+Gasal>Ar7='RnB3pmsB^W\=,c:TC;J3`YLAY'&VO9uNn8PCX-5Xo/'Im;uL]XV9+`SHF8+!sFH"A;mVjhD^8:#Y9j8%O@*U1`,r:/:K56b0h*kW1<HVOc[."GWb<"5="AcZQtUS3j4Y,;*p/?5U-hfUqGUFjpNf@[X275g+dI6PtB/a1q69'$J3eqF@Z'Q8<^ChP:B7aWH(S^%,!-f5L@(:>eW4a#K/B?J8%_S'dRgYC8Yq^5op`(V5HUKM50:QCJ2[@f*KYJ.#__@\k"CdNYnk742Eall%g=lS0e>"-jXB8[VB4HDV'MapJ)7LS=(&C%E$FJqGALHjW1i72jc73RC8>QB8BM>0+YVqGE?UAR.4<L`\#CCmE'GW7R_g:n?`_jhgH?riEJMA:`jKrUCA/X\)pC)&&Ss$^1G08W)Y%-CbW-[*H-9?OtoV7AR<E:hMH)/:b>DOU0[P&_^,bqG/eJ>;D#b,9kC]:U44]<GL:<,PcR+"AsW+!S4;nKhGUVTHnA,c?73c4!cHQWjM/)M`Imk32jDMPaIL-UGiY#H.6bp?ZKZ:P]7SB$SkE=f'phD3kGa^-o18\1Pg9k\7_2=Cb.S7?_tUCXI1,iBJ%uiQOTS_`!\r^<Wr~>endstream
 endobj
 xref
-0 26
+0 33
 0000000000 65535 f 
 0000000061 00000 n 
-0000000122 00000 n 
-0000000229 00000 n 
-0000000341 00000 n 
-0000000460 00000 n 
-0000000575 00000 n 
-0000000880 00000 n 
-0000001185 00000 n 
-0000001487 00000 n 
-0000001789 00000 n 
-0000002105 00000 n 
-0000002421 00000 n 
-0000002677 00000 n 
-0000002909 00000 n 
-0000003216 00000 n 
-0000003523 00000 n 
-0000003817 00000 n 
-0000004111 00000 n 
-0000004396 00000 n 
-0000004681 00000 n 
-0000004948 00000 n 
-0000005018 00000 n 
-0000005299 00000 n 
-0000005367 00000 n 
-0000007171 00000 n 
+0000000123 00000 n 
+0000000230 00000 n 
+0000000342 00000 n 
+0000000461 00000 n 
+0000000746 00000 n 
+0000001031 00000 n 
+0000001336 00000 n 
+0000001641 00000 n 
+0000001943 00000 n 
+0000002246 00000 n 
+0000002362 00000 n 
+0000002617 00000 n 
+0000002926 00000 n 
+0000003235 00000 n 
+0000003551 00000 n 
+0000003867 00000 n 
+0000004097 00000 n 
+0000004329 00000 n 
+0000004636 00000 n 
+0000004943 00000 n 
+0000005237 00000 n 
+0000005531 00000 n 
+0000005819 00000 n 
+0000006104 00000 n 
+0000006389 00000 n 
+0000006621 00000 n 
+0000006691 00000 n 
+0000006972 00000 n 
+0000007047 00000 n 
+0000009126 00000 n 
+0000011589 00000 n 
 trailer
 <<
 /ID 
-[<6aa98c8cefe87fe6d3791f22ba285ce7><6aa98c8cefe87fe6d3791f22ba285ce7>]
+[<fde4fa7f0a8c8075f81a9788cf333974><fde4fa7f0a8c8075f81a9788cf333974>]
 % ReportLab generated PDF document -- digest (opensource)
 
-/Info 22 0 R
-/Root 21 0 R
-/Size 26
+/Info 28 0 R
+/Root 27 0 R
+/Size 33
 >>
 startxref
-9018
+12309
 %%EOF
